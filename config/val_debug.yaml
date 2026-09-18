@@ -1,0 +1,43 @@
+data:
+  metadata: data/sabdab_2603/processed/sabdab_2603/metadata.json
+  pdb_dir: data/sabdab_2603/processed/pdb
+  samples_dir: data/sabdab_2603/processed/sabdab_2603/samples
+  train_ids: data/sabdab_2603/processed/split_onetest/train_prot_ids.txt
+  val_ids: data/sabdab_2603/processed/split_onetest/val_prot_ids.txt
+  test_ids: data/sabdab_2603/processed/split_onetest/test_prot_ids.txt
+  train_clusters: data/sabdab_2603/processed/split_onetest/train_prot_cluster.txt
+  batch_size: 1
+  num_workers: 4
+  n_steps: 200
+  forward_chunk_size: 128
+  max_antigen_len: 256  # 384
+
+model:
+  ppi_ckpt: "/root/private_data/luog/codex/IgGM/checkpoints/esm_ppi_650m_ab.pth"
+  design_ckpt: "/root/private_data/luog/codex/IgGM2/outputs/lightning-stage_one-T1/checkpoints/last.ckpt"
+  igso3_buffer: "/root/private_data/luog/codex/IgGM/checkpoints/igso3_buffer.pth"
+
+loss:
+  vio_weight: 0.02
+
+metrics:
+  dockq_threshold: 0.23
+
+wandb:
+  disabled: true         # 禁用 wandb
+
+trainer:
+  accelerator: "cuda"
+  devices: 1
+  strategy: "auto"       # 禁用 DDP
+
+stage_training:
+  stage1_epochs: 0
+  stage2_enable_seq_recovery: true
+  mix_cdr_h3: 4
+  mix_cdr_h1: 2
+  mix_cdr_h2: 2
+  mix_cdr_all: 2
+  lazy_cache_size: 128
+  occupancy_mode: joint_predict
+  

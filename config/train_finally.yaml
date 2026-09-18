@@ -1,0 +1,71 @@
+
+data:
+  metadata: data/sabdab/sabdab/metadata.json
+  pdb_dir: data/sabdab/pdb
+  samples_dir: data/sabdab/sabdab/samples
+  train_ids: data/sabdab/sabdab_file/split/train_prot_ids.txt
+  val_ids: data/sabdab/sabdab_file/split/val_prot_ids.txt
+  test_ids: data/sabdab/sabdab_file/split/test_prot_ids.txt
+  train_clusters: data/sabdab/sabdab_file/split/train_prot_cluster.txt
+  batch_size: 1
+  num_workers: 2
+  n_steps: 200
+  forward_chunk_size: 128
+  max_antigen_len: 256  # 384
+
+
+model:
+  ppi_ckpt: "/root/private_data/luog/codex/IgGM/checkpoints/esm_ppi_650m_ab.pth"
+  design_ckpt: ""
+  igso3_buffer: "/root/private_data/luog/codex/IgGM/checkpoints/igso3_buffer.pth"
+
+optimizer:
+  lr: 5.0e-4
+  weight_decay: 1.0e-2
+  grad_clip: 10.0
+
+scheduler:
+  name: cosine
+  t_max: 4000
+  eta_min: 5.0e-6
+
+loss:
+  vio_weight: 0.02
+
+metrics:
+  dockq_threshold: 0.23
+
+trainer:
+  max_epochs: 50
+  precision: bf16 # bf16-mixed
+  accelerator: gpu
+  devices: [0,1,2,3] 
+  log_every_n_steps: 1
+  accumulate_grad_batches: 8
+  num_sanity_val_steps: 1
+  strategy: ddp
+  ddp_static_graph: false
+  ddp_find_unused_parameters: true
+
+wandb:
+  disabled: false # true or false
+  project: IgGM
+  run_name: Iggm_lightning_training_finally0613
+  entity: "mllm-csu"
+  api_key: "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"
+
+runtime:
+  output_dir: outputs/lightning_training_finally0613
+  seed: 56
+  resume: False
+  run_test: true
+
+stage_training:
+  stage1_epochs: 0
+  stage2_enable_seq_recovery: true
+  mix_cdr_h3: 4
+  mix_cdr_h1: 2
+  mix_cdr_h2: 2
+  mix_cdr_all: 2
+  lazy_cache_size: 128
+  occupancy_mode: joint_predict
