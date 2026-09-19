@@ -3,7 +3,6 @@ __pycache__
 .claude
 .vscode
 zzz_token_file/*
-data/*
 docs/*
 examples/*
 openfold/*

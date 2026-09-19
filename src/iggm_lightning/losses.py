@@ -21,7 +21,7 @@ from IgGM.protein.prot_constants import (
     restype_atom14_to_atom37,
     restype_name_to_atom14_names,
 )
-from openfold.utils.loss import find_structural_violations, violation_loss
+# from openfold.utils.loss import find_structural_violations, violation_loss
 from IgGM.utils.diff_util import so3_log_vector
 
 
@@ -1221,7 +1221,7 @@ class IgGMPaperLoss:
                     # 'fr_igso3_eps': rota_meta['fr_igso3_eps'],
                     # 'fr_rota_is_haar': rota_meta['fr_rota_is_haar'],
                     # 'rota_xt': rota_meta['rota_xt'],
-                }, f'/root/private_data/luog/codex/IgGM2/see/seefile/S0907_100_{ts}.pt')
+                }, f'see/seefile/S0907_100_{ts}.pt')
             self.idx_save += 1
 
             return {

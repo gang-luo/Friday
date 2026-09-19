@@ -1,0 +1,2619 @@
+cluster_0	7omm_D_NA_A
+cluster_1	3j8d_a_A_B 3j8d_d_D_F
+cluster_2	6o8d_H_NA_C
+cluster_3	4hjj_H_NA_A
+cluster_4	5fhx_H_NA_A
+cluster_5	7paa_A_a_F 7paa_B_b_G 7paa_C_c_H 7paa_D_d_I 7paa_E_e_J
+cluster_6	1f3r_b_B_A
+cluster_7	2kh2_B_b_A
+cluster_8	5yd5_A_a_B 5yd5_C_c_D
+cluster_9	7b14_D_NA_A 7b17_B_NA_A 7b18_D_NA_A 7b18_E_NA_A 7b18_F_NA_B 7b18_G_NA_B 7b18_H_NA_C 7b18_I_NA_C 7kn5_C_NA_A 7kn5_D_NA_B 7kn6_C_NA_A 7ksg_D_NA_A 7ksg_E_NA_B 7ksg_F_NA_C
+cluster_10	7fh0_B_NA_A 7fh0_C_NA_A
+cluster_11	4tvp_D_E_B 5cez_D_E_B 5fyl_D_E_B 5t3s_D_E_B 5u7m_D_E_B 5u7o_D_E_B 5um8_D_E_B 5utf_D_E_B 5uty_D_E_B 5v7j_D_E_B 5w6d_D_E_B 5wdu_H_I_A 5wdu_M_N_J 5wdu_U_V_R 6ce0_D_E_B 6ch7_D_E_B 6ch8_D_E_B 6ch9_D_E_B 6ck9_D_E_B 6ieq_D_E_B 6mco_D_E_B 6mdt_D_E_B 6muf_D_E_B 6opa_F_I_B 6utk_D_E_T 6v6w_A_B_K 6v6w_D_E_T 7kmd_A_E_T
+cluster_12	6urh_H_L_C
+cluster_13	7k90_H_L_B 7k90_M_N_A 7k90_O_P_C 8dce_H_h_A
+cluster_14	4h0h_B_b_D
+cluster_15	5gru_H_h_A
+cluster_16	6ui1_C_NA_A 6ui1_D_NA_A 6ul6_B_NA_A 7m1h_D_NA_A
+cluster_17	7deo_A_a_B 7deo_C_c_D
+cluster_18	4dqo_H_L_C
+cluster_19	4fp8_H_L_A 4fp8_I_M_B 4fp8_J_N_C 4fp8_K_O_D 4fqr_a_b_A 4fqr_c_d_C 4fqr_e_f_E 4fqr_g_h_G 4fqr_i_j_I 4fqr_k_l_K 4fqr_m_n_M 4fqr_o_p_O 4fqr_q_r_Q 4fqr_s_t_S 4fqr_u_v_U 4fqr_w_x_W 5umn_C_D_B 5umn_E_F_A 6d0u_C_D_B 6d0u_E_F_A 6d0u_H_I_G 6d0u_K_L_J 6ml8_H_L_A
+cluster_20	4ydj_A_B_I 4ydj_H_L_G
+cluster_21	5w08_G_H_A 5w08_I_J_B 5w08_K_L_C 5w08_M_N_F 5w08_O_P_E 5w08_Q_R_D 6ur5_A_B_C 6ur5_G_H_D
+cluster_22	1tjg_H_L_P 1tjh_H_L_P 1tji_H_L_P 1u8h_B_A_C 1u8i_B_A_C 1u8j_B_A_C 1u8k_B_A_C 1u8l_B_A_C 1u8m_B_A_C 1u8n_B_A_C 1u8o_B_A_C 1u8p_B_A_C 1u8q_B_A_C 1u91_B_A_C 1u92_B_A_C 1u93_B_A_C 1u95_B_A_C 2f5b_H_L_P 2p8l_B_A_C 2p8p_B_A_C 2pw1_B_A_C 2pw2_B_A_C 3d0v_B_A_C 3idg_B_A_C 3idj_B_A_C 3idm_B_A_C 3lev_H_L_A 3moa_H_L_P 3mob_H_L_P 3mod_H_L_P
+cluster_23	7zwf_B_b_A
+cluster_24	3h3b_d_D_B
+cluster_25	3u2s_A_B_C 3u2s_H_L_G 3u4e_A_B_J 3u4e_H_L_G 5vj6_H_L_E
+cluster_26	5lwy_H_L_A 5lx9_H_h_A 5lxa_H_h_A 5lxg_H_L_A 6krz_D_E_A 6krz_F_G_B 6krz_H_I_C 6ks0_H_L_A 6ks1_H_L_A 6yx9_H_L_A 6yxd_H_L_A 6yxf_H_h_A 6yxg_H_h_A
+cluster_27	5wn9_H_h_A
+cluster_28	5yd3_A_a_B 5yd3_C_c_D 5yd3_E_e_F 5yd3_G_g_H 5yd4_A_a_B 5yd4_C_c_D 5yd4_E_e_F 5yd4_G_g_H 5yy4_A_a_B
+cluster_29	6mn7_G_g_A 6mn7_H_h_D 6mn7_I_i_C
+cluster_30	6qb3_X_x_A 6qb4_X_x_A 6qfc_B_b_A
+cluster_31	7cyv_H_h_B
+cluster_32	6xox_E_e_A 7dw9_S_s_A 7f9z_E_e_A 7kh0_S_s_A 7ra3_E_e_A 7rbt_E_e_A 7rgp_E_e_A
+cluster_33	7jx3_C_D_R 7l7e_C_D_b 7l7e_E_F_G 7l7e_M_N_S 7l7e_O_P_K 8d8q_H_L_A
+cluster_34	7tow_A_B_D 7tow_H_L_E
+cluster_35	1q1j_H_L_P 1q1j_I_M_Q 3c2a_H_L_P 3c2a_I_M_Q 3ghb_H_L_P 3ghb_I_M_Q 4m1d_H_L_P 4m1d_I_M_Q
+cluster_36	4g6f_B_D_F 4g6f_H_L_P 4u6g_A_B_C 4u6g_H_L_P 5ghw_H_L_P 5iq7_H_L_P 5sy8_H_L_O 5t29_H_L_O 5t6l_A_B_G 5t6l_H_L_I 5t80_H_L_G 5t85_H_L_G 5tfw_H_L_O 6vpx_H_L_G
+cluster_37	4s1r_H_L_G 4xny_H_L_G
+cluster_38	5u3j_H_L_A
+cluster_39	5u3m_H_L_A 5u3n_H_L_A
+cluster_40	5u3k_H_L_P 5u3l_A_B_C 5u3l_H_L_P 5u3o_H_L_A
+cluster_41	5w0d_B_C_A 7lop_H_L_A 7lop_X_Y_Z
+cluster_42	6cbp_A_a_P 6um6_C_D_A 6um6_G_H_E 6um6_K_L_I
+cluster_43	6jep_H_L_E 6jep_K_I_F 6jfh_H_L_E 6jfh_K_I_A 6jfh_M_N_C 6jfi_H_L_E 6jfi_K_I_A
+cluster_44	7rxp_H_L_A
+cluster_45	3h3b_c_C_B
+cluster_46	3uze_A_a_C 3uzq_A_a_B
+cluster_47	4r2g_D_C_O 4r2g_J_I_K 4r2g_N_M_A 4r2g_Q_P_E 5t3s_H_L_G 5um8_H_L_G 6ce0_H_L_G 6ieq_H_L_G 6mco_H_L_G 6mdt_H_L_G 7kmd_H_L_G 8e1p_B_A_G 8e1p_D_C_E 8e1p_K_J_M
+cluster_48	6db7_H_L_P 6db7_I_M_Q
+cluster_49	7c8w_A_NA_B 7can_A_NA_B 7d2z_A_NA_B 7d30_A_NA_B
+cluster_50	7n08_A_B_E 7n08_C_D_G 7n08_H_L_F
+cluster_51	7n4j_H_L_A
+cluster_52	7tzg_A_a_D 7tzg_B_b_C 7tzh_A_a_B 7tzh_C_c_D
+cluster_53	3tyg_H_L_A 5aco_G_J_C 5aco_H_L_A 5aco_I_K_D 5c7k_A_B_C 5js9_A_B_C 5jsa_A_B_C 6opa_K_J_G
+cluster_54	5kaq_F_G_C 5kaq_H_L_B 5kaq_Q_R_A 7u8m_F_E_D 7u8m_H_L_B 7u8m_K_J_I
+cluster_55	5npi_A_a_D 5npi_B_b_E 5npj_A_a_D 5npj_B_b_E
+cluster_56	5tud_C_B_A 5tud_F_E_D 7srs_Q_P_R
+cluster_57	5u68_E_e_A 5u68_F_f_B 5u68_G_g_C
+cluster_58	6q0e_H_L_A 6q0h_H_L_A 6q0i_H_L_A 6q0l_H_L_A 6q0o_Z_B_A
+cluster_59	5iq9_A_B_C 5iq9_H_L_P 6x58_A_B_E 6x58_C_D_F
+cluster_60	6xpz_B_C_A 6xpz_E_F_D
+cluster_61	7k93_E_e_A 7k93_G_g_B 7k93_I_i_C 7k93_K_k_D
+cluster_62	3pgf_H_L_A 7mta_H_L_G 7mtb_H_L_G 7niu_C_B_A 7niv_C_B_A 7niw_C_B_A
+cluster_63	1jp5_a_A_C 1jp5_b_B_D
+cluster_64	1svz_a_A_C 1svz_b_B_D
+cluster_65	1tzg_H_L_P 1tzg_I_M_Q 2fx7_H_L_P 2fx8_H_L_P 2fx8_I_M_Q 2fx8_J_N_R 2fx8_K_O_S 2fx9_H_L_P 2fx9_I_M_Q 3h3p_H_L_S 3h3p_I_M_T 3lh2_H_L_S 3lh2_I_M_T 3lh2_J_N_U 3lh2_K_O_V 3lhp_H_L_S 3lhp_I_M_T 4ngh_H_L_P 4nhc_H_L_P 4wy7_H_L_P 4xbe_H_L_P 4xc1_H_L_P 4xc3_H_L_P 4xcf_H_L_P 5cil_H_L_P 5cin_H_L_P 5x08_H_L_P 7ekb_H_L_P 7ekk_H_L_P 7sd3_I_M_D 7sd3_K_N_B
+cluster_66	2ghw_B_b_A
+cluster_67	4f9l_c_C_B 4f9l_d_D_A
+cluster_68	4ot1_H_L_A 7kdd_D_E_A 7kdd_F_G_B 7kdd_H_I_C
+cluster_69	5iwl_A_a_D 5iwl_B_b_C
+cluster_70	5l6y_H_L_C
+cluster_71	3jcb_C_B_A 3jcc_C_B_A 4nco_D_C_A 4nco_H_G_E 4nco_L_K_I 4tvp_H_L_G 5d9q_F_E_A 5d9q_H_L_G 5d9q_N_M_J 5fyl_H_L_G 5i8h_I_J_A 5i8h_K_L_C 5u7m_H_L_G 5u7o_H_L_G 5utf_H_L_G 5uty_H_L_G 5wdu_C_B_G 5wdu_L_K_F 5wdu_T_S_Q 6b0n_H_L_G 6cde_7_8_2 6cde_M_N_C 6cde_m_n_c 6cdi_5_6_2 6cdi_M_N_C 6cdi_m_n_d 6cue_5_6_2 6cue_M_N_C 6cue_m_n_c 6cuf_5_6_2 6cuf_M_N_C 6cuf_m_n_d 6de7_H_L_G 6mpg_5_6_2 6mpg_M_N_C 6mpg_m_n_V 6mph_M_N_C 6mph_X_Z_A 6mph_Y_a_B 6n1v_M_N_C 6n1v_X_Z_A 6n1v_Y_a_B 6n1w_5_6_C 6n1w_M_N_c 6n1w_m_n_2 6nf2_E_F_G 6nf2_J_K_A 6nf2_S_T_Q 6osy_5_6_2 6osy_C_D_B 6osy_M_N_K 6ot1_F_I_E 6ot1_Q_R_P 6ot1_m_n_G 6vlr_C_L_A 6vlr_D_K_H 6vlr_E_M_G 7lx2_H_L_A 7lx2_N_M_B 7lx2_P_O_C 7lx3_H_L_A 7lx3_N_M_B 7lx3_P_O_C 7lxm_H_L_A 7lxm_N_M_C 7lxm_P_O_E 7lxn_H_L_A 7lxn_I_M_C 7lxn_J_N_E
+cluster_72	6lxi_H_L_A 6lxj_H_L_A 6lxk_E_F_D 6lxk_H_L_A 6lxk_J_K_C
+cluster_73	6rcu_E_D_A 6rcv_E_D_A 6rcv_J_I_F 7phu_D_E_A 7ps6_C_D_E
+cluster_74	6tou_A_a_G
+cluster_75	6snh_H_L_X 6sni_H_L_X 6vi1_B_A_N 6vi1_E_D_M 6vi1_F_C_O 6vi1_H_G_P 6vi1_J_I_Q 6vi1_L_K_R 6xmi_B_A_C 6xmi_E_D_F
+cluster_76	6wps_C_D_B 6wps_F_G_E 6wps_H_L_A 6wpt_D_E_A 6wpt_H_L_C 7bep_G_I_C 7bep_H_L_E 7jx3_A_B_R 7l0n_A_B_R 7l0n_C_D_S 7r6w_A_B_R 7r6x_A_B_R 7sob_G_I_A 7sob_H_J_D 7sob_N_O_K 7soc_H_L_A 7tly_A_B_I 7tm0_J_K_B 7tm0_L_M_C 7tm0_N_O_A 7tn0_B_A_I 7tn0_C_D_S 7x1m_A_B_M 7xck_A_B_M 7xco_H_L_A 7xco_M_N_B 7xco_O_P_C 7yad_A_B_M 7yad_C_D_E 7yqx_H_F_B 7yqx_I_G_A 7yqy_H_F_B 7yqy_I_G_A 7yqy_J_E_C 7yqz_I_G_A 7yqz_J_H_C 7yr0_C_B_A 8df5_A_B_R 8df5_C_D_S 8dw2_D_C_B 8dw3_D_C_B 8vye_A_D_K 8vye_I_J_E 8vye_R_S_O
+cluster_77	7fcp_H_L_A 7fcq_H_L_A
+cluster_78	7ld1_H_L_B 7ld1_M_N_C 7ld1_P_O_A 7sg4_H_L_A
+cluster_79	7jmw_H_L_A 7lm8_H_L_A 7lq7_P_Q_A 7lq7_T_U_B 7lq7_y_z_E 7s5q_H_L_A 7s5r_H_L_A
+cluster_80	2ghw_D_d_C
+cluster_81	4ers_H_L_A 4lf3_B_A_C 4lf3_E_D_F 5xez_C_D_A 5xez_H_L_B 5xf1_C_D_A 5xf1_H_L_B
+cluster_82	4nrx_A_B_C 4nrx_H_L_P
+cluster_83	4xmp_H_L_G
+cluster_84	5cez_H_L_G 5v7j_H_L_G 6mtj_H_L_G 6mtn_H_L_G 6mu6_H_L_G 6mu7_H_L_G 6mu8_H_L_G 6muf_H_L_G 6mug_H_L_G 6nm6_H_L_G 6nnf_H_L_G 6nnj_H_L_G 6vzi_H_L_G 6w03_H_L_G 6wix_H_L_G
+cluster_85	5d1q_C_D_E 5d1x_C_D_E
+cluster_86	5gs2_H_h_A
+cluster_87	5k9q_H_L_B 5k9q_X_Y_R
+cluster_88	5w6d_H_L_G
+cluster_89	6ch7_Q_R_G 6ch8_Q_R_G 6ch9_Q_R_G 6chb_I_L_F 6chb_J_K_G 6chb_Q_R_H 6dfg_G_J_C 6dfg_H_L_A 6dfg_I_K_D
+cluster_90	6e4x_Z_Y_B
+cluster_91	6q18_H_L_A
+cluster_92	6utk_H_L_G 6v6w_F_H_C 6v6w_I_J_G
+cluster_93	6xxv_A_B_C 6xxv_D_E_F
+cluster_94	6yye_C_c_A 6yye_D_d_B
+cluster_95	7det_B_b_A 7det_D_d_C
+cluster_96	7deu_B_b_A
+cluster_97	7lo8_H_L_Z 7pg8_B_A_E 7pg8_F_D_H 7pg8_I_G_K 7pg8_L_J_C 7pg8_N_M_Q 7pg8_R_P_T 7pg8_U_S_W 7pg8_X_V_O
+cluster_98	5ggv_H_L_Y 7czt_H_L_A 7czt_I_M_C 7tc9_H_L_B 7tca_D_E_C 7tca_H_L_B 7tcc_D_E_A 7tcc_H_L_B 7tcc_M_N_C 7u0d_M_N_B
+cluster_99	7tp3_H_L_Z
+cluster_100	8d47_B_A_D 8d47_H_L_C
+cluster_101	8dv6_C_L_B 8dv6_H_D_A
+cluster_102	1n0x_H_L_P 1n0x_K_M_R 2ny7_H_L_G 3ru8_H_L_X 5vn8_F_J_D 5vn8_H_L_G 5vn8_I_K_E
+cluster_103	2zch_H_L_P 2zck_H_L_P 2zcl_H_L_P
+cluster_104	3grw_H_L_A 4wv1_B_A_C 4wv1_E_D_F
+cluster_105	3mlx_H_L_P 3mlx_I_M_Q 3mly_H_L_P 3mly_I_M_Q 3mlz_H_L_P
+cluster_106	3ujj_H_L_P
+cluster_107	3ux9_B_b_A 3ux9_D_d_C
+cluster_108	4cau_D_d_C 4cau_E_e_A
+cluster_109	4kv5_E_e_C 4kv5_G_g_D 4kv5_H_h_A 4kv5_J_j_B
+cluster_110	4ydk_H_L_G
+cluster_111	5bjz_C_L_A 5bjz_D_H_B 5bk1_C_D_B 5bk1_H_L_A 6ayz_B_D_A 6ayz_R_C_M 7pgb_A_B_C 7pgb_H_L_c 7pgb_R_S_T 7pgb_U_V_W 7pgb_X_Y_Z 7pgb_a_b_d 7pgb_f_g_e 7pgb_i_k_h 7pgb_m_n_l 7pgb_p_q_o
+cluster_112	4xgz_H_L_h 4xh2_A_B_a 4xh2_C_D_c 4xh2_E_F_e 4xh2_G_I_g 4xh2_J_K_j 5c8j_A_B_I 5c8j_C_D_L 5c8j_E_F_J 5c8j_G_H_K
+cluster_113	5d1z_D_C_I 5d1z_F_E_J
+cluster_114	5esv_A_B_E 5esv_C_D_F 5esv_H_L_G
+cluster_115	5jyl_B_b_A 5jyl_D_d_C
+cluster_116	5t3x_H_L_G 5t3z_H_L_G 6ccb_D_E_C 6ccb_H_L_G 6okp_K_L_E 6orn_A_B_G 6orn_F_I_K 6orn_O_P_R 6udj_A_R_P 6udj_K_L_J 6udj_Q_B_G 6udk_A_B_G 6udk_F_I_K 6udk_O_P_R 6v8z_D_E_A 6v8z_J_K_G 6v8z_P_Q_M 7ucf_H_L_G 7ucg_H_L_G 7ucg_J_K_I 7ucg_Q_R_P 7ugn_M_P_A 7ugn_N_Q_B 7ugn_O_R_C 7ugo_M_P_A 7ugo_N_Q_B 7ugo_O_R_C 7ugp_M_P_A 7ugp_N_Q_B 7ugp_O_R_C 7ugq_M_P_A 7ugq_N_Q_B 7ugq_O_R_C 9bew_H_L_G 9bew_J_K_A 9bew_Q_R_M
+cluster_117	5uem_H_L_G
+cluster_118	5yax_B_b_C
+cluster_119	6a4k_H_L_A 6a4k_I_M_B 6a4k_J_N_C 6a4k_K_O_D
+cluster_120	6cdi_3_4_A 6cdi_H_L_D 6cdi_h_l_c 6cdo_A_B_C
+cluster_121	6e56_G_I_D 6e56_H_J_A
+cluster_122	6glw_C_D_B 6glw_H_L_A
+cluster_123	6p3r_A_B_L 6p3r_C_D_E
+cluster_124	6snc_B_A_C 6snc_H_L_P 6snd_B_A_C 6snd_H_L_P 6sne_B_A_O 6sne_D_C_J 6sne_F_E_N 6sne_H_L_P
+cluster_125	6wio_A_B_C 6wir_A_B_C
+cluster_126	6xq0_B_C_A 6xq0_E_F_D
+cluster_127	7czw_H_L_A 7czw_J_N_C 7d03_H_L_A
+cluster_128	7czx_H_K_A 7czx_I_M_B 7czx_J_N_C
+cluster_129	7dpm_A_B_C 7dpm_D_E_F 7dpm_G_H_I
+cluster_130	7epu_A_a_B
+cluster_131	7f0x_B_b_A 7f12_B_b_A
+cluster_132	7jum_H_h_A 7jum_I_i_B 7jum_J_j_C
+cluster_133	7mzm_H_L_A
+cluster_134	7r6w_H_L_R
+cluster_135	7s07_H_L_A
+cluster_136	7sd5_H_L_A 7ttm_H_L_A 7ttx_H_L_A 7tty_H_L_A
+cluster_137	7unb_F_E_R
+cluster_138	1g9m_H_L_G 1g9n_H_L_G 1gc1_H_L_G 1rzj_H_L_G 1rzk_H_L_G 1yyl_H_L_G 1yyl_R_Q_P 1yym_H_L_G 1yym_R_Q_P 2i5y_H_L_G 2i5y_R_Q_P 2i60_H_L_G 2i60_R_Q_P 2nxy_D_C_A 2nxz_D_C_A 2ny0_D_C_A 2ny1_D_C_A 2ny2_D_C_A 2ny3_D_C_A 2ny4_D_C_A 2ny5_H_L_G 2ny6_D_C_A 4jm2_D_C_E 4rqs_D_C_G 5a7x_D_C_A 5a7x_H_G_E 5a7x_L_K_I 5a8h_D_C_A 5a8h_J_I_G 5a8h_P_O_M 5thr_M_J_D 5thr_N_K_E 5thr_O_L_F 5vn3_H_L_G 5vn3_K_N_I 5vn3_M_O_J 6cm3_K_J_D 6cm3_M_L_F 6cm3_O_N_E 6opo_H_L_A 6opo_I_E_D 6opo_O_K_J 6opp_G_I_D 6opp_H_L_A 6opp_N_O_J 6opq_H_L_A 6opq_K_N_D 6opq_M_O_E 6x5b_H_L_A 6x5b_I_F_D 6x5b_O_M_J 7klc_D_C_A 7lo6_H_G_E 7lo6_J_I_C 7lo6_L_K_A 7lok_K_J_A 7lok_M_L_C
+cluster_139	2qad_D_C_A 2qad_H_G_E
+cluster_140	3etb_G_g_K 3etb_I_i_M
+cluster_141	3etb_F_f_J 3etb_H_h_L
+cluster_142	3idx_H_L_G 3idy_B_C_A 3idy_H_L_G
+cluster_143	3iyw_H_L_A 3iyw_K_M_C
+cluster_144	3thm_H_L_F 3tje_H_L_F
+cluster_145	3uyp_A_a_B 3uze_B_b_D 3uzv_B_b_A
+cluster_146	4glr_H_I_A 4glr_J_K_B
+cluster_147	4i2x_B_A_E 4i2x_D_C_F 6bfs_H_L_C
+cluster_148	4k8r_D_C_B
+cluster_149	5esz_A_B_C 5esz_H_L_G
+cluster_150	5f72_S_s_K 5f72_T_t_C
+cluster_151	5t3x_D_E_G 5t3z_D_E_G 6chb_D_E_G 6chb_M_N_F 6chb_O_P_H
+cluster_152	6dc3_H_L_F
+cluster_153	6ejm_H_h_B 6ejm_I_i_A
+cluster_154	6ncp_C_D_E
+cluster_155	6njl_I_i_C 6njl_L_l_A 6njn_I_i_A 7ldd_I_i_C 7ldd_L_l_A 7lde_I_i_C 7lde_L_l_A
+cluster_156	6o24_A_B_I
+cluster_157	6oan_B_b_A 6oan_D_d_C
+cluster_158	6oao_B_b_A 6oao_D_d_C 6oao_F_f_E 6oao_H_h_G 6oao_J_j_I 6oao_L_l_K
+cluster_159	6uvo_H_L_D 7t8w_H_L_D
+cluster_160	6woz_B_C_A 6woz_E_F_D 6woz_H_I_G 6woz_K_L_J
+cluster_161	6y6c_C_c_B 6y6c_D_d_A 6ymq_A_a_G 6ymq_B_b_I 6ymq_C_c_J 6ymq_F_f_K
+cluster_162	6ztr_A_B_J 6ztr_H_L_I
+cluster_163	7bwj_H_L_E 8dcc_H_L_E
+cluster_164	7c2l_H_L_A 7c2l_I_M_B 7c2l_J_N_C 8dls_H_L_A
+cluster_165	7cu5_A_a_Q 7cu5_B_b_E
+cluster_166	7czu_H_K_A 7czu_J_N_C 7czv_H_K_A 7czv_I_M_B 7czv_J_N_C 7ly3_D_C_A 7ly3_F_E_B
+cluster_167	7lg6_H_L_A 7lg6_O_Q_E 7lg6_P_R_F 7ll1_E_F_C 7ll1_H_L_A 7ll1_J_K_G
+cluster_168	7lo7_H_L_Z
+cluster_169	7ps6_H_L_E 7q0h_H_L_E 7zf5_B_C_A 7zf5_H_L_E
+cluster_170	7q0i_A_B_D 7q0i_H_L_C 7q9i_E_F_B 7q9i_H_L_A 7q9i_J_K_C
+cluster_171	7sl5_A_B_C 7sl5_D_E_F 7sl5_G_H_I 7sl5_J_K_L
+cluster_172	7swd_G_g_F 7swd_I_i_B
+cluster_173	3h0t_B_A_C 7xxl_A_C_B
+cluster_174	7zxk_H_L_C 7zxk_J_I_A
+cluster_175	1f58_H_L_P 2f58_H_L_P 3f58_H_L_P
+cluster_176	1ikf_H_L_C
+cluster_177	2or9_H_L_P 2or9_I_M_P
+cluster_178	3mlw_H_L_P 3mlw_I_M_Q
+cluster_179	3skj_H_L_E 3skj_I_M_F
+cluster_180	4c2i_H_L_C 4c2i_M_N_A
+cluster_181	3j5m_D_C_A 3j5m_H_G_E 3j5m_L_K_I 3se9_H_L_G 4i3r_H_L_G 4i3s_H_L_G 6crq_D_E_A 6crq_I_K_B 6crq_J_L_F 6vo3_G_J_C 6vo3_H_L_A 6vo3_I_K_D 7rsn_E_J_C 7rsn_F_K_G 7rsn_H_L_A 7rso_G_J_C 7rso_H_L_A 7rso_I_K_D
+cluster_182	4mwf_A_B_D 4mwf_H_L_C 6uyd_A_B_F 6uyd_H_L_E 6uym_A_B_F 6uym_H_L_E
+cluster_183	4nik_B_b_A
+cluster_184	4jm2_A_B_E 4nzr_H_L_M
+cluster_185	4olu_H_L_G 4olv_H_L_G 4olw_H_L_G 4olx_H_L_G 4oly_H_L_G 4olz_H_L_G 4om0_H_L_G 4om1_H_L_G
+cluster_186	4hpo_H_L_P 4ris_H_L_P 5wk3_Q_P_A 5wk3_S_R_B 5wk3_U_T_C 5wk3_W_V_D 7n4i_H_L_C
+cluster_187	4s1q_H_L_G
+cluster_188	4s1s_H_L_G
+cluster_189	4xvs_H_L_G 4xvt_H_L_G
+cluster_190	5aam_A_a_C 5aam_B_b_J 5aaw_A_a_C 5aaw_B_b_J 5aaw_D_d_E 5aaw_F_f_G 5aaw_H_h_I 5aaw_K_k_L
+cluster_191	5e8e_B_A_H
+cluster_192	5eu7_E_C_A 5eu7_F_D_B
+cluster_193	5gru_L_l_A
+cluster_194	6cmg_C_B_A 6cmi_D_C_B
+cluster_195	6db5_H_L_P 6db5_I_M_Q
+cluster_196	6iuv_C_D_B 6iuv_H_L_A
+cluster_197	6mei_H_L_C 6mej_H_L_C 6mek_B_D_A 6mek_H_L_C
+cluster_198	6phc_A_B_I 6phc_C_D_E
+cluster_199	6uce_H_L_C 6ucf_H_L_A
+cluster_200	6wfy_H_L_P
+cluster_201	6wo4_H_L_E
+cluster_202	5uek_H_L_A 6b70_C_D_A 6b70_E_F_B 6b7z_C_D_A 6b7z_E_F_B 6bf7_C_D_A 6bf7_E_F_B 6bf9_C_D_A 6bf9_E_F_B 6ww5_C_D_B 6ww5_E_F_A
+cluster_203	6xpy_B_C_A
+cluster_204	7bep_A_B_E 7bep_D_F_C 7nd8_H_L_B
+cluster_205	7epx_H_L_A 7epx_I_M_B 7wop_C_c_A 7wor_E_e_B 7wos_E_e_B 7wos_G_g_C 7wou_E_e_B 7wou_G_g_C 7wov_E_e_A 7wov_G_g_B 7wov_I_i_C 7wow_E_e_A 7wow_G_g_B 7wow_I_i_C 7wow_N_n_J 7wow_P_p_K 7wow_R_r_L
+cluster_206	7f15_B_b_A
+cluster_207	4rrp_G_A_M 4rrp_H_B_N 4rrp_I_C_O 4rrp_J_D_P 4xtr_E_F_A 4xvu_C_D_B 4xvu_E_F_A 4xwo_E_F_B 4xwo_Q_R_N 4xwo_W_X_T 7jhg_H_L_A 7jhh_H_L_A 7m74_H_L_A
+cluster_208	7jie_C_D_B 7jie_E_F_A
+cluster_209	7kyl_H_L_E 7kyl_X_Y_Z
+cluster_210	7lex_D_E_B 7lex_F_H_C 7lex_G_I_A 7lex_K_L_M 7lex_Q_O_N 7lex_R_P_J 7lez_D_E_B 7lez_R_P_N
+cluster_211	7lu9_h_g_e 7lu9_l_k_f 7lu9_q_r_d
+cluster_212	7m42_D_C_E
+cluster_213	7oh1_E_D_A
+cluster_214	7pr0_C_B_A 7pr0_H_L_E
+cluster_215	7ps4_B_C_A 7ps4_H_L_E
+cluster_216	7qnw_A_B_E 7qnx_A_B_E
+cluster_217	7qti_B_C_A 7qti_G_H_K 7qti_I_J_D 7qtj_B_C_A 7qtk_B_C_D
+cluster_218	5gs0_D_C_A 5gs0_F_E_B 7wvf_C_c_A
+cluster_219	7zfb_A_B_E 7zfb_C_D_F 7zfc_H_L_E
+cluster_220	2xqb_H_L_A
+cluster_221	3se8_H_L_G 4cc8_F_J_D 4cc8_H_L_E 4cc8_I_K_G 6cde_5_6_2 6cde_Q_R_C 6cde_q_r_c 6cdi_8_7_2 6cdi_Q_R_C 6cdi_q_r_d 6cue_7_8_2 6cue_Q_R_C 6cue_q_r_c 6cuf_8_7_2 6cuf_Q_R_C 6cuf_q_r_d 6e5p_I_J_E 6e5p_O_P_C 6e5p_V_W_A 6mpg_8_7_2 6mpg_Q_R_C 6mpg_q_r_V 6mph_Q_R_C 6mph_f_h_A 6mph_g_i_B 6n1v_Q_R_C 6n1v_f_h_A 6n1v_g_i_B 6n1w_8_7_C 6n1w_Q_R_c 6n1w_q_r_2 6nf2_C_D_G 6nf2_N_M_A 6nf2_V_U_Q 6osy_8_7_2 6osy_F_E_B 6osy_P_O_K 6ot1_J_K_E 6ot1_S_T_P 6ot1_q_r_G 6v8z_C_F_A 6v8z_I_L_G 6v8z_O_R_M
+cluster_222	4gxu_M_N_A 4gxu_O_P_C 4gxu_Q_R_E 4gxu_S_T_G 4gxu_U_V_I 4gxu_W_X_K
+cluster_223	4i18_A_B_R 4i18_H_L_C
+cluster_224	4jo3_H_L_P 4jo3_I_M_Q
+cluster_225	4nnp_H_L_A 4nnp_X_Y_B 4xgz_J_K_j 4xgz_O_P_o
+cluster_226	4xak_D_E_B 4xak_H_L_A 6yio_H_L_B
+cluster_227	4ye4_H_L_G
+cluster_228	4g7v_H_L_S 5bk2_C_D_B 5bk2_H_L_A 5vkd_H_L_A 5w2b_H_L_A 7tdm_H_L_B 9bei_H_L_B
+cluster_229	5drz_B_A_Q 5drz_H_L_P 7n05_H_L_E
+cluster_230	5ug0_D_C_A
+cluster_231	4p9h_H_L_G 5a7x_N_M_A 5a7x_P_O_E 5a7x_R_Q_I 5a8h_L_K_G 5a8h_R_Q_M 5thr_P_Q_C 5thr_R_S_A 5thr_T_U_B 5viy_K_L_B 5viy_M_N_A 5vj6_M_N_B 6cm3_P_Q_B 6cm3_R_S_A 6cm3_T_U_C 7kde_Q_R_C 7kde_S_T_A
+cluster_232	5w42_H_L_A
+cluster_233	5wna_C_D_A 5wna_H_L_B 5wnb_H_L_B 5wnb_I_M_A
+cluster_234	6ek2_H_h_A 6ek2_I_i_B
+cluster_235	6mqr_H_L_A 6osy_H_L_A 6osy_I_J_G 6osy_R_S_Q
+cluster_236	6o3g_A_B_I 6o3g_C_D_Q 6o3g_E_F_G 6o3g_H_L_S 6o3j_A_B_I 6o3j_H_L_G
+cluster_237	6oej_B_C_A 6oej_H_L_G
+cluster_238	6q1z_D_C_B 6q1z_H_L_A 6q20_H_L_A
+cluster_239	6q23_E_F_C 6q23_G_I_D 6q23_H_L_A 6q23_J_K_B
+cluster_240	6qig_H_L_A
+cluster_241	6tyb_H_L_G
+cluster_242	7dzx_H_L_C
+cluster_243	7f3q_C_B_A 7f7e_C_L_E
+cluster_244	7lab_H_L_C 7lab_T_S_A 7lab_Y_X_B
+cluster_245	7lf1_D_E_B 7lf1_F_H_C 7lf1_G_I_A 7lf1_K_L_M 7lf1_O_Q_N 7lf1_P_R_J
+cluster_246	7mnl_H_L_A 7mnl_K_M_B 7mnm_H_L_A 7mnm_K_M_B 7mnn_H_L_A 7mnn_K_M_B 7mno_H_L_A 7mno_K_M_B
+cluster_247	7o52_H_L_U
+cluster_248	7ps2_A_B_G
+cluster_249	7qu2_A_B_C
+cluster_250	7sue_B_A_D 7sue_F_E_J 7sue_H_L_C 7sue_I_G_K
+cluster_251	7u09_H_L_A
+cluster_252	7v6n_E_D_A 7v6n_G_F_B 7v6n_I_H_C 7v6o_E_D_A 7v6o_G_F_B 7v6o_I_H_C
+cluster_253	7ydi_H_L_E 7ye9_G_I_C 7ye9_H_L_A 7ye9_N_O_B 7yeg_G_I_C 7yeg_H_L_A 7yeg_N_O_B
+cluster_254	7zyi_H_L_A
+cluster_255	2b0s_H_L_P 2b1a_H_L_P 2b1h_H_L_P
+cluster_256	2hrp_H_L_P 2hrp_N_M_Q
+cluster_257	2qqn_H_L_A
+cluster_258	3bky_H_L_P
+cluster_259	3mlr_H_L_P 3mls_H_L_P 3mls_I_M_Q 3mls_J_N_R 3mls_K_O_S 3mlt_B_A_C 3mlt_H_L_P 3mlu_H_L_P 3mlv_H_L_P 3mlv_N_M_Q
+cluster_260	3nps_B_C_A
+cluster_261	3p30_H_L_A
+cluster_262	3pnw_B_A_C 3pnw_E_D_F 3pnw_H_G_I 3pnw_K_J_L 3pnw_N_M_O 3pnw_Q_P_R 3pnw_T_S_U 3pnw_W_V_X
+cluster_263	3whe_1_2_H 3whe_3_4_I 3whe_5_6_J 3whe_7_8_K 3whe_9_NA_L 3whe_M_N_A 3whe_O_P_B 3whe_Q_R_C 3whe_S_T_D 3whe_U_V_E 3whe_W_X_F 3whe_Y_Z_G
+cluster_264	4dgv_H_L_A 4dgy_H_L_A 5kzp_E_I_B 5kzp_F_J_C 5kzp_G_K_D 5kzp_H_L_A
+cluster_265	4hha_B_A_P
+cluster_266	4hkx_A_B_E
+cluster_267	4jhw_H_L_F 5udc_B_C_A 5udc_H_L_F 5udd_N_T_G 5udd_O_U_I 6s3d_A_B_N 6s3d_C_D_M 6s3d_E_F_O 6s3d_H_L_P
+cluster_268	4o58_H_L_A 4o5i_M_N_A 4o5i_O_P_C 4o5i_Q_R_E 4o5i_S_T_G 4o5i_U_V_I 4o5i_W_X_K
+cluster_269	4ywg_I_M_Q
+cluster_270	5a3i_C_D_A 5a3i_G_H_E
+cluster_271	5gs2_D_d_B
+cluster_272	5k9k_A_B_I 5k9k_H_L_F
+cluster_273	4utb_H_L_A 5n09_H_L_A 5n09_I_M_B 5n0a_H_L_A 5n0a_I_M_B
+cluster_274	5a2i_H_h_P 5a2j_H_h_P 5a2k_H_h_P 5a2l_H_h_P 5fxc_H_h_P 5n7b_H_h_I 5owp_H_h_D 6frj_H_h_B 6fzq_H_h_P 6fzr_H_h_P 6tgg_H_h_P
+cluster_275	5o1r_H_L_A 5o1r_I_M_B
+cluster_276	5w1k_B_A_P 5w1k_G_F_E 5w1k_L_K_J 5w1k_T_S_R
+cluster_277	6b0g_D_C_E
+cluster_278	6cbv_H_L_B 6usf_H_L_D 6usf_K_M_A 6ww2_H_L_R 7tuy_H_L_R 8hii_H_L_A 8hij_H_L_A 8hik_H_L_A
+cluster_279	6db6_H_L_P
+cluster_280	6fy0_H_L_P 6fy0_I_M_A 6fy1_H_L_G 6fy2_H_L_P 6fy2_X_Y_Z
+cluster_281	6fy3_H_L_P
+cluster_282	6ln2_C_B_A
+cluster_283	6n5d_C_D_A 6n5d_E_F_B 6n5d_L_N_K 6n5e_E_D_A 6n5e_G_F_B 6n5e_H_I_C
+cluster_284	6ppg_B_A_G 6ppg_H_L_F
+cluster_285	6umx_H_L_A 6umx_h_l_B
+cluster_286	6vy5_H_L_A 6vy6_H_L_A
+cluster_287	6wit_A_B_C 6wit_H_L_I
+cluster_288	6xpr_B_C_A 6xpr_E_F_D
+cluster_289	7chc_A_B_R 7che_A_B_R 7chf_A_B_R 7chh_D_E_A 7chh_G_H_B 7chh_J_K_C 7e8c_K_I_B 7e8c_M_J_A 7e8c_a_Z_C 7e8f_C_B_R
+cluster_290	7e9n_H_L_A 7e9n_P_O_B 7e9n_Y_X_C 7e9o_H_L_A 7e9o_P_O_B 7e9o_Y_X_C 7e9p_H_L_B 7e9q_F_E_B 7e9q_H_L_A 7e9q_Y_X_C 7wly_P_O_B 7wly_Y_X_C 7wm0_H_L_B
+cluster_291	7enf_P_O_B 7eng_H_L_B
+cluster_292	7lf0_D_E_B 7lf0_F_H_C 7lf0_G_I_A 7lf0_K_L_N 7lf0_Q_O_J 7lf0_R_P_M
+cluster_293	7ljr_S_T_A
+cluster_294	7lm8_M_N_A 7lm9_H_L_A
+cluster_295	7mzn_H_L_A
+cluster_296	7n3c_H_L_C
+cluster_297	7nab_A_B_D 7nab_H_L_C 7raq_H_L_P
+cluster_298	2qr0_B_A_D 2qr0_F_E_C 2qr0_H_G_J 2qr0_L_K_I 2qr0_N_M_O 2qr0_R_Q_P 2qr0_T_S_U 2qr0_X_W_V 4g7y_H_L_S 4xmn_H_L_E 7niu_E_D_A 7niv_E_D_A
+cluster_299	7phw_B_C_A 7phw_E_F_D 7pi3_F_G_A 7pi3_M_N_H 7pi3_T_U_O 7pi3_a_b_V
+cluster_300	7rd5_B_A_F 7rd5_D_C_E
+cluster_301	7s6j_C_D_B 7s6j_F_G_E 7s6j_H_L_A 7s6k_C_D_B 7s6k_F_G_E 7s6k_H_L_A 7s6l_H_L_A 7sbu_H_L_A
+cluster_302	7skz_H_L_A
+cluster_303	7tdn_H_L_B
+cluster_304	7v3l_D_E_A 7v3l_F_G_B 7v3l_H_I_C
+cluster_305	7wjy_E_F_D 7wjz_A_C_B 7wjz_D_N_I 7wjz_E_O_J 7wjz_F_P_K 7wjz_G_Q_L 7wjz_H_R_M 7wk0_A_B_C 7wk0_D_E_F
+cluster_306	1adq_H_L_A
+cluster_307	1mpa_H_L_P 2mpa_H_L_P
+cluster_308	1hys_D_C_B 1j5o_H_L_B 1n5y_H_L_B 1n6q_H_L_B 1r0a_H_L_B 1t03_H_L_B 2hmi_D_C_B 3klh_D_C_B
+cluster_309	2brr_H_L_P 2brr_Y_X_P
+cluster_310	2j4w_H_L_D 2j5l_C_B_A
+cluster_311	3hi1_B_A_J 3hi1_H_L_G
+cluster_312	3ulu_H_L_A 3ulv_H_L_A
+cluster_313	3bae_H_L_A 3bkj_H_L_A 4f37_F_K_B 4f37_H_L_A
+cluster_314	4hs8_H_L_A
+cluster_315	4jb9_H_L_G
+cluster_316	4jfx_H_L_P 4jfz_H_L_P 4jg0_H_L_P 4jg1_H_L_P
+cluster_317	4qww_D_C_B 4qww_F_E_A
+cluster_318	4rwy_H_L_A 4rx4_A_D_E 4rx4_H_L_G
+cluster_319	4xgz_A_B_a 4xgz_G_I_g 4xgz_U_V_u 4xgz_W_X_w 5eii_A_B_I 5eii_H_L_G
+cluster_320	5fgc_E_B_A
+cluster_321	5jym_B_b_A 5jym_D_d_C
+cluster_322	5kov_C_c_A 5kov_E_e_B 5kov_I_i_G 5kov_K_k_H 5kov_O_o_M 5kov_U_u_T
+cluster_323	5w1k_D_C_E 5w1k_I_H_J 5w1k_O_N_P 5w1k_Q_M_R
+cluster_324	5w6g_H_L_A
+cluster_325	5hhv_H_L_A 6azm_B_A_E 6azm_D_C_F 6txz_H_L_A 6uta_A_B_C 6uta_H_L_E
+cluster_326	6bf4_B_C_A 6bf4_H_L_G
+cluster_327	2oqj_B_A_C 2oqj_E_D_F 2oqj_H_G_I 2oqj_K_J_L 6cxg_H_L_A 6cxg_M_K_C 6e5p_3_4_E 6e5p_H_L_A 6e5p_S_T_C 7l02_M_K_A 7l06_G_E_B 7l06_M_K_A 7l09_M_K_A
+cluster_328	6fn1_C_B_A 6fn4_C_B_A 6qee_C_B_A 6qex_C_B_A 7o9w_C_B_A
+cluster_329	6k7o_B_C_P 6k7o_D_E_Q 6k7o_F_G_R 6k7o_H_L_A
+cluster_330	6meh_H_L_C
+cluster_331	6n81_C_D_B 6n81_H_L_A
+cluster_332	6o23_A_B_E 6o23_C_D_E 6o25_E_F_H
+cluster_333	6o28_A_B_E 6o28_C_D_F 6o29_A_B_C 6o29_H_L_D 6o2a_A_B_F 6o2a_H_I_K 6o2b_A_B_F 6o2b_H_I_K 6o2c_A_B_C
+cluster_334	6oe4_B_C_A 6oe4_E_F_D 6oe5_H_L_A
+cluster_335	6p3s_A_B_L 6p3s_C_D_E 6p3s_F_G_H 6p3s_I_J_K 6p3s_M_N_O 6p3s_P_Q_R 6p3s_S_T_U
+cluster_336	6plk_H_L_E 6plk_I_M_F
+cluster_337	6vry_H_L_G
+cluster_338	6wm9_B_C_A 6wm9_E_F_D
+cluster_339	6wzt_E_D_B 6wzt_G_F_C 6wzt_H_L_A
+cluster_340	6ye3_A_B_C 6ye3_D_E_F 6ye3_G_H_I
+cluster_341	7cm4_H_L_A
+cluster_342	7coe_B_C_D 7coe_H_L_A
+cluster_343	7djz_A_B_C
+cluster_344	7dzy_H_L_B 7dzy_M_N_C 7dzy_O_P_A
+cluster_345	7jkt_H_L_G
+cluster_346	7jtr_B_b_A 7jtr_D_d_C 7jtr_F_f_E 7jtr_H_h_G
+cluster_347	7k75_A_B_E 7k75_C_D_F 7k75_I_J_F 7k75_M_N_E
+cluster_348	1n8z_B_A_C 3bdy_H_L_V 3be1_H_L_A 5u3d_B_A_E 6bgt_B_A_C 6oge_E_D_A 7kez_H_L_V 7kf0_A_B_C 7kf0_H_L_V 7kf1_A_B_C 7kf1_D_E_F 7kf1_G_I_J 7kf1_H_L_V 7mn8_D_C_B 8q6j_B_A_E
+cluster_349	4tsa_H_L_A 6xc2_H_L_A 6xc2_X_Y_Z 6xc3_B_A_C 6xe1_H_L_E 7bz5_H_L_A 7czr_H_K_A 7czr_J_N_C 7czs_H_K_A 7czs_I_M_B 7czs_J_N_C 7d00_H_K_A 7d00_J_N_C 7d0c_G_F_C 7d0c_H_L_A 7k8m_A_B_E 7kfv_C_D_B 7kfv_F_G_E 7kfv_H_L_A 7kfw_C_D_B 7kfw_F_G_E 7kfw_H_L_A 7kfx_H_L_A 7kfy_H_L_A 7mjj_D_E_A 7mjj_F_G_B 7mjk_D_E_A 7mjk_F_G_B 7mjk_H_I_C 7mjl_H_L_A 7qf0_H_L_A 8cwv_H_L_A
+cluster_350	7kmg_A_B_C 7kmg_D_E_F
+cluster_351	7kqh_C_D_A 7kqh_H_L_B
+cluster_352	7n28_X_Y_F
+cluster_353	7ox1_A_B_G 7ox1_C_D_Z 7ox1_E_F_Y 7ox1_H_L_X
+cluster_354	7pi2_B_C_A 7pi2_E_F_D 7pi2_H_I_G 7pi2_K_L_J 7pi3_B_C_A 7pi3_I_J_H 7pi3_P_Q_O 7pi3_W_X_V
+cluster_355	7pqz_A_B_E
+cluster_356	5wi9_F_E_B 5wi9_H_L_A 7prz_H_L_E
+cluster_357	7rk1_C_c_A 7rk1_D_d_B
+cluster_358	5gzo_C_D_B 5gzo_H_L_A 7mdp_H_I_A 7rp2_H_I_A 7rp3_H_I_A
+cluster_359	7s0c_H_L_A 7s0c_M_N_B 7s0e_H_L_A
+cluster_360	7u0a_H_L_A
+cluster_361	7upw_D_E_A 7upw_F_G_B 7upw_H_L_C 7upx_H_L_A 7upy_D_E_C 7upy_F_G_A 7upy_H_L_B
+cluster_362	7wo4_D_E_B 7wo4_F_G_A 7wo4_H_I_C 7wo4_M_N_K 7wo4_O_P_J 7wo4_Q_R_L 7wo5_D_E_B 7wo5_F_G_A 7wo5_H_I_C 7wo7_A_B_C
+cluster_363	7wpd_X_Y_A 7wpe_U_V_A 7wpe_X_Y_B 7wpf_R_S_B 7wpf_U_V_C 7wpf_X_Y_A 7wrv_U_V_C 7xod_R_NA_B 7xod_U_V_C 7xod_X_Y_A
+cluster_364	7zce_E_e_C 7zce_F_f_B 7zce_G_g_A 7zcf_E_e_C
+cluster_365	8dp1_E_F_B 8dp1_N_O_J 8dp1_R_M_W
+cluster_366	8dzw_H_L_C 8dzw_I_M_A 8dzw_J_N_B
+cluster_367	1dzb_A_a_X
+cluster_368	1dzb_B_b_Y
+cluster_369	1za3_B_A_S 1za3_H_L_R
+cluster_370	2osl_A_B_Q 2osl_H_L_P 6vja_H_L_C 6vja_I_M_D 6y90_C_D_B 6y90_H_L_A
+cluster_371	3bn9_F_E_A
+cluster_372	3ngb_B_C_A 3ngb_E_F_D 3ngb_H_L_G 3ngb_J_K_I 4lss_H_L_G 4lst_H_L_G 5kzc_B_D_C 5kzc_E_G_F 5kzc_H_L_A 6v8x_C_D_A 6v8x_G_H_E 6v8x_K_L_I 6vlw_H_L_G
+cluster_373	3q3g_B_A_E 3q3g_D_C_G 3q3g_H_F_I 3q3g_K_J_L 3qa3_B_A_E 3qa3_D_C_G 3qa3_H_F_I 3qa3_K_J_L
+cluster_374	3ulu_D_C_A 3ulv_D_C_A
+cluster_375	3vg9_C_B_A 3vga_C_B_A
+cluster_376	4f9p_C_c_A 4f9p_D_d_B
+cluster_377	4hfu_H_L_A
+cluster_378	4idj_H_L_A
+cluster_379	4j4p_C_D_B 4j4p_H_L_A
+cluster_380	4ki5_E_F_M 7kbt_E_F_A
+cluster_381	4n9g_A_B_C 4n9g_E_F_D 4n9g_H_L_Y 4n9g_M_N_Z
+cluster_382	4qnp_H_L_B
+cluster_383	3rhw_H_L_A 3rhw_J_M_E 3ri5_H_L_A 3ri5_J_M_E 3ria_H_L_A 3ria_J_M_E 3rif_G_K_C 3rif_H_L_A 4tnv_F_N_B 4tnv_G_K_C 4tnv_H_L_A 4tnv_I_O_D 4tnv_J_M_E 4tnv_U_h_Q 4tnv_V_Z_R 4tnv_W_f_P 4tnv_X_i_S 4tnv_Y_g_T 4tnw_F_N_B 4tnw_G_K_C 4tnw_H_L_A 4tnw_I_O_D 4tnw_J_M_E 4tnw_U_h_Q 4tnw_V_Z_R 4tnw_W_f_P 4tnw_X_i_S 4tnw_Y_g_T
+cluster_384	5e94_B_A_G 5e94_D_C_H
+cluster_385	5udc_E_G_D 5udd_J_P_A
+cluster_386	5vgj_H_L_G
+cluster_387	3s36_H_L_X 3s37_H_L_X 6apd_J_L_C 6apd_K_M_B 6apd_N_O_A 6att_H_L_A
+cluster_388	1bj1_H_L_W 1bj1_K_J_V 1cz8_H_L_W 1cz8_Y_X_V 6bft_A_B_G 6bft_H_L_C
+cluster_389	6c6z_C_D_A 6c6z_H_L_B
+cluster_390	6cyf_D_C_A 6cyf_F_E_B 6cyf_M_L_I 6cyf_U_T_Q
+cluster_391	6d0x_A_B_C
+cluster_392	6glx_C_D_B 6glx_H_L_A
+cluster_393	6lbh_C_D_B 6lbh_E_F_A
+cluster_394	6mqe_A_B_D 6mqe_H_L_C 6n1w_3_4_A 6n1w_H_L_D 6n1w_h_l_d
+cluster_395	6mqs_A_B_E 6mqs_C_D_F 6n1v_1_2_E 6n1v_3_4_F 6n1v_H_L_D
+cluster_396	6mvl_H_L_A
+cluster_397	6oc3_A_B_F 6oc3_C_D_E 6ocb_H_L_A 7u8m_N_O_C 7u8m_Q_R_A 7u8m_T_U_G
+cluster_398	6oz2_H_L_G 6oz4_H_L_G
+cluster_399	6phd_H_L_C
+cluster_400	6rcv_C_B_A 6rcv_H_G_F
+cluster_401	6ule_A_B_I 6ule_C_D_I
+cluster_402	6uoe_H_L_P
+cluster_403	6uqr_A_a_B 6uqr_C_c_D
+cluster_404	6urm_D_E_C 6urm_H_L_F
+cluster_405	6w00_H_L_P 6wg2_H_L_P 6wg2_I_M_P
+cluster_406	6w05_H_L_P
+cluster_407	6wfx_H_L_P
+cluster_408	6wh9_B_C_G 6wh9_E_F_D 6wh9_H_I_A
+cluster_409	6wty_B_C_A 6wty_E_F_D 6wty_H_I_G 6wty_K_L_J
+cluster_410	6wzj_A_B_E 6wzj_C_D_F 6wzk_A_B_E 6wzk_C_D_F 6wzl_A_B_E 6wzl_C_D_F 6wzm_A_B_E 6wzm_C_D_F
+cluster_411	5x8m_B_C_A 6x4t_B_E_C 6x4t_D_F_A 7dk2_A_B_C 7dk2_D_E_F 7dk2_G_H_I 7dk2_J_K_L
+cluster_412	6xdg_B_D_E 6xkp_H_L_A 6xkp_M_N_B
+cluster_413	6xy2_H_L_A
+cluster_414	4ut9_H_L_A 4ut9_I_M_B 4ut9_J_N_D 4ut9_K_O_C 5h30_G_H_A 5h30_I_M_C 5h30_K_L_B 5h32_G_H_A 5h32_I_M_C 5h32_K_L_B 5h37_G_H_A 5h37_I_M_C 5h37_K_L_B 7a3n_H_L_A 7a3o_H_L_A 7a3p_H_L_A 7a3p_I_M_B 7a3q_H_L_A 7a3q_I_M_B 7a3u_H_L_A 7c2s_G_H_B 7c2t_K_L_B 7c2t_V_W_N 7cth_I_M_B 7v3h_G_H_A 7v3h_I_M_C 7v3h_K_L_B 8cxh_H_L_A
+cluster_415	7ben_A_B_E 7ben_G_I_C 7beo_A_B_R 7beo_E_F_X 7orb_A_B_R 7orb_E_F_X
+cluster_416	7czy_H_K_A 7czy_J_N_C 7czz_H_K_A 7czz_I_M_B 7czz_J_N_C
+cluster_417	7fci_H_L_A
+cluster_418	7jks_H_L_G
+cluster_419	7jtg_A_B_E
+cluster_420	7ley_D_E_A 7ley_G_F_B 7ley_H_I_C
+cluster_421	7lfb_H_L_X 7lfd_H_L_A
+cluster_422	7lq7_C_D_B 7lq7_F_G_E 7lq7_H_L_A
+cluster_423	7m42_B_A_E
+cluster_424	7mf1_H_L_A
+cluster_425	7ntc_H_L_C
+cluster_426	7b0b_H_L_F 7ben_D_F_C 7ben_H_L_E 7beo_C_D_X 7beo_H_L_R 7lrs_D_E_C 7lrt_D_E_C 7mlz_H_L_A 7nd9_H_L_B 7ndb_H_L_B 7ora_F_G_R 7ora_H_L_C 7orb_C_D_X 7orb_H_L_R 7s5r_B_C_A 7tbf_H_L_A 7u0d_O_P_B
+cluster_427	7ox4_A_B_C
+cluster_428	7ps5_H_L_E
+cluster_429	7qny_A_B_E
+cluster_430	7rk2_C_c_B 7rk2_D_d_A
+cluster_431	6oz3_H_L_G 7sx6_B_C_A 7sx6_H_L_G 7sx7_B_C_A 7sx7_H_L_G
+cluster_432	7t7b_H_L_A
+cluster_433	7u0e_A_B_D 7u0e_H_L_C
+cluster_434	7u0p_D_I_B 7u0p_E_F_C 7upl_E_D_B 7upl_F_I_A
+cluster_435	7uym_H_L_P 7v05_A_a_X 7v05_B_b_X 7v05_C_c_X 7v05_D_d_X 7v05_E_e_X 7v05_F_f_X 7v05_G_g_X 7v05_H_h_X 7v05_I_i_X 7v05_J_j_X 7v05_K_k_X 7v05_L_l_X 7v05_M_m_X 7v05_N_n_X
+cluster_436	7z0x_H_L_R
+cluster_437	7zf5_D_F_E 7zf5_G_I_A
+cluster_438	7zfa_E_F_B 7zfa_H_L_A 7zfa_J_K_C 7zfa_M_N_D
+cluster_439	7zfd_A_B_F 7zfd_H_L_E
+cluster_440	1dee_D_C_G 1dee_F_E_H 1hez_D_C_E
+cluster_441	1h0d_B_A_C
+cluster_442	1qfu_H_L_A
+cluster_443	1wej_H_L_F
+cluster_444	2ipu_G_K_P 2ipu_H_L_Q 2r0w_H_L_Q 2r0z_H_L_Q 3eys_H_L_Q 3eyu_H_L_Q
+cluster_445	2xra_H_L_A
+cluster_446	3g6d_H_L_A 5d70_H_L_A 5d71_H_L_A
+cluster_447	3l5w_B_A_J 3l5w_H_L_I
+cluster_448	3l5x_H_L_A 4ps4_H_L_A
+cluster_449	3w2d_H_L_A
+cluster_450	4hg4_J_K_A 4hg4_L_M_B 4hg4_N_O_C 4hg4_V_W_G
+cluster_451	4jpw_H_L_G
+cluster_452	3eo1_B_A_C 3eo1_E_D_F 3eo1_H_G_I 3eo1_K_J_L 4kxz_H_L_A 4kxz_J_I_B 4kxz_N_M_E 4kxz_Q_P_D
+cluster_453	4uao_C_B_A
+cluster_454	4ybl_B_C_A 4ybl_H_L_G 4yc2_B_C_A 4yc2_H_L_G
+cluster_455	4ydl_B_C_A 4ydl_H_L_G
+cluster_456	4yfl_F_I_E 4yfl_H_L_G
+cluster_457	4yk4_C_B_A 4yk4_Z_Y_E
+cluster_458	4yue_H_L_C
+cluster_459	4yzf_E_F_A 4yzf_G_H_B 4yzf_I_J_C 4yzf_K_L_D
+cluster_460	5dmi_H_L_A
+cluster_461	5fb8_B_A_C
+cluster_462	5gmq_B_C_A
+cluster_463	5o14_C_D_B 5o14_H_L_A
+cluster_464	5t33_H_L_G
+cluster_465	5te4_H_L_G 5te6_H_L_G 5te7_H_L_G
+cluster_466	5utz_B_C_A 5utz_F_G_E 5utz_H_L_D 5utz_J_K_I
+cluster_467	5viy_H_G_F 5viy_J_I_D
+cluster_468	5xhv_H_L_E 5xhv_P_Q_A
+cluster_469	5yhl_H_L_A 5ywy_H_L_A
+cluster_470	6a0z_H_L_A
+cluster_471	6bkd_H_L_E
+cluster_472	6bt3_B_A_N 6bt3_D_C_M 6bt3_F_E_L
+cluster_473	6apd_D_E_A 6apd_F_G_C 6apd_H_I_B 6dc5_B_C_A 6dc5_E_F_D 6dc5_H_I_G
+cluster_474	6dcw_H_L_T 6gk7_H_L_A
+cluster_475	6iek_B_C_A 6iek_E_F_D
+cluster_476	6ii8_G_I_A 6ii8_H_L_C 6ii8_J_K_E 7s0b_A_B_F
+cluster_477	6m3b_C_B_A
+cluster_478	5i8c_A_B_C 5i8h_E_F_B 5i8h_G_H_D 6me1_A_B_F 6me1_C_D_E
+cluster_479	6mnr_H_L_P 6mns_A_B_Q 6mns_H_L_P
+cluster_480	6n7j_A_B_D 6n7j_H_L_C
+cluster_481	6o3l_A_B_E 6o3l_H_L_D
+cluster_482	6p67_A_B_K 6p67_C_D_J 6p67_E_F_G
+cluster_483	6v4o_A_B_I 6v4o_C_G_M 6v4o_D_E_W 6v4o_H_L_N
+cluster_484	6vbq_A_B_I 6vbq_C_D_K 6vbq_E_F_J 6vbq_H_L_P
+cluster_485	6vjt_H_L_P
+cluster_486	6wg0_H_L_P
+cluster_487	6wo3_H_L_E
+cluster_488	6x78_B_A_I 6x78_H_L_G
+cluster_489	6xcj_H_L_G
+cluster_490	6xq4_C_B_A 6xq4_E_F_D
+cluster_491	3ixt_A_B_C 3ixt_H_L_P 3qwo_A_B_C 3qwo_H_L_P 4jlr_A_B_C 4jlr_H_L_S 4zyp_J_L_C 4zyp_K_M_A 4zyp_N_O_B 6oe5_B_C_A 6ywd_A_B_C
+cluster_492	7a0w_C_D_A 7a0w_E_F_B 7a0x_C_D_A 7a0x_E_F_B 7a0y_C_D_A 7a0y_E_F_B
+cluster_493	7ahv_A_B_H
+cluster_494	4hwb_H_L_A 5tz2_H_L_C 7bnv_H_L_A
+cluster_495	7c94_B_A_C 7c94_E_D_F
+cluster_496	4tsb_H_L_A 7b3o_H_L_E 7chs_H_L_E 7czq_H_K_A 7czq_J_N_C 7n3i_H_L_C 7q0g_H_L_E
+cluster_497	7f9w_B_C_A
+cluster_498	7fcp_B_D_A
+cluster_499	7k76_A_B_P 7k76_H_L_P
+cluster_500	7klg_H_L_A 7klg_I_M_B 7klh_H_L_A 7klh_I_M_B 7kmk_H_L_A 7kmk_I_M_B 7kml_H_L_A 7kml_I_M_B 7kml_J_N_C 7kxj_H_L_A 7kxj_I_M_B 7kxj_J_N_C 7kxk_H_L_A 7kxk_I_M_B 7kxk_J_N_C
+cluster_501	7lcn_B_D_A 7lcn_H_L_C 7lcn_M_S_K
+cluster_502	7mzk_H_L_A 7mzk_N_M_B
+cluster_503	7n3d_H_L_C
+cluster_504	7n4l_H_L_A
+cluster_505	7n62_H_L_A
+cluster_506	7rah_B_A_E
+cluster_507	7rxj_A_B_G 7rxj_H_L_I
+cluster_508	7mzj_C_D_B 7mzk_C_D_B 7mzk_F_E_A 7s0b_C_D_E 7s0d_H_L_C 7s0d_M_N_A 7s0d_O_P_B
+cluster_509	7st8_H_L_S
+cluster_510	7syy_H_L_A 7syz_H_L_A
+cluster_511	7v26_a_b_A 7v26_c_d_C 7v26_e_f_E 7v27_B_A_C
+cluster_512	7v61_H_K_B 7v61_I_M_D
+cluster_513	7y0v_H_L_R
+cluster_514	6axk_A_B_E 6mb3_A_K_E 6mb3_B_M_E 6mb3_C_N_E 6mb3_D_O_E 6mb3_F_P_E 6mb3_G_Q_E 6mb3_H_L_E 6mb3_I_R_E 6mb3_J_S_E 6mhg_A_N_E 6mhg_B_O_E 6mhg_C_P_E 6mhg_D_Q_E 6mhg_F_R_E 6mhg_G_S_E 6mhg_H_L_E 6mhg_I_T_E 6mhg_J_U_E 6mhg_K_V_E 6mhg_M_W_E 8ekf_H_L_C
+cluster_515	1nfd_F_E_B 1nfd_H_G_D
+cluster_516	1s78_D_C_A 1s78_F_E_B 6oge_C_B_A 8q6j_D_C_E
+cluster_517	1tzh_B_A_W 1tzh_H_L_V
+cluster_518	1tzi_B_A_V
+cluster_519	2ltq_C_B_A 2ltq_F_E_D 2qhr_H_L_P 2zuq_C_B_A 2zuq_F_E_D
+cluster_520	2qqk_H_L_A 2qql_H_L_A
+cluster_521	2v17_H_L_A
+cluster_522	3ghe_H_L_P
+cluster_523	3go1_H_L_P
+cluster_524	3ifp_A_B_Q 3ifp_C_D_R 3ifp_E_F_S 3ifp_H_L_P
+cluster_525	3o2d_H_L_A 7t0r_C_B_D 7t0r_H_L_A
+cluster_526	3sob_H_L_B
+cluster_527	3vrl_E_F_D 3vrl_H_L_C 5do2_C_D_B 5do2_H_L_A
+cluster_528	3x3f_H_L_A
+cluster_529	1ots_C_D_A 1ots_E_F_B 1ott_C_D_A 1ott_E_F_B 1otu_C_D_A 1otu_E_F_B 2exw_C_D_A 2exw_E_F_B 2exy_C_D_A 2exy_E_F_B 2ez0_C_D_A 2ez0_E_F_B 2fec_I_L_B 2fec_J_O_A 2fed_C_D_A 2fed_E_F_B 2fee_I_L_B 2fee_J_O_A 2h2p_C_D_A 2h2p_E_F_B 2h2s_C_D_A 2h2s_E_F_B 2hlf_C_D_A 2hlf_E_F_B 2ht2_C_D_A 2ht2_E_F_B 2ht3_C_D_A 2ht3_E_F_B 2ht4_C_D_A 2ht4_E_F_B 2htk_C_D_A 2htk_E_F_B 2htl_C_D_A 2htl_E_F_B 2r9h_C_D_A 2r9h_E_F_B 3det_C_D_A 3det_E_F_B 3ejy_C_D_A 3ejy_E_F_B 3ejz_C_D_A 3ejz_E_F_B 4ene_C_D_A 4ene_E_F_B 4fg6_C_D_A 4fg6_E_F_B 4kjp_C_D_A 4kjp_E_F_B 4kjq_C_D_A 4kjq_E_F_B 4kjw_C_D_A 4kjw_E_F_B 4kk5_C_D_A 4kk5_E_F_B 4kk6_C_D_A 4kk6_E_F_B 4kk8_C_D_A 4kk8_E_F_B 4kk9_C_D_A 4kk9_E_F_B 4kka_C_D_A 4kka_E_F_B 4kkb_C_D_A 4kkb_E_F_B 4kkc_C_D_A 4kkc_E_F_B 4kkl_C_D_A 4kkl_E_F_B 4lou_C_D_A 4lou_E_F_B 4mqx_C_D_A 4mqx_E_F_B 5hd8_C_D_A 5hd8_E_F_B 6ad7_C_D_A 6ad7_E_F_B 6ad8_C_D_A 6ad8_E_F_B 6ada_C_D_A 6ada_E_F_B 6adb_C_D_A 6adb_E_F_B 6adc_C_D_A 6adc_E_F_B 6k5a_C_D_A 6k5a_E_F_B 6k5d_C_D_A 6k5d_E_F_B 6k5f_C_D_A 6k5f_E_F_B 6k5i_C_D_A 6k5i_E_F_B 7cvs_C_D_A 7cvs_E_F_B 7cvt_C_D_A 7cvt_E_F_B
+cluster_530	4fqj_H_L_A 4fqk_E_F_C 4fqk_H_L_A
+cluster_531	4lsp_H_L_G 4lsq_H_L_G 4lsr_H_L_G
+cluster_532	4m7l_H_L_T
+cluster_533	4mhh_G_I_C 4mhh_H_L_E 4mhh_J_K_A 4mhj_F_E_C 4mhj_H_L_A 4mhj_K_J_G 4mhj_R_Q_O 4mhj_T_X_M 4mhj_W_V_S
+cluster_534	4n0y_H_L_A
+cluster_535	4nzt_H_L_M 6cnv_H_L_B
+cluster_536	4q6i_B_A_K 4q6i_E_D_J 4q6i_G_F_I 4q6i_H_L_C
+cluster_537	4xnz_B_C_A 4xnz_E_F_D 4xnz_H_L_G
+cluster_538	5b71_B_A_E 5b71_D_C_F
+cluster_539	5bk0_B_A_E
+cluster_540	5bv7_H_L_A
+cluster_541	5c0r_H_L_A
+cluster_542	5dfw_H_h_A
+cluster_543	5g64_H_L_A 5hys_A_B_G 5hys_C_D_K 5hys_E_F_J 5hys_H_L_I 7shy_C_D_A 7shy_E_F_B 7shy_I_J_G 7shy_K_L_H 7shz_C_D_A 7shz_E_F_B 7shz_I_J_G 7shz_K_L_H 7si0_C_D_A 7si0_E_F_B 7si0_I_J_G 7si0_K_L_H
+cluster_544	5occ_H_L_A
+cluster_545	5otj_B_A_D 5otj_H_L_C
+cluster_546	5y9f_L_K_A 5y9f_N_M_B 5y9f_P_O_C 5y9f_R_Q_D 5y9f_T_S_E 5y9f_V_U_F 5y9f_X_W_G 5y9f_Z_Y_H 5y9f_b_a_I 5y9f_d_c_J
+cluster_547	6a67_C_D_B 6a67_H_L_A
+cluster_548	6b0h_B_A_J 6b0h_D_C_I
+cluster_549	6bck_H_L_G
+cluster_550	6cez_H_L_P
+cluster_551	6d01_A_B_I 6d01_C_D_I 6d01_E_F_J 6d01_G_H_J
+cluster_552	6ddv_B_A_C
+cluster_553	6dkj_A_B_D 6dkj_H_L_C
+cluster_554	6elu_B_C_A 6elu_E_F_D 6elu_H_I_G 6elu_K_L_J
+cluster_555	5zv3_H_L_A 6gk8_H_L_I
+cluster_556	6hx4_H_L_B
+cluster_557	6mqc_A_B_D 6mqc_H_L_C 6nf2_H_L_B 6nf2_O_P_I 6nf2_W_X_R
+cluster_558	6mph_1_2_6 6mph_3_4_E 6mph_H_L_D 6mqm_A_B_C 6mqm_D_E_F 6mqm_G_H_I 6mqm_J_K_L
+cluster_559	6n5b_H_L_B
+cluster_560	6o41_B_A_N 6o42_B_A_I 6o42_H_L_G
+cluster_561	6pbv_B_A_G 6pbv_D_C_I
+cluster_562	6rcu_B_C_A
+cluster_563	6ss2_H_L_A 6ss6_H_L_A 6ss6_I_M_B
+cluster_564	5vlp_H_L_A 6u2f_H_L_A 6u3i_H_L_A
+cluster_565	6w41_H_L_C 6xc3_H_L_C 6xc7_H_L_A 6yla_B_C_A 6yla_H_L_E 6ym0_H_L_E 6yor_B_C_A 6yor_H_L_E 6z2m_B_C_A 6z2m_H_L_E 6zh9_H_L_E 6zlr_B_C_A 6zlr_F_G_D 6zlr_H_L_E 7a5r_H_L_A 7a5r_I_M_B 7a5s_H_L_A 7a5s_I_M_B 7jn5_H_L_F 7lop_B_C_A 7lop_W_V_Z 7m6d_A_B_C 7qez_E_F_A 7r8l_C_D_E 8dw2_H_L_B 8dw3_H_L_B
+cluster_566	6wgl_A_B_C
+cluster_567	6whk_C_B_A
+cluster_568	6wmw_M_N_B
+cluster_569	6x7w_A_C_D 6x7w_H_L_G
+cluster_570	6xkq_H_L_A
+cluster_571	7amp_H_L_B 7amq_H_L_B 7amr_H_L_B 7ams_H_L_B
+cluster_572	7cbp_R_S_N
+cluster_573	7czp_H_L_A 7czp_J_N_C 7sts_H_L_C
+cluster_574	7dha_C_B_A 8as0_H_G_I 8as0_K_J_L 8as0_N_M_O 8as0_Q_P_R 8as0_T_S_Y
+cluster_575	7dk0_A_B_C
+cluster_576	7ean_H_L_A
+cluster_577	7fae_H_L_A 7fae_e_d_B 7fae_h_g_C 7faf_H_L_C 7faf_d_c_A 7faf_g_f_B 7fjc_H_L_E
+cluster_578	7jw0_D_C_B 7jw0_G_F_E 7jw0_H_L_A 7jx3_H_L_R 7l0n_H_L_R 7l0n_M_N_S 7tn0_H_G_I 7tn0_M_N_S 7x1m_H_L_M 7xcp_H_L_B 8df5_H_L_R 8df5_M_N_S
+cluster_579	7klc_H_L_A
+cluster_580	7kqk_A_B_C 7kqk_H_L_P
+cluster_581	7l2c_C_D_B 7l2c_H_L_A
+cluster_582	7lf7_A_B_M 7lf7_H_L_K 7lf8_H_L_A
+cluster_583	7m7w_C_D_S 7m7w_E_F_R
+cluster_584	4zyp_D_E_C 4zyp_F_G_B 4zyp_H_I_A 7mmn_D_E_B 7mmn_H_L_I 7mmn_M_G_K
+cluster_585	7mrz_X_Y_C 7oly_H_L_C
+cluster_586	7mzj_H_L_A 7mzj_N_M_B
+cluster_587	7phu_B_C_A
+cluster_588	6xdg_C_A_E 7rks_H_L_R 7rks_I_M_S 7rkv_D_H_B 7rkv_E_F_A 7rkv_G_L_C
+cluster_589	7rlv_A_B_P 7rlv_C_D_R 7rlv_E_F_Q 7rlw_A_B_P 7rlw_C_D_R 7rlx_A_B_P 7rly_A_B_Q 7rly_C_D_P 7rly_E_F_R 7rlz_A_B_P 7rlz_D_C_R
+cluster_590	7rm1_A_B_P 7rm1_C_D_P 7rm3_A_B_Q 7rm3_C_D_P
+cluster_591	7rxl_C_D_F 7rxl_H_L_E
+cluster_592	7s1b_H_L_A
+cluster_593	7sk3_F_E_A 7sk4_F_E_A 7sk5_F_E_A 7sk6_F_E_A 7sk8_F_E_A 7sk9_F_E_A
+cluster_594	6ieb_H_L_A 7str_H_L_C
+cluster_595	7ch5_H_L_R 7chc_H_L_R 7e88_A_B_C 7e88_D_E_F 7e88_G_H_I 7e88_J_K_L 7u0q_G_F_A 7u0q_J_I_C
+cluster_596	7v5j_E_D_A 7v5j_G_F_C 7v5j_I_H_B 7v5k_E_D_A 7v5k_G_F_C 7v5k_I_H_B
+cluster_597	7zbu_H_L_A
+cluster_598	8cz5_H_L_A
+cluster_599	8d6z_A_B_H 8d6z_C_D_K 8d6z_E_F_J 8d6z_G_I_L
+cluster_600	4jdt_H_L_G 4jpk_H_L_A 5fec_A_B_D 5fec_H_L_I 6d2p_H_L_C 6mft_A_B_C 6mft_H_L_G 6p8m_H_L_C 6p8n_B_D_A 6p8n_H_L_C 7mzh_B_C_A 7mzh_H_L_E 8e1p_F_I_E 8e1p_H_L_G 8e1p_N_O_M
+cluster_601	1acy_H_L_P 1ai1_H_L_P
+cluster_602	1fbi_H_L_X 1fbi_Q_P_Y
+cluster_603	1ken_H_L_A
+cluster_604	1nca_H_L_N 1ncb_H_L_N 1ncc_H_L_N 1ncd_H_L_N
+cluster_605	1ors_B_A_C 2a0l_D_C_A 2a0l_F_E_B
+cluster_606	1pkq_B_A_E 1pkq_G_F_J
+cluster_607	1rjl_B_A_C
+cluster_608	2igf_H_L_P
+cluster_609	2r56_H_L_A 2r56_I_M_B
+cluster_610	2vir_B_A_C 2vis_B_A_C 2vit_B_A_C 7jti_H_L_A
+cluster_611	2vxs_H_L_B 2vxs_I_M_A 2vxs_J_N_D 2vxs_K_O_C 4qhu_H_L_C 5hhx_H_L_A 5hi3_C_D_A 5hi3_H_L_B 5hi4_C_D_B 5hi4_H_L_A 5hi5_C_D_A 5hi5_H_L_B 8as0_B_C_A 8as0_E_D_F
+cluster_612	2x7l_A_B_O 2x7l_C_D_P 2x7l_E_F_R 2x7l_G_I_M 2x7l_H_L_N 2x7l_J_K_Q 5dhv_A_B_N 5dhv_H_L_M 5dhx_B_b_C 5dhx_L_l_M 5dhy_A_B_C 5dhy_H_L_M 5dhz_H_L_M
+cluster_613	3fmg_H_L_A
+cluster_614	3fn0_H_L_P 3q1s_H_L_I
+cluster_615	3ixx_G_H_A 3ixy_G_H_A 3ixy_I_J_B
+cluster_616	3jab_H_L_C 3jab_Q_R_O 3jbq_H_L_F 3jbq_h_l_B 7ew5_B_C_M 7ew5_E_F_A 7ew5_H_I_D 7ew5_K_L_G 7ew5_N_O_J 7ew5_Q_R_b 7ew5_T_U_P 7ew5_W_X_S 7ew5_Z_a_V 7ew5_g_j_Y
+cluster_617	3nh7_I_M_B 3nh7_J_N_C 3nh7_K_O_D
+cluster_618	3opz_H_L_A 3opz_I_M_B 3opz_J_N_C
+cluster_619	3u7y_H_L_G 4jkp_H_L_G 5wdu_D_E_G 5wdu_O_P_F 5wdu_W_X_Q
+cluster_620	3ubx_G_I_D 3ubx_H_L_A
+cluster_621	3v6z_A_B_F 3v6z_C_D_E
+cluster_622	4aei_H_L_A 4aei_I_M_B 4aei_J_N_C
+cluster_623	4cad_B_A_C 4cad_E_D_F 4cad_H_G_I 4cad_K_J_L
+cluster_624	4dtg_H_L_K
+cluster_625	4g6a_C_D_B 4g6a_H_L_A 6bzv_G_H_L 6bzw_A_B_J 6bzw_C_D_I 6bzw_E_F_K 6bzw_G_H_L
+cluster_626	4g80_A_B_S 4g80_C_D_J 4g80_E_F_T 4g80_G_H_I 4rrp_K_E_Q 4xh2_H_L_h
+cluster_627	4j6r_H_L_G
+cluster_628	4k3j_H_L_B
+cluster_629	4lsu_H_L_G
+cluster_630	4jpv_H_L_G 4lsv_H_L_G 5v8l_G_K_C 5v8l_H_L_A 5v8l_I_M_D 5v8m_H_L_A 5v8m_R_T_F 5v8m_S_U_G 7ly9_A_M_K 7ly9_B_C_G 7ly9_E_I_D 7mxd_C_D_A 7mxd_J_K_F 7mxd_S_U_G 7n28_C_D_A 7n28_J_K_F 7n28_S_U_G 7pc2_G_H_C 7pc2_I_J_B 7pc2_K_L_A 8c8t_R_T_F 8c8t_S_U_G 9bew_C_D_G 9bew_F_I_A 9bew_O_P_M
+cluster_631	4n8c_H_L_X 4n8c_I_M_Y
+cluster_632	4np4_H_L_A 4np4_I_M_A
+cluster_633	4oqt_H_L_A
+cluster_634	4u0r_B_C_A 5mi0_B_C_A
+cluster_635	4uta_H_L_B 4uta_I_M_A 5lbs_H_L_A 5lbs_I_M_B 7a3t_H_L_A 8cxg_1_2_B 8cxg_H_L_A 8cxg_h_l_C
+cluster_636	4xwg_H_L_A 4xx1_E_G_B 4xx1_H_L_A 4xx1_M_O_J 5bv7_C_B_A
+cluster_637	4zs6_C_D_B 4zs6_H_L_A
+cluster_638	4zs7_H_L_A
+cluster_639	4zto_H_L_P 4zto_I_M_Q
+cluster_640	5c0s_H_L_A 8dim_B_C_A 8dim_E_F_D 8dim_H_I_G 8diu_E_F_B 8diu_G_C_D 8diu_H_I_A
+cluster_641	5d1z_B_A_I 5d1z_G_H_J
+cluster_642	5d9q_D_d_G 5d9q_I_i_A 5d9q_O_o_J
+cluster_643	5dd0_H_L_P
+cluster_644	5ezo_H_L_A
+cluster_645	5fhc_A_B_J
+cluster_646	5i5k_H_L_B 5i5k_X_Y_A
+cluster_647	5k9o_A_B_F 5k9o_H_L_I
+cluster_648	5kvd_H_L_E
+cluster_649	5mvz_A_B_V 5mvz_H_L_U
+cluster_650	5myo_B_A_E 7vgs_D_C_A 7vgs_F_E_B
+cluster_651	5nmv_H_L_K
+cluster_652	5tl5_H_L_A 5tlj_B_A_X 5tlk_B_A_X 5tlk_F_E_Y
+cluster_653	5ugy_H_L_A 5ugy_I_M_C 5ugy_J_N_E
+cluster_654	5ukr_H_L_G
+cluster_655	5vag_C_B_A
+cluster_656	5veb_A_B_X 5veb_H_L_Y
+cluster_657	5xbm_B_A_C 5xbm_E_D_F
+cluster_658	6al5_H_L_A
+cluster_659	6azz_C_B_A 6azz_F_E_D 6b08_C_B_A
+cluster_660	6b5l_H_L_A 6b5m_H_L_A 6b5n_H_L_A 6b5o_H_L_A 7lkb_B_C_D 7lkb_H_L_A 7lkg_A_B_C 7lkg_D_E_F 7raj_H_L_A 7rcs_A_B_D 7rcs_H_L_C 7rd4_A_B_I 7rd4_H_L_G 7rd9_H_L_C 7rda_H_L_C 7sg5_H_L_A 7sg6_H_L_A
+cluster_661	6bqb_H_L_P
+cluster_662	6cde_3_4_1 6cde_H_L_D 6cde_h_l_d 6cdp_A_B_C
+cluster_663	6d11_A_B_E 6d11_C_D_E
+cluster_664	6ddr_B_A_C
+cluster_665	6hga_H_L_B
+cluster_666	6kn9_D_d_A 6kn9_F_f_C
+cluster_667	6m3c_F_E_C 6m3c_H_L_A 6m3c_K_J_G 6obd_B_A_E 6obd_H_L_F
+cluster_668	6mtq_H_L_T
+cluster_669	6n6b_K_L_A
+cluster_670	6nip_A_B_E 6nip_H_L_Z
+cluster_671	6p50_H_L_C
+cluster_672	6p60_A_B_E 6p60_C_D_F 6p60_G_H_I 6p60_J_K_L
+cluster_673	6pbw_D_C_E
+cluster_674	6pdx_H_L_A 6pdx_M_N_B 6pdx_O_P_C
+cluster_675	6u6u_H_L_R
+cluster_676	6u9s_A_B_C 6u9s_D_E_F
+cluster_677	6vbp_A_B_F 6vbp_C_D_E 6vbp_H_L_G 6vbp_J_I_K
+cluster_678	6wn1_B_C_A 6wn1_E_F_D
+cluster_679	6wn4_A_B_C 6wn4_H_L_D
+cluster_680	6x1t_A_B_N 6x1t_C_D_O 6x1t_E_F_Q 6x1t_G_I_R 6x1t_H_L_M 6x1t_J_K_P
+cluster_681	6xm2_B_A_L 6xm2_D_C_J 6xm2_F_E_I 6xm2_H_G_K
+cluster_682	6xpq_B_C_A
+cluster_683	6vtw_H_L_A 6ywc_A_B_C 6ywc_D_E_F
+cluster_684	6z2l_C_B_A
+cluster_685	6zcz_H_L_E 6zdg_B_C_A 6zdg_F_G_D 6zdg_H_L_E 6zdh_D_F_B 6zdh_G_I_C 6zdh_H_L_A 6zer_B_C_A 6zer_F_G_D 6zer_H_L_E 6zfo_B_C_A 6zfo_H_L_E 7nx6_H_L_E 7nx7_H_L_E 7nx8_H_L_E 7nx9_H_L_E 7nxa_H_L_E 7nxb_H_L_E 7qnw_H_L_E 7qnx_H_L_E 7zf3_H_L_E
+cluster_686	6zvf_H_L_P
+cluster_687	7cho_B_C_A 7cho_H_L_E
+cluster_688	7dcc_A_F_K 7dcc_B_M_I 7dcc_D_H_E 7dcx_A_F_C 7dcx_B_G_D 7dcx_E_H_K 7dd2_A_B_C
+cluster_689	7dm1_D_C_A 7dm1_F_E_B
+cluster_690	7dr4_A_B_J 7dr4_H_L_K
+cluster_691	7e3k_D_E_A 7e3k_F_G_B 7e3k_H_L_C 7e3l_D_E_A 7e3l_F_G_B 7e3l_H_L_C 7l7d_H_L_E 7l7e_A_B_G 7l7e_H_L_S 7l7e_I_J_K 7l7e_T_U_b 7mm0_H_L_A 7qti_F_E_A 7qtj_F_E_A 7swn_H_L_A 7tb8_H_L_A 7tcc_F_G_B 7tcc_J_K_A 7tcc_O_P_C 8d8q_C_B_A 8d8r_H_L_A
+cluster_692	7m7w_A_B_S 7m7w_H_L_R 7ra8_C_D_B 7ra8_F_G_E 7ra8_H_L_A 7ral_H_L_B
+cluster_693	7msq_D_E_B 7msq_H_L_A
+cluster_694	7mxd_X_Y_F
+cluster_695	7ncs_H_L_A 7nd0_H_L_A
+cluster_696	7o31_H_L_P
+cluster_697	7oh0_C_B_A
+cluster_698	7phv_B_C_A 7phv_E_F_D 7pi3_D_E_A 7pi3_K_L_H 7pi3_R_S_O 7pi3_Y_Z_V
+cluster_699	7ps7_A_B_E 7ps7_H_L_R
+cluster_700	7qu1_A_B_C
+cluster_701	7rfb_A_B_C 7rfb_H_L_D
+cluster_702	7rfc_A_B_C 7rfc_H_L_D
+cluster_703	7s0x_C_D_F 7s0x_H_L_E
+cluster_704	5t5f_H_L_A 7sbz_A_B_D 7sbz_H_L_C
+cluster_705	7sfx_A_B_E 7sfx_C_D_F
+cluster_706	7sjn_D_E_B 7sjn_F_G_C 7sjn_H_L_A 7sjo_E_F_C 7sjo_H_L_A 7sjo_I_J_B 7sjp_H_L_E
+cluster_707	7tuf_A_B_C 7tuf_H_L_D
+cluster_708	7unb_H_L_R
+cluster_709	7vad_H_L_A 7vae_H_L_A 7vaf_H_L_A 7vag_H_L_A 7wsi_H_L_A
+cluster_710	7x26_H_K_I 7x29_F_G_C 7x29_H_K_B 7x2a_H_K_A
+cluster_711	7z12_B_C_A
+cluster_712	8dtx_A_B_G 8dtx_H_L_I
+cluster_713	8zc3_E_D_A 8zc3_Q_M_B 8zc3_R_N_C
+cluster_714	1afv_H_L_A 1afv_K_M_B
+cluster_715	1ce1_H_L_P
+cluster_716	1egj_H_L_A
+cluster_717	1f90_H_L_E
+cluster_718	1fns_H_L_A 1oak_H_L_A 4zxb_A_B_E
+cluster_719	1fpt_H_L_P 3j3o_H_L_1 3j3p_H_L_1
+cluster_720	1frg_H_L_P
+cluster_721	1fsk_C_B_A 1fsk_F_E_D 1fsk_I_H_G 1fsk_L_K_J
+cluster_722	1him_L_H_P 1him_M_J_R 1hin_H_L_P 1ifh_H_L_P
+cluster_723	1pz5_B_A_C
+cluster_724	1yy9_D_C_A 4kro_D_C_A 4krp_D_C_A 6aru_C_B_A
+cluster_725	2dd8_H_L_S
+cluster_726	2h1p_H_L_P
+cluster_727	2hfg_H_L_R
+cluster_728	2j6e_H_L_A 2j6e_I_M_B
+cluster_729	2r0l_H_L_A 5bo1_H_L_B
+cluster_730	2zjs_H_L_Y
+cluster_731	3gi8_H_L_C 3gi9_H_L_C
+cluster_732	3hr5_B_A_S 3hr5_H_L_R 3hr5_I_P_T 3hr5_J_Q_V
+cluster_733	3j70_A_B_D 3j70_M_N_P 3j70_R_S_U 3jwd_H_L_A 3jwd_P_O_B 3jwo_H_L_A 4dvr_H_L_G
+cluster_734	3l95_B_A_X 3l95_H_L_Y
+cluster_735	3mxw_H_L_A
+cluster_736	3o41_A_B_C 3o41_H_L_P 3o45_A_B_C 3o45_H_L_P
+cluster_737	3pp4_H_L_P
+cluster_738	3qnz_B_A_C 3qo0_B_A_C
+cluster_739	3so3_C_B_A
+cluster_740	3uaj_C_D_B 3uaj_H_L_A 3uc0_H_L_A 3uc0_I_M_B
+cluster_741	3v6o_C_E_A 3v6o_D_F_B
+cluster_742	3v7a_E_H_A 3v7a_F_G_B
+cluster_743	4cni_A_B_D 4cni_H_L_C
+cluster_744	4dag_H_L_A
+cluster_745	4dke_H_L_A 4dke_I_M_B
+cluster_746	4f2m_A_B_E 4f2m_C_D_F
+cluster_747	4g3y_H_L_C
+cluster_748	4g6m_H_L_A
+cluster_749	4hc1_H_L_A 4hc1_M_N_B
+cluster_750	4ij3_C_B_A 5d96_C_B_A 5d96_J_I_D
+cluster_751	4j8r_B_A_I 4j8r_D_C_J
+cluster_752	4k9e_H_L_C
+cluster_753	4lmq_H_L_D
+cluster_754	4m5z_H_L_A
+cluster_755	4p3c_H_L_M 4p3d_A_B_C 4p3d_H_L_M 4qxu_H_L_K
+cluster_756	4r4f_H_L_A 4r4h_H_L_A 4r4n_F_G_E 4r4n_T_U_S
+cluster_757	4tqe_H_L_A
+cluster_758	4ydv_B_A_Q 4ydv_H_L_P
+cluster_759	5anm_B_A_G 5anm_D_C_E 5anm_H_L_F
+cluster_760	5cd5_C_D_A
+cluster_761	5f96_H_L_G 7t9t_C_D_A 7t9t_G_H_E 7t9t_K_L_I 8sxj_C_D_A 8sxj_G_H_E 8sxj_K_L_I
+cluster_762	5f9o_H_L_G
+cluster_763	5f9w_B_C_A 5f9w_H_L_G
+cluster_764	5b8c_B_A_C 5b8c_E_D_F 5b8c_H_G_I 5b8c_K_J_L 5ggs_A_B_Z 5ggs_C_D_Y 5jxe_G_F_A
+cluster_765	5h35_A_B_C 5h35_F_G_E 5h35_H_I_D
+cluster_766	5kqv_C_D_E 5kqv_P_Q_F
+cluster_767	5kvf_H_L_E
+cluster_768	5mu0_A_B_Q 5mu0_C_D_R 5mu0_E_F_S 5mu0_G_H_T 5mu0_I_J_U 5mu0_K_L_V 5mu0_M_N_W 5mu0_O_P_X 5mu2_A_B_X 5mu2_C_D_Q 5mu2_E_F_R 5mu2_G_H_S 5mu2_I_J_T 5mu2_K_L_U 5mu2_M_N_V 5mu2_O_P_W 5mub_A_B_X 5mub_C_D_E 5mub_F_G_H 5mub_I_J_K 5mub_L_M_N 5mub_O_P_Q 5mub_R_S_T 5mub_U_V_W 5mv3_A_B_X 5mv3_C_D_E 5mv3_F_G_H 5mv3_I_J_K 5mv3_L_M_N 5mv3_O_P_Q 5mv3_R_S_T 5mv3_U_V_W 5mv4_A_B_X 5mv4_C_D_E 5mv4_F_G_H 5mv4_I_J_K 5mv4_L_M_N 5mv4_O_P_Q 5mv4_R_S_T 5mv4_U_V_W
+cluster_769	5n7w_A_B_Y 5n7w_H_L_X
+cluster_770	5ob5_H_L_A
+cluster_771	5v6l_H_L_P 5v6l_I_M_Q
+cluster_772	5w1m_B_A_R 5w1m_D_C_T 5w1m_F_E_Q 5w1m_H_G_S
+cluster_773	5wb9_H_L_G
+cluster_774	5xjm_H_L_A
+cluster_775	5zia_A_B_C 5zia_D_E_F 5zia_G_L_R 5zia_H_I_J 5zia_K_M_N 5zia_O_P_Q
+cluster_776	6b0a_H_L_A
+cluster_777	6bkb_H_L_E 6uyg_H_L_E
+cluster_778	6blh_H_L_G
+cluster_779	6bli_A_B_C 6bli_D_E_F 6bli_G_H_I 6bli_J_K_L
+cluster_780	6bzu_A_B_J 6bzu_C_D_I 6bzu_G_H_L 6bzv_A_B_I 6bzv_C_D_J 6bzv_E_F_K
+cluster_781	6df1_H_L_A 6df2_B_A_C 6df2_H_L_D
+cluster_782	6dfi_H_L_E 6dfj_H_L_E
+cluster_783	5y9j_H_L_A 6fxn_D_E_A 6fxn_F_G_B 6fxn_H_I_C 6fxn_M_N_J 6fxn_O_P_L 6fxn_Q_R_K
+cluster_784	6iap_H_L_A
+cluster_785	6ii4_E_F_C 6ii4_H_L_A
+cluster_786	6jjp_A_B_C 6jjp_D_E_F
+cluster_787	6l62_H_L_A
+cluster_788	6mfp_C_D_A 6mfp_H_L_G
+cluster_789	6mtt_H_L_P
+cluster_790	6ogx_C_D_G 6okn_A_B_R 6okn_C_D_E
+cluster_791	6pds_B_A_C 6pds_H_L_G
+cluster_792	6phb_B_A_E 6phb_D_C_I
+cluster_793	6pxh_C_D_A 6pxh_H_L_B 6pz8_C_G_J 6pz8_D_K_F 6pz8_H_L_B
+cluster_794	6ubi_A_B_C 6ubi_D_E_F
+cluster_795	6uda_C_D_A 6uda_G_H_E 6uda_K_L_I
+cluster_796	6uud_H_L_A
+cluster_797	6vca_E_F_A 6vca_H_L_B 6vca_K_J_C 6vca_P_O_D
+cluster_798	6w4s_H_L_F 6wbv_H_L_A
+cluster_799	6wno_B_C_A 6wno_E_F_D
+cluster_800	6wo5_G_I_F 6wo5_H_L_E
+cluster_801	6x1s_A_B_K 6x1s_C_D_J 6x1s_E_F_G 6x1s_H_L_I
+cluster_802	6xc4_H_L_A 6xc4_X_Y_Z 6xc7_C_D_A 7kn6_H_L_A 7kn7_H_L_A
+cluster_803	6yxk_A_B_C
+cluster_804	7bej_H_L_E 7bek_H_L_E 7nd6_H_L_B 7qny_H_L_E
+cluster_805	7cdi_H_L_E 7ch4_H_L_R 7chb_H_L_R 7che_H_L_R 7chf_H_L_R 7chp_H_L_E 7e5y_C_B_A 7e8m_H_L_E 7f7h_A_B_E 7f7h_C_D_F 7swo_H_L_A 7wbz_H_L_A 7x1m_C_D_M 7x2k_H_L_E 8gx9_H_F_E 8gx9_I_L_A
+cluster_806	7cjf_A_B_C
+cluster_807	7cvy_D_E_B 7cvy_I_J_G 7cvy_N_O_L 7cvy_S_T_Q
+cluster_808	7dfp_C_B_A
+cluster_809	7e5o_H_L_A 7kqe_H_L_A 7kqe_I_N_B 7kqe_J_M_C 7m7b_H_L_A
+cluster_810	7d6i_B_C_A 7jva_H_L_A 7jvc_C_D_B 7jvc_F_G_E 7jvc_H_L_A
+cluster_811	7kqb_H_L_A 7kqb_K_J_C
+cluster_812	7l5j_W_L_B 7l5j_Y_X_A
+cluster_813	7lfa_B_D_A 7lfa_H_L_C
+cluster_814	7ll2_H_L_A 7ll2_I_J_C 7ll2_K_M_E
+cluster_815	7m3i_A_B_C
+cluster_816	7m51_H_L_A 7m52_H_L_A 7m53_H_L_A 7m55_H_L_A
+cluster_817	6txz_I_M_B 6txz_J_N_C 6txz_K_O_D 7mzi_H_L_A 7mzj_F_E_A
+cluster_818	7n0a_B_A_C
+cluster_819	7nks_C_D_B 7nks_H_L_A 7nrh_H_L_A
+cluster_820	7np1_H_L_A 7np1_I_M_B 7np1_J_N_C 7np1_K_O_D
+cluster_821	7o30_B_A_Q 7o30_H_L_P
+cluster_822	7or9_H_L_E
+cluster_823	7pry_C_D_I 7pry_H_L_E 7q9p_E_F_B 7q9p_H_L_A 7q9p_J_K_C
+cluster_824	7ps0_B_C_A 7ps0_H_L_E
+cluster_825	7rd3_A_B_C 7rd3_H_L_D
+cluster_826	7ucf_D_E_G 7ucg_C_F_I 7ucg_D_E_G 7ucg_N_O_P 7ugp_G_J_A 7ugp_H_K_B 7ugp_I_L_C 7ugq_G_J_A 7ugq_H_K_B 7ugq_I_L_C
+cluster_827	7uzb_H_L_A
+cluster_828	7vgr_D_C_A 7vgr_F_E_B
+cluster_829	7vmu_A_a_B
+cluster_830	7w9e_D_E_C 7w9f_A_B_E
+cluster_831	7wg3_E_A_I 7wg3_F_B_J 7wg3_G_C_K 7wg3_H_D_L
+cluster_832	7bei_H_L_E 7e5y_H_L_R 7nd5_H_L_B 7zf8_H_L_E 7zf9_A_B_C 7zf9_H_L_E 7zfa_O_P_B 7zfa_Q_R_A 7zfa_S_T_D 7zfa_X_Y_C
+cluster_833	8dcm_A_B_C
+cluster_834	8gpx_H_L_E
+cluster_835	8ivw_B_C_A 8ivw_E_F_D 8ivw_H_I_G 8ivw_K_L_J
+cluster_836	1e6j_H_L_P
+cluster_837	1i9r_H_L_A 1i9r_K_M_B 1i9r_X_Y_C
+cluster_838	1k4c_A_B_C 1k4d_A_B_C 1r3i_H_L_C 1r3j_B_A_C 1r3k_B_A_C 1r3l_B_A_C 1s5h_B_A_C 1zwi_A_B_C 2atk_A_B_C 2bob_A_B_C 2boc_A_B_C 2dwd_A_B_C 2dwe_A_B_C 2h8p_A_B_C 2hfe_A_B_C 2hg5_A_B_C 2hjf_A_B_C 2hvj_A_B_C 2hvk_A_B_C 2ih1_A_B_C 2ih3_A_B_C 2itc_A_B_C 2itd_A_B_C 2jk5_A_B_C 2nlj_B_A_C 2p7t_A_B_C 2w0f_A_B_C 3f5w_A_B_C 3f7v_A_B_C 3f7y_A_B_C 3fb5_A_B_C 3fb6_A_B_C 3fb7_A_B_C 3fb8_A_B_C 3gb7_A_B_C 3hpl_A_B_C 3iga_A_B_C 3ogc_A_B_C 3or6_A_B_C 3or7_A_B_C 3stl_A_B_C 3stz_A_B_C 4lbe_A_B_C 4lcu_A_B_C 4msw_A_B_C 4uuj_A_B_C 5e1a_A_B_C 5ebl_A_B_C 5ebm_A_B_C 5ebw_A_B_C 5ec1_A_B_C 5ec2_A_B_C 5j9p_A_B_C 5vk6_A_B_C 5vke_A_B_C 5vkh_A_B_C 6by2_A_B_C 6by3_A_B_C 6nfu_A_B_C 6nfv_A_B_C 6pa0_A_B_C 6w0a_A_B_C 6w0b_A_B_C 6w0c_A_B_C 6w0d_A_B_C 6w0e_A_B_C 6w0f_A_B_C 6w0g_A_B_C 6w0h_A_B_C 6w0i_A_B_C 6w0j_A_B_C 7m2h_A_B_C 7m2h_D_E_F 7m2i_A_B_C 7m2j_A_B_C 7mhr_A_B_C 7mhx_A_B_C 7rp0_A_B_C 7sqw_A_B_C
+cluster_839	1lk3_H_L_A 1lk3_I_M_B
+cluster_840	1mhp_H_L_A 1mhp_X_Y_B
+cluster_841	1ob1_B_A_C 1ob1_E_D_F
+cluster_842	1orq_B_A_C
+cluster_843	1qkz_H_L_P
+cluster_844	1sy6_H_L_A
+cluster_845	1ztx_H_L_E
+cluster_846	2a6d_B_A_P 2a6i_B_A_P 2a6k_H_L_P 4bh7_B_A_P 4bh8_B_A_P
+cluster_847	2fjh_B_A_W 2fjh_H_L_V
+cluster_848	2i9l_B_A_I 2i9l_D_C_J 2i9l_F_E_K 2i9l_H_G_L
+cluster_849	2vc2_H_L_A 2vdk_H_L_A 2vdl_H_L_A 2vdm_H_L_A 2vdn_H_L_A 2vdo_H_L_A 2vdp_H_L_A 2vdq_H_L_A 2vdr_H_L_A 3nid_E_F_C 3nif_E_F_C 3nig_E_F_C 3t3m_E_F_C 3t3p_E_F_C 3zdx_E_F_C 3zdy_E_F_C 3zdz_E_F_C 3ze0_E_F_C 3ze1_E_F_C 3ze2_E_F_A 3ze2_H_L_C 4z7n_E_F_C 4z7o_E_F_C 4z7q_E_F_C 5hdb_E_F_C 5hdb_H_L_A 7l8p_E_F_C 7l8p_H_L_A 7tct_E_F_C 7tct_H_L_A 7td8_E_F_C 7td8_H_L_A 7tho_E_F_C 7tho_H_L_A 7tmz_E_F_C 7tmz_H_L_A 7tpd_E_F_C 7tpd_H_L_A 7u60_E_F_C 7u60_H_L_A 7u9f_E_F_C 7u9f_H_L_A 7u9v_E_F_C 7u9v_H_L_A 7ubr_E_F_C 7ubr_H_L_A 7ucy_E_F_C 7ucy_H_L_A 7udg_E_F_C 7udg_H_L_A 7udh_E_F_C 7udh_H_L_A 7ue0_E_F_C 7ue0_H_L_A 7ufh_E_F_C 7ufh_H_L_A 7uh8_E_F_C 7uh8_H_L_A 7uje_E_F_C 7uje_H_L_A 7ujk_E_F_C 7ujk_H_L_A 7uk9_E_F_C 7uk9_H_L_A 7uko_E_F_C 7uko_H_L_A 7ukp_E_F_C 7ukp_H_L_A 7ukt_E_F_C 7ukt_H_L_A
+cluster_850	2vwe_E_C_A 2vwe_L_J_B
+cluster_851	2wub_H_L_A 2wub_R_Q_C 2wuc_H_L_A 3k2u_H_L_A
+cluster_852	3kj4_C_B_D 3kj4_H_L_A
+cluster_853	3qum_B_A_P 3qum_D_C_Q
+cluster_854	3qum_H_L_P 3qum_K_M_Q
+cluster_855	3u9u_A_B_F
+cluster_856	3wih_H_L_A 3wih_I_M_B
+cluster_857	4f3f_B_A_C
+cluster_858	4hix_H_L_A 4ojf_H_L_A
+cluster_859	4hpy_H_L_P
+cluster_860	4i77_H_L_Z
+cluster_861	4ogx_H_L_A 4ogy_H_L_A
+cluster_862	4rau_B_A_C 4rau_E_D_F 4rau_H_G_I 4rau_K_J_L 4rau_N_M_O 4rau_Q_P_R 4rau_T_S_U 4rau_W_V_X
+cluster_863	4rrp_L_F_R 4xgz_C_D_c 4xgz_E_F_e 4xgz_M_N_m 4xgz_Q_R_q 4xgz_S_T_s
+cluster_864	4m48_H_L_A 4xnu_H_L_A 4xnx_H_L_A 4xp1_H_L_A 4xp4_H_L_A 4xp5_H_L_A 4xp6_H_L_A 4xp9_H_L_C 4xpa_H_L_A 4xpf_H_L_A 4xph_H_L_A 6m0f_H_L_A 6m0z_H_L_A 6m2r_H_L_A 6m38_H_L_A 6m3z_H_L_A 6m47_H_L_A 7wgd_H_L_A 7wgt_H_L_A 7wlw_H_L_A 9euo_H_L_A
+cluster_865	4yhp_C_D_Q 4yhp_H_L_P 4yhz_H_L_P
+cluster_866	4ypg_B_A_C 4ypg_H_L_D
+cluster_867	4g6j_H_L_A 5bvp_H_L_I
+cluster_868	5dum_H_L_A
+cluster_869	5en2_A_B_C
+cluster_870	5hbt_D_C_B 5hbv_D_C_B
+cluster_871	5ies_H_L_C 5if0_A_B_I 5if0_H_L_G
+cluster_872	5ifj_A_B_C 5ifj_D_E_F 5ifj_G_H_I 5ifj_J_K_L 5ig7_A_B_C 5ig7_D_E_F 5ig7_G_H_I 5ig7_J_K_L
+cluster_873	5lqb_H_L_A
+cluster_874	5mo3_H_L_A 5mp1_C_D_B 5mp1_F_G_E 5mp1_H_L_A 5mp1_J_K_I 5mp3_A_B_C 5mp3_H_L_D 5mp5_A_B_K 5mp5_E_F_I 5mp5_H_L_J
+cluster_875	5nj6_H_L_A
+cluster_876	5ock_H_L_A 5ocx_H_L_A 5ocy_H_L_C 6zjg_H_L_C
+cluster_877	5vco_B_A_F 5vco_D_C_E
+cluster_878	5vic_H_L_E
+cluster_879	5vl7_H_L_B
+cluster_880	5w23_H_L_C 5w23_I_M_B 5w23_J_N_A
+cluster_881	5x2m_H_L_A 5x2o_H_L_A 5x2p_J_K_C
+cluster_882	5xku_C_B_A
+cluster_883	6bdz_H_L_A
+cluster_884	6bkc_H_L_E 6uyf_H_L_E
+cluster_885	6bp2_H_L_A
+cluster_886	6ck9_H_L_G
+cluster_887	6h2y_H_L_D
+cluster_888	4yo0_A_B_E 6al0_H_L_A 6al1_H_L_A 6icc_H_L_A 6icf_H_L_A 7cqc_H_L_A 7cqd_H_L_A 7cqd_I_M_B
+cluster_889	6iut_H_L_A
+cluster_890	6mhr_A_B_C 6mhr_D_E_F
+cluster_891	6mto_H_L_T
+cluster_892	6n16_A_B_E 6n16_C_D_I 6n16_H_L_F 6n16_K_J_G 6ot1_A_C_O 6ot1_H_L_B 6ot1_M_N_D
+cluster_893	6pef_A_B_C 6pef_D_E_F
+cluster_894	6pi7_C_B_A 6pi7_F_E_D
+cluster_895	6r8x_C_B_A
+cluster_896	6s3t_D_C_S 6s3t_E_I_T 6s3t_N_M_A 6s3t_R_Q_B
+cluster_897	6t3j_A_B_E 6t3j_F_G_J
+cluster_898	6t3j_C_D_E 6t3j_H_I_J
+cluster_899	6ute_C_D_S
+cluster_900	6vvu_E_F_C 6vvu_G_I_D 6vvu_H_L_A 6vvu_J_K_B
+cluster_901	6vyh_D_C_A 6wik_D_C_A 8dl7_D_C_A 8dl8_D_C_A
+cluster_902	6w16_H_L_F
+cluster_903	6wtu_B_C_A 6wtu_E_F_D 6wtu_H_I_G 6wtu_K_L_J 6wtv_B_C_A 6wtv_E_F_D
+cluster_904	6xqw_H_L_E
+cluster_905	7beh_H_L_E 7nd7_F_G_B 7nd7_H_L_A 7nd7_J_K_C
+cluster_906	7c4s_H_L_A 7c4s_J_K_B
+cluster_907	7c61_H_L_A 7c6a_H_L_A
+cluster_908	6lra_H_L_C 7fgj_H_L_C 7fgl_H_L_C 7fgr_H_L_C 7vtj_H_L_C
+cluster_909	7jix_H_L_A
+cluster_910	7k7r_B_A_C 7k7r_E_D_F
+cluster_911	7kn3_H_L_A 7kn3_M_N_B
+cluster_912	7kql_H_L_T
+cluster_913	4web_H_L_E 7mww_H_L_E 7mwx_A_B_C 7mwx_E_F_G
+cluster_914	7bem_H_L_E 7neg_H_L_E 7neh_H_L_E
+cluster_915	7o2z_H_L_P
+cluster_916	7ow1_H_K_A 7oxn_H_K_A
+cluster_917	7pi7_B_C_A 7pi7_E_F_D
+cluster_918	7ps2_H_L_G 7q9m_E_F_B 7q9m_H_L_C 7q9m_J_K_A
+cluster_919	7q0g_A_B_E 7q6e_E_F_B 7q6e_H_L_A 7q6e_J_K_C
+cluster_920	7q4q_B_A_E 7q4q_D_C_F
+cluster_921	7q6c_H_L_A
+cluster_922	7qf1_C_B_A 7qf1_E_D_F
+cluster_923	7rm0_A_B_P 7rm0_C_D_Q 7rm0_E_F_R 7rm0_G_H_S
+cluster_924	7rqr_A_B_C 7rqr_H_L_P
+cluster_925	7s11_H_L_C 7s11_I_M_D 7s11_J_N_E 7s11_K_O_F
+cluster_926	7s3m_H_L_A 7s3n_H_L_A
+cluster_927	7s4s_H_L_A 7urq_H_L_A 7urs_H_L_A 7zf3_A_B_E
+cluster_928	7qez_H_L_A 7s5q_B_C_A
+cluster_929	7ssc_H_L_P
+cluster_930	6cxy_H_L_C 7stz_H_L_C 7stz_I_M_D
+cluster_931	7tp4_H_L_Z
+cluster_932	7u2d_H_L_A 7u2e_H_L_A
+cluster_933	7v8q_B_A_G 7v8q_D_C_H 7v8q_F_E_I 7vac_B_A_G 7vac_D_C_H 7vac_F_E_I 7vaz_B_A_E 7vaz_D_C_G 7vaz_H_F_I
+cluster_934	7vyr_A_B_C 7vyr_H_L_R
+cluster_935	7y3j_H_L_A
+cluster_936	7zf4_H_L_E
+cluster_937	8dw9_C_D_B 8dw9_H_L_A
+cluster_938	1a2y_B_A_C 1fdl_H_L_Y 1g7h_B_A_C 1g7i_B_A_C 1g7j_B_A_C 1g7l_B_A_C 1g7m_B_A_C 1kip_B_A_C 1kiq_B_A_C 1kir_B_A_C 1vfb_B_A_C
+cluster_939	1kcr_H_L_P
+cluster_940	1mlc_B_A_E 1mlc_D_C_F
+cluster_941	1n64_H_L_P 1xcq_H_G_S 1xf5_D_C_Q 1ymh_B_A_E 1ymh_D_C_F
+cluster_942	1osp_H_L_O
+cluster_943	1uwx_H_L_P 1uwx_M_K_Q
+cluster_944	1ynt_D_C_G
+cluster_945	2adf_H_L_A
+cluster_946	2eh8_H_L_P
+cluster_947	2fjg_B_A_V 2fjg_H_L_W 4zff_A_B_C 4zff_H_L_D 4zfg_H_L_A
+cluster_948	2jel_H_L_P
+cluster_949	3b2u_C_D_B 3b2u_F_G_E 3b2u_H_L_A 3b2u_J_K_I 3b2u_N_O_M 3b2u_Q_R_P 3b2u_T_U_S 3b2u_W_X_V 3b2v_H_L_A 6b3s_C_D_B 6b3s_F_G_E 6b3s_H_L_A 6b3s_J_K_I
+cluster_950	2p8m_B_A_C 3d0l_B_A_C 3dro_B_A_P 3drq_B_A_C 3drt_B_A_C 3egs_B_A_C 3idi_B_A_C 3idn_B_A_C
+cluster_951	3eyf_B_A_E 3eyf_D_C_F
+cluster_952	3j1s_H_L_A
+cluster_953	3kr3_H_L_D
+cluster_954	3ma9_H_L_A 3mac_H_L_A 4kht_H_L_A 4khx_H_L_A
+cluster_955	3o6l_H_L_C 3o6m_H_L_C
+cluster_956	3p0y_H_L_A 3p11_H_L_A
+cluster_957	3rkd_D_C_B 3rkd_H_L_A
+cluster_958	3tt3_H_L_A
+cluster_959	3u30_C_B_A 3u30_F_E_D
+cluster_960	3uji_H_L_P
+cluster_961	3vi3_F_E_B 3vi3_H_L_D 3vi4_F_E_B 3vi4_H_L_D
+cluster_962	3wsq_H_L_A
+cluster_963	4d9q_E_D_B 4d9q_H_L_A 4d9r_E_D_B 4d9r_H_L_A
+cluster_964	4dgi_H_L_A 4h88_H_L_A 4ma7_H_L_A 4ma8_H_L_C 4yx2_H_L_A 4yxh_H_L_A 4yxk_H_L_A 4yxl_H_L_A
+cluster_965	4jan_A_B_I 4jan_H_L_G
+cluster_966	4ki5_C_D_M 4xzu_A_B_M 4xzu_E_F_G
+cluster_967	4l5f_H_L_E
+cluster_968	4lvh_B_C_A 4lvh_E_F_D 4lvh_H_I_G 4lvh_K_L_J
+cluster_969	4o02_H_L_A
+cluster_970	4plj_D_C_B 4plj_H_L_A 4plk_D_C_B 4plk_H_L_A 4plk_I_G_F 4plk_J_K_E
+cluster_971	4qti_H_L_U
+cluster_972	4u6v_H_L_A 4u6v_K_M_B
+cluster_973	4uv7_H_L_A
+cluster_974	4xtr_C_D_B 4xvu_I_J_H 4xvu_K_L_G 4xwo_C_D_A 4xwo_I_J_G 4xwo_K_L_H 4xwo_O_P_M 4xwo_U_V_S
+cluster_975	4zso_B_A_E 4zso_D_C_F
+cluster_976	5epm_A_B_C 5epm_E_F_D
+cluster_977	5f3b_A_B_C 5f3b_E_F_D
+cluster_978	5i6x_B_C_A 5i6z_B_C_A 5i71_B_C_A 5i73_B_C_A 5i74_B_C_A 5i75_B_C_A 6awn_B_C_A 6awo_B_C_A 6awp_B_C_A 6awq_B_C_A 6vrh_B_C_A 6vrk_B_C_A 6vrl_B_C_A 6w2b_B_C_A 6w2c_B_C_A
+cluster_979	5kvg_H_L_E 5uhy_H_G_A
+cluster_980	5ldn_H_L_A
+cluster_981	5my4_B_A_C 5myk_B_A_C
+cluster_982	5o4o_B_A_C 5o7p_B_A_C
+cluster_983	5u3k_A_B_C
+cluster_984	5uqy_D_C_A
+cluster_985	5vpg_D_C_A 5vph_D_C_A 5vpl_D_C_A
+cluster_986	5y11_A_B_C
+cluster_987	5ywo_N_M_C 5ywo_R_Q_A
+cluster_988	5ywp_N_M_C 5ywp_R_Q_A
+cluster_989	6axl_A_B_I 6axl_D_C_G
+cluster_990	6cdm_A_B_C 6cdm_D_E_F 6cue_3_4_1 6cue_H_L_D 6cue_h_l_d
+cluster_991	6cnj_G_F_C
+cluster_992	6co3_H_L_Q
+cluster_993	6h06_A_B_K 6h06_C_D_G 6h06_E_F_J 6h06_H_L_I 6h0e_A_B_K 6h0e_C_D_G 6h0e_E_F_J 6h0e_H_L_I
+cluster_994	6k0y_A_B_C
+cluster_995	6ko5_H_L_A
+cluster_996	6mg7_H_L_G
+cluster_997	6mtp_A_B_Q 6mtp_H_L_P
+cluster_998	6mui_C_D_B 6mui_G_H_F 6mui_K_L_J 6mui_O_P_N 6mw9_C_D_B 6mw9_G_H_F 6mw9_K_L_J 6mw9_O_P_N 6mwc_C_D_B 6mwc_G_H_F 6mwc_K_L_J 6mwc_O_P_N 6mwv_C_D_B 6mwv_G_H_F 6mwv_K_L_J 6mwv_O_P_N 6mwx_C_D_B 6mwx_G_H_F 6mwx_K_L_J 6mwx_O_P_N 6vyv_I_M_F 6vyv_J_N_G 6vyv_K_O_E 6vyv_L_P_H 6w09_I_M_E 6w09_J_N_F 6w09_K_O_G 6w09_L_P_H 6w1c_J_N_G 6w1c_K_O_E 6w1c_L_P_H
+cluster_999	6nmr_A_B_E 6nmr_F_G_I 6nmr_H_L_S 6nmr_J_K_M
+cluster_1000	6nmu_B_A_C 6nmu_H_L_S
+cluster_1001	6o39_B_A_C
+cluster_1002	6o3a_B_A_E
+cluster_1003	6ohg_C_B_A
+cluster_1004	6plh_B_A_C
+cluster_1005	6pze_H_L_A
+cluster_1006	6r2s_B_A_C
+cluster_1007	6ss6_J_N_C
+cluster_1008	6uig_B_C_A 6uig_H_L_G
+cluster_1009	6v4n_A_B_I 6v4n_C_G_M 6v4n_D_E_W 6v4n_H_L_N
+cluster_1010	6w7s_H_L_A
+cluster_1011	6was_A_B_G 6was_H_L_J
+cluster_1012	6wjl_F_J_E 6wjl_H_L_G
+cluster_1013	6woq_G_H_F 6woq_J_K_E
+cluster_1014	7a65_C_B_A 7a69_C_B_A 7a6c_C_B_A 7a6e_C_B_A 7a6f_C_B_A
+cluster_1015	7bq5_C_D_B 7bq5_H_L_A
+cluster_1016	7c01_C_D_B 7c01_H_L_A
+cluster_1017	7bxa_B_C_A 7bxa_H_L_P 7cgw_A_B_C 7cgw_H_L_P
+cluster_1018	7d85_B_C_A 7d85_E_F_D
+cluster_1019	7e72_A_B_E 7e72_C_D_F
+cluster_1020	7e7y_A_B_R 7e7y_C_D_E
+cluster_1021	7jgj_H_L_A
+cluster_1022	7jmp_H_L_A
+cluster_1023	7joo_H_L_C
+cluster_1024	7jr7_E_F_B
+cluster_1025	7k9z_B_A_E
+cluster_1026	7kmh_A_B_C 7kmi_A_B_C
+cluster_1027	7l57_H_L_B 7l5b_H_L_A
+cluster_1028	7lr4_A_B_C 7lr4_H_L_D
+cluster_1029	7lse_H_L_E 7lsf_H_L_E 7lsg_H_L_C
+cluster_1030	7ejy_H_L_R 7ejz_H_L_R 7ek0_H_L_R 7f6y_H_L_R 7f6z_H_L_R 7mzg_H_L_A
+cluster_1031	7n8q_C_D_A 7n8q_H_L_G
+cluster_1032	6shg_H_L_B 7njz_H_L_C 7nw3_H_L_A
+cluster_1033	7rfp_H_L_A 7rfp_I_M_B
+cluster_1034	7rqq_H_L_P
+cluster_1035	7s8h_B_C_A
+cluster_1036	7s8h_H_L_a 7ul7_E_D_c 7ul7_G_F_b 7ul7_H_L_a
+cluster_1037	7sfv_M_N_B 7sfv_O_P_E 7sfv_Q_R_H 7sfv_S_T_K 7sfw_M_N_B 7sfw_O_P_E 7sfw_Q_R_H 7sfw_S_T_K
+cluster_1038	7u5b_A_B_J 7u5b_H_L_I
+cluster_1039	7vn9_A_B_C 7vn9_H_L_E 7vng_H_L_D
+cluster_1040	7wph_E_D_A 7wph_H_L_B
+cluster_1041	7wue_C_D_A 7wue_E_F_B 7wuh_D_F_C 7wuh_H_I_E 7wuh_K_L_A
+cluster_1042	7xy8_H_L_A 7xy8_I_M_B
+cluster_1043	7y0c_A_B_R 7y0c_M_N_E
+cluster_1044	7yms_F_E_A 7yrh_F_E_A 7yv7_F_E_A
+cluster_1045	7z0y_H_L_R
+cluster_1046	7zwm_D_E_A 7zwm_I_J_F 7zxf_D_E_A 7zxg_B_C_A 7zxg_E_F_D
+cluster_1047	7ps1_A_B_E 7zxu_H_L_E 8bh5_H_L_E
+cluster_1048	8d36_H_L_F
+cluster_1049	8dfg_H_L_A 8dfg_I_M_B
+cluster_1050	8dfh_H_L_A
+cluster_1051	8e7m_H_L_A
+cluster_1052	1e4w_H_L_P 1e4x_H_L_P 1e4x_I_M_Q
+cluster_1053	1eo8_H_L_A
+cluster_1054	1kc5_H_L_P
+cluster_1055	1kcs_H_L_P
+cluster_1056	1uj3_B_A_C
+cluster_1057	1v7m_H_L_V 1v7m_I_M_X 1v7n_H_L_V 1v7n_I_M_X 1v7n_J_N_Y 1v7n_K_O_Z
+cluster_1058	1yjd_H_L_C
+cluster_1059	2bdn_H_L_A
+cluster_1060	2hh0_H_L_P
+cluster_1061	2jix_D_G_E 2jix_H_L_E
+cluster_1062	2nyy_D_C_A 2nz9_D_C_A 2nz9_F_E_B
+cluster_1063	2r4r_H_L_A 2r4s_H_L_A 3kj6_H_L_A
+cluster_1064	3hi6_H_L_A 3hi6_X_Y_B
+cluster_1065	3hmx_H_L_A
+cluster_1066	3ley_H_L_P
+cluster_1067	3r1g_H_L_B
+cluster_1068	3sge_H_L_K 3sge_J_I_M
+cluster_1069	3ulu_F_E_A 3ulv_F_E_A
+cluster_1070	3wlw_C_D_A 3wlw_H_L_B
+cluster_1071	4etq_A_B_X 4etq_H_L_C
+cluster_1072	4ffy_H_L_A 4ffz_H_L_A 4ffz_Z_Y_X
+cluster_1073	4gms_H_L_A 4gms_J_N_E
+cluster_1074	4hcr_H_L_A 4hcr_M_N_B
+cluster_1075	4hzl_A_B_F 4hzl_H_L_E
+cluster_1076	4irz_H_L_A
+cluster_1077	4jzn_I_P_K 4jzo_A_B_J 4jzo_C_F_K 4jzo_D_E_I 4jzo_G_H_L
+cluster_1078	4oii_H_L_A 4oii_I_M_B
+cluster_1079	4rgm_C_B_A 4rgm_H_L_S
+cluster_1080	4u6h_A_B_E 4u6h_C_D_J
+cluster_1081	4xmk_H_L_P 4xmk_I_M_Q 4xmk_J_N_R
+cluster_1082	4xnm_B_A_D 4xnm_H_L_C 4xnq_B_A_D 4xnq_H_L_C 4xrc_B_A_D 4xrc_H_L_C
+cluster_1083	5eoq_H_L_A
+cluster_1084	4rfo_H_L_G 5kjr_H_L_G
+cluster_1085	5tlj_D_C_X
+cluster_1086	5tpn_H_L_A
+cluster_1087	5ucb_H_L_B
+cluster_1088	5vta_F_E_C 5vta_H_L_D 5vta_I_G_B 5vta_K_J_A
+cluster_1089	5wth_E_D_B
+cluster_1090	5xmh_D_C_B 5xmh_H_L_A
+cluster_1091	6a77_H_L_A 6a78_H_L_A 6a78_I_M_B 6a79_H_L_A 6a79_I_M_B
+cluster_1092	6b0s_H_L_C
+cluster_1093	6bpa_B_C_A 6bpa_E_F_D
+cluster_1094	6dc8_H_L_P
+cluster_1095	6e62_B_C_A 6e62_H_L_P
+cluster_1096	6fla_A_B_G 6fla_H_L_I 6flb_H_L_G
+cluster_1097	6iap_E_D_A
+cluster_1098	6jbt_H_L_F
+cluster_1099	6jhq_D_E_C
+cluster_1100	6jhr_E_D_C
+cluster_1101	6jhs_E_D_C
+cluster_1102	6jht_E_D_C
+cluster_1103	6lz9_H_L_B
+cluster_1104	6nms_B_A_C 6nms_H_L_S
+cluster_1105	6o9h_A_B_C 6o9h_H_L_D 6o9i_A_B_C
+cluster_1106	6oy4_D_C_A
+cluster_1107	6rps_H_L_A 6rps_N_M_B
+cluster_1108	6vgr_C_D_A 6vgr_H_L_B
+cluster_1109	6xq2_C_B_A 6xq2_F_E_D
+cluster_1110	6xsw_A_B_C 6xsw_G_I_J 6xsw_H_L_X
+cluster_1111	7bbj_H_L_A
+cluster_1112	7bxv_H_L_A
+cluster_1113	7dm2_H_L_A
+cluster_1114	7e6p_H_L_A
+cluster_1115	7fah_C_D_B 7fah_H_L_A 7yhk_F_H_A
+cluster_1116	7jwg_A_B_E 7jwg_H_L_C
+cluster_1117	7k66_B_C_A
+cluster_1118	7ket_A_B_C
+cluster_1119	7kgv_C_E_B 7kgv_D_F_A
+cluster_1120	7kn4_H_L_A 7kn4_M_N_B
+cluster_1121	7kyo_H_L_B
+cluster_1122	7laa_H_L_A
+cluster_1123	7mxl_H_L_C
+cluster_1124	7n0x_H_L_G
+cluster_1125	7nx6_A_B_E 7nx7_A_B_E 7nx8_A_B_E 7nx9_A_B_E 7nxa_A_B_E 7nxb_A_B_E 7or9_A_B_E 7q9g_E_F_B 7q9g_H_L_A
+cluster_1126	7pqy_B_C_A 7pqy_H_L_E 7pqz_H_L_E 7q0a_Y_Z_B
+cluster_1127	7s7i_H_L_A 7s7i_I_M_B 7s7i_J_N_C 7s7i_U_V_D 7s7i_W_X_E 7s7i_Y_Z_F
+cluster_1128	7t9m_H_L_R
+cluster_1129	7wd9_E_F_B 7wd9_G_H_C 7wd9_I_J_A 7wdf_D_E_C 7wdf_F_G_B 7wk9_a_b_B 7wk9_c_d_C 7wka_a_b_B 7wka_c_d_C
+cluster_1130	7wkx_A_C_F 7wkx_B_D_E
+cluster_1131	7zfe_F_G_B 7zfe_H_L_E 7zfe_J_K_A 7zfe_M_N_C
+cluster_1132	8gx9_O_N_E 8gx9_P_M_A
+cluster_1133	1nl0_H_L_G
+cluster_1134	1xgy_H_L_P 1xgy_I_M_Q
+cluster_1135	2g5b_B_A_I 2g5b_D_C_J 2g5b_F_E_K 2g5b_H_G_L
+cluster_1136	2r29_H_L_A 2r69_H_L_A 2r6p_D_E_A 2r6p_F_G_C
+cluster_1137	2xqy_G_L_A 2xqy_J_K_E
+cluster_1138	3bgf_B_C_A 3bgf_H_L_S
+cluster_1139	3c09_H_L_D
+cluster_1140	3cxd_H_L_P 3dsf_H_L_P
+cluster_1141	3d85_B_A_C
+cluster_1142	3ifo_A_B_Q 3ifo_H_L_P
+cluster_1143	3j42_G_H_E 3j42_I_J_D 3j42_K_L_F
+cluster_1144	3lzf_H_L_A
+cluster_1145	3r08_H_L_E
+cluster_1146	3uo1_H_L_P 3uyr_H_L_P 3v4u_H_L_P 3v52_H_L_P
+cluster_1147	3wkm_H_L_A
+cluster_1148	3zkm_C_D_B 3zkm_H_L_A 3zkn_C_D_B 3zkn_H_L_A
+cluster_1149	4cmh_B_C_A
+cluster_1150	4edx_B_A_W 4edx_H_L_V
+cluster_1151	4iof_C_D_A 4iof_E_F_B 4m1c_C_D_A 4m1c_E_F_B 5wob_I_J_A 5wob_K_L_B 5wob_M_N_C 5wob_O_P_D 5wob_Q_R_E 5wob_S_T_F 5wob_W_X_H
+cluster_1152	4kvn_H_L_A
+cluster_1153	4lvn_C_B_A 4lvo_C_B_A
+cluster_1154	4q0x_H_L_E
+cluster_1155	4rfn_B_C_A 4rfn_H_L_G 5fcu_H_L_G
+cluster_1156	4zfo_A_B_F 4zfo_H_L_K
+cluster_1157	5b3j_E_F_C 5b3j_H_L_D
+cluster_1158	5c0n_C_D_B 5c0n_H_L_A
+cluster_1159	5d1q_B_A_E
+cluster_1160	5d8j_H_L_A
+cluster_1161	5d93_C_B_A 5d93_F_E_D 6hf1_C_B_A 6hf1_F_E_D
+cluster_1162	5dlm_H_L_X 5dlm_I_M_Y
+cluster_1163	5e8d_H_L_A
+cluster_1164	5ggt_H_L_A
+cluster_1165	5ibl_C_D_F
+cluster_1166	5jhl_H_L_A
+cluster_1167	5lsp_H_L_A 5lsp_S_T_P
+cluster_1168	5myx_B_A_E 5myx_D_C_F
+cluster_1169	5o4g_B_A_C
+cluster_1170	5tzt_A_B_D 5tzt_H_L_C
+cluster_1171	5ush_D_E_A 5ush_H_L_X
+cluster_1172	5vqm_D_C_B 5vqm_H_L_A
+cluster_1173	5w06_H_L_T
+cluster_1174	5wtt_A_B_C 5wtt_H_L_P
+cluster_1175	6b0e_B_A_E
+cluster_1176	6bb4_H_L_P 6bb4_I_M_Q 6bb4_J_N_R
+cluster_1177	6dc9_H_L_P 6dc9_I_M_Q
+cluster_1178	6ddm_B_A_C
+cluster_1179	6e63_B_C_A 6e63_H_L_P
+cluster_1180	6fax_H_L_R
+cluster_1181	6flc_B_A_I 6flc_H_L_G
+cluster_1182	6ii9_H_L_A 6ii9_M_N_C 6ii9_P_Q_E
+cluster_1183	6j6y_B_C_A 6j6y_E_F_D
+cluster_1184	6kva_H_L_B 6kva_h_l_b 6kvf_A_C_B 6kvf_H_L_b
+cluster_1185	6n8d_D_B_A 6n8d_F_E_C
+cluster_1186	6o3b_B_A_C 6o3b_G_E_H
+cluster_1187	6oor_H_L_A
+cluster_1188	6otc_H_L_A
+cluster_1189	6pdu_H_L_C
+cluster_1190	6pec_H_L_A
+cluster_1191	6phf_A_B_G 6phf_C_D_E
+cluster_1192	6sf6_A_B_D 6sf6_H_L_C
+cluster_1193	6ss4_H_L_A
+cluster_1194	6u36_H_L_B 6u38_H_L_B
+cluster_1195	6wfz_A_B_C 6wfz_H_L_P 6wg1_A_B_C 6wg1_H_L_C
+cluster_1196	6wo5_A_B_E 6wo5_C_D_F 6woq_A_B_E
+cluster_1197	6x1v_H_L_D
+cluster_1198	6xzw_H_L_D
+cluster_1199	6y92_C_D_B 6y92_H_L_A
+cluster_1200	7bel_A_B_R 7bel_C_D_X 7ora_A_B_R 7ora_D_E_C 7pry_A_B_I 7pry_F_G_E
+cluster_1201	7ce2_Z_B_A
+cluster_1202	7cr5_H_L_A
+cluster_1203	7e3o_H_L_R
+cluster_1204	7fjn_H_L_B 7fjn_I_J_A 7fjo_F_G_C 7fjo_H_L_A 7fjo_J_K_B 7fjs_C_A_B 7fjs_H_L_E
+cluster_1205	7jmo_H_L_A
+cluster_1206	7kqg_B_C_A
+cluster_1207	7kqi_A_C_B
+cluster_1208	7mzl_H_L_A
+cluster_1209	7r58_H_L_A
+cluster_1210	7rco_D_C_B 7rco_F_E_A
+cluster_1211	7rxi_H_L_A
+cluster_1212	7seg_A_B_D 7seg_H_L_C
+cluster_1213	7si2_E_D_B 7si2_G_F_C 7si2_H_L_A
+cluster_1214	7t72_H_L_A
+cluster_1215	7tcq_A_B_D 7tcq_H_L_C
+cluster_1216	7tug_H_L_D
+cluster_1217	7v4w_B_A_C 7v64_B_A_C 7v7k_B_A_C
+cluster_1218	7vux_H_L_A
+cluster_1219	7zwi_B_C_A 7zwi_E_F_D 7zwm_B_C_A 7zwm_G_H_F
+cluster_1220	8aon_B_C_A
+cluster_1221	8gpt_D_E_A 8gpt_F_G_B 8gpt_H_I_C 8gpu_C_D_B 8gpu_F_G_E 8gpu_H_L_A 8gpu_J_K_I 8gpu_N_O_M 8gpu_Q_R_P
+cluster_1222	1cu4_H_L_P
+cluster_1223	1ggi_H_L_P 1ggi_J_M_Q
+cluster_1224	1bql_H_L_Y 1yqv_H_L_Y 2iff_H_L_Y
+cluster_1225	2gsi_B_A_W 2gsi_D_C_X 2gsi_F_E_Y 2gsi_H_G_Z
+cluster_1226	2h9g_B_A_R 2h9g_H_L_S
+cluster_1227	2w9e_H_L_A 6suz_H_L_A 6sv2_H_L_A
+cluster_1228	2xwt_A_B_C 7xw7_A_B_R
+cluster_1229	2xzq_H_L_P 2y36_H_L_P
+cluster_1230	2y06_H_L_P 2y07_H_L_P
+cluster_1231	2ypv_H_L_A
+cluster_1232	3bsz_H_L_F 3bsz_N_M_E
+cluster_1233	3efd_H_L_K
+cluster_1234	3eoa_B_A_J 3eoa_H_L_I 3eob_B_A_J 3eob_H_L_I
+cluster_1235	3g04_B_A_C 7t9n_H_L_R 7xw6_Y_L_R
+cluster_1236	1c08_B_A_C 1ic4_H_L_Y 1ic5_H_L_Y 1ic7_H_L_Y 1j1o_H_L_Y 1j1p_H_L_Y 1j1x_H_L_Y 1ua6_H_L_Y 1uac_H_L_Y 2dqc_H_L_Y 2dqd_H_L_Y 2dqe_H_L_Y 2dqf_B_A_C 2dqf_E_D_F 2dqg_H_L_Y 2dqh_H_L_Y 2dqi_H_L_Y 2dqj_H_L_Y 2znw_A_a_Y 2znw_B_b_Z 2znx_A_a_Y 2znx_B_b_Z 3a67_H_L_Y 3a6b_H_L_Y 3a6c_H_L_Y 3d9a_H_L_C 3hfm_H_L_Y 4ckd_H_L_C 4ckd_I_M_D 4ckd_J_N_A 4ckd_K_O_B 5vjo_A_B_E 5vjo_C_D_F 5vjq_A_B_I 5vjq_C_D_J 5vjq_E_F_K 5vjq_G_H_L 6p4a_H_L_C 6p4b_B_A_D 6p4b_H_L_C
+cluster_1237	3ifl_H_L_P 3ifn_H_L_P
+cluster_1238	3iu3_A_B_K 3iu3_C_D_J 3iu3_H_L_I
+cluster_1239	3raj_H_L_A
+cluster_1240	3w9e_A_B_C
+cluster_1241	4edw_H_L_V
+cluster_1242	4hs6_B_A_Z 4hs6_H_L_Y
+cluster_1243	4jzj_A_B_D 4jzj_H_L_C
+cluster_1244	4okv_A_B_F 4okv_C_D_E
+cluster_1245	4tsc_H_L_A 4ttd_C_D_B 4ttd_H_L_A
+cluster_1246	4xaw_H_L_P
+cluster_1247	4yr6_A_B_C 4yr6_D_E_F
+cluster_1248	5cjo_H_L_A
+cluster_1249	5czx_C_D_B 5czx_H_L_A
+cluster_1250	5fgb_C_A_F 5fgb_E_B_G
+cluster_1251	5fhc_H_L_K
+cluster_1252	5kn5_A_B_C 5kn5_D_E_F
+cluster_1253	5kw9_H_L_A
+cluster_1254	5nuz_A_B_C 5nuz_H_L_D
+cluster_1255	5tru_H_L_C 5tru_h_l_c 5xj3_A_B_C 5xj3_D_E_F 5xj3_G_H_I 5xj3_J_K_L 6rp8_H_L_C 6rp8_h_l_c 7elx_H_L_C 7elx_h_l_c 7su0_H_L_C 7su0_I_M_D 7su1_H_L_C
+cluster_1256	5uea_A_B_X 5uea_H_L_D 6az2_A_F_B 6az2_C_E_D
+cluster_1257	5x0t_A_B_E 5x0t_C_D_F
+cluster_1258	6b5p_H_L_A 6b5r_H_L_A 6b5s_H_L_A 6b5t_H_L_A
+cluster_1259	6hxw_C_D_B 6hxw_H_L_A
+cluster_1260	6mej_A_B_C 6mek_F_E_C 6mek_I_G_A
+cluster_1261	6njl_K_J_D 6njl_N_M_B 6njm_L_K_B 6njm_P_O_D 6njn_K_J_B 6njn_O_N_D 7ldd_K_J_D 7ldd_N_M_B 7lde_K_J_D 7lde_N_M_B
+cluster_1262	6nyq_H_L_C
+cluster_1263	6o26_A_B_C
+cluster_1264	6p7h_A_B_C
+cluster_1265	6pis_H_L_B 6pis_I_M_A
+cluster_1266	6svl_A_B_C 6svl_D_E_F 6svl_G_I_J 6svl_H_L_Q 6svl_K_M_N 6svl_O_P_R
+cluster_1267	6weq_E_F_A 6weq_G_H_B 6weq_I_J_C 6weq_K_L_D 6wer_C_D_A 6wer_E_F_B
+cluster_1268	6wvz_H_L_M
+cluster_1269	6xkr_H_L_P
+cluster_1270	6xli_A_B_E 6xli_C_D_F 6xli_H_L_P
+cluster_1271	6xlq_B_C_A 6xlq_E_F_D 6xlq_H_I_G 6xlq_K_L_J
+cluster_1272	6xr0_H_L_M
+cluster_1273	7bsc_H_L_A 7bsd_A_B_G 7bsd_H_L_I
+cluster_1274	7chy_H_L_I 7chz_H_L_I
+cluster_1275	7eam_C_D_B 7eam_H_L_A
+cluster_1276	7l7r_B_A_G
+cluster_1277	7mlh_C_A_F 7mlh_E_D_B
+cluster_1278	7o33_H_L_P
+cluster_1279	7o9s_H_L_A
+cluster_1280	7ox3_A_B_C
+cluster_1281	7pa9_K_L_D 7pa9_O_P_B 7pa9_Q_R_E 7pa9_T_S_I 7pa9_V_W_J 7pa9_X_U_G 7pa9_Y_Z_F 7pa9_b_a_H 7pa9_c_d_C
+cluster_1282	7so5_H_L_A
+cluster_1283	7um3_H_L_A 7um3_I_M_B
+cluster_1284	7umm_H_L_A 7umm_I_M_B 7umm_J_N_C
+cluster_1285	7zfb_H_L_E 7zfb_J_K_F 7zfc_A_B_E
+cluster_1286	8eb2_J_L_D 8eb2_K_M_A 8eb2_N_O_G
+cluster_1287	8ivx_H_L_A
+cluster_1288	1ahw_B_A_C 1ahw_E_D_F
+cluster_1289	1ejo_H_L_P
+cluster_1290	1nak_H_L_P 1nak_I_M_Q
+cluster_1291	1z3g_H_L_A 1z3g_I_M_B
+cluster_1292	3b9k_D_C_F 3b9k_H_L_B
+cluster_1293	3ks0_H_L_B 3ks0_K_J_A
+cluster_1294	3n85_H_L_A
+cluster_1295	3nfp_A_B_K 3nfp_H_L_I
+cluster_1296	3wd5_H_L_A
+cluster_1297	4al8_H_L_C 4ala_H_L_C 4am0_A_B_S 4am0_C_D_T 4am0_E_F_Q 4am0_H_L_R
+cluster_1298	4dkf_H_L_A 4dkf_I_M_B
+cluster_1299	4dn4_H_L_M
+cluster_1300	4k2u_H_L_A 4k2u_I_M_B
+cluster_1301	4leo_A_B_C
+cluster_1302	4lkx_A_B_R
+cluster_1303	4o4y_H_L_A 4o51_B_A_N 4o51_D_C_O 4o51_F_E_P 4o51_H_L_M
+cluster_1304	4od2_B_A_S
+cluster_1305	4qci_B_A_D 4qci_H_L_C
+cluster_1306	4zpt_A_B_R 4zpt_H_L_S 4zpv_A_B_S 4zpv_H_L_R
+cluster_1307	5c7x_H_L_A 5c7x_M_N_B 5d72_H_L_A 5d72_M_N_B
+cluster_1308	5dfv_C_D_A 5dfv_E_F_B 6ejg_C_c_A 6ejg_D_d_B
+cluster_1309	5dur_B_D_A 5dur_H_L_C
+cluster_1310	5ea0_H_L_P
+cluster_1311	5eoc_H_L_P 5eoc_J_M_Q
+cluster_1312	5eor_H_L_A
+cluster_1313	5ikc_B_A_M 5ikc_H_L_N
+cluster_1314	5l0q_C_B_A 5l0q_F_E_D
+cluster_1315	5mhr_I_H_B 5mhr_K_J_C 5mhr_M_L_D 5mhr_N_G_F 5mhr_P_O_E 5mhr_R_Q_A
+cluster_1316	5nph_H_L_A
+cluster_1317	5tzu_H_L_C 7myz_H_L_C 7myz_I_M_D
+cluster_1318	5v2a_H_L_A
+cluster_1319	5vcn_D_C_B 5vcn_F_E_A
+cluster_1320	5vl3_A_B_R 5vl3_C_D_S 5vl3_E_F_T 5vl3_H_L_Q
+cluster_1321	5w0k_E_F_C 5w0k_H_L_A
+cluster_1322	5w3p_H_L_P
+cluster_1323	6aq7_H_L_A
+cluster_1324	6bzy_H_L_B
+cluster_1325	6c08_A_B_C 6c08_D_E_F
+cluster_1326	6c6y_A_B_S 6c6y_H_L_R
+cluster_1327	6cse_A_B_C 6cse_H_L_M 6csf_A_B_C 6csf_H_L_M
+cluster_1328	6ct7_A_B_T 6ct7_H_L_S
+cluster_1329	6cwt_A_B_E 6cwt_C_D_F
+cluster_1330	6gku_H_L_A
+cluster_1331	6hhc_H_L_A
+cluster_1332	6i04_C_D_B 6i04_H_L_A
+cluster_1333	6i8s_E_I_A 6i8s_F_J_B 6i8s_G_K_C 6i8s_H_L_D
+cluster_1334	6lxi_C_D_B 6lxj_E_F_B 6lxj_J_K_C 6lxj_M_N_D
+cluster_1335	6nmt_B_A_C
+cluster_1336	6ofi_H_L_G
+cluster_1337	6ogx_H_L_G 6okm_H_L_R
+cluster_1338	6p9h_C_D_B 6p9h_H_L_A
+cluster_1339	6pe8_A_B_U 6pe8_H_L_T 6pe9_C_D_G 6pe9_H_L_V 6pe9_K_M_J
+cluster_1340	6x1w_H_L_A
+cluster_1341	6x87_A_B_X 6x87_C_D_X 6x87_E_F_X 6x87_G_H_X 6x87_I_J_X 6x87_K_L_X 6x87_M_N_X 6x8p_H_L_P 6x8q_H_L_P 6x8s_H_L_P 6x8u_H_L_P
+cluster_1342	6xob_M_N_B 6xob_O_P_E 6xob_Q_R_H 6xob_S_T_K
+cluster_1343	6xsn_H_L_C
+cluster_1344	7cah_E_D_A 7cai_E_D_A 7cak_E_D_A 7cak_G_F_B 7cak_I_H_C 7cwn_E_D_B 7cwn_H_N_C 7cwn_O_M_A 7cws_E_D_Q 7cws_G_F_R 7cws_I_H_O 7e5r_L_H_A 7e5r_N_D_B 7e5r_O_E_C 7e5s_E_H_C 7e5s_L_D_B
+cluster_1345	7d5z_D_C_A 7d5z_H_G_E 7d5z_L_K_I 7d5z_P_O_M
+cluster_1346	7dk4_a_b_A 7dk4_c_d_B 7dk4_e_f_C 7dk5_a_b_A 7dk6_a_b_A 7dk6_c_d_B 7dk7_a_b_A 7dk7_c_d_B 7dk7_e_f_C
+cluster_1347	7eyc_A_B_Q 7eyc_H_L_P
+cluster_1348	7kzb_H_L_C
+cluster_1349	7lr3_A_B_C 7lr3_H_L_D
+cluster_1350	7m6d_H_L_C
+cluster_1351	7mfr_B_A_P 7mfr_Y_X_Q
+cluster_1352	7mzf_H_L_A
+cluster_1353	7r8l_H_L_E
+cluster_1354	7sem_B_C_F 7tjq_I_M_F 7tjq_J_K_C 7tjq_N_O_G 7tl0_J_K_A 7tl0_L_M_B 7tl0_N_O_C 8cw9_G_M_A 8cw9_J_B_E 8cw9_N_O_F
+cluster_1355	7u8c_H_L_2
+cluster_1356	7wcd_A_B_C 7wcd_E_F_H 7wcd_G_I_J
+cluster_1357	7wcr_a_b_A 7wcz_a_b_A 7wd0_a_b_A 7wd0_c_d_B 7wd7_a_b_A 7wd7_c_d_B 7wd7_e_f_C
+cluster_1358	7x08_H_L_A 7x08_I_M_B 7x08_J_N_C
+cluster_1359	7yrf_F_E_C
+cluster_1360	8dwa_H_L_A
+cluster_1361	1bog_B_A_C 1cfn_B_A_C 1cfs_B_A_C 1cft_B_A_C 1hh6_B_A_C 1hh9_B_A_C 1hi6_B_A_C
+cluster_1362	1fj1_B_A_F 1fj1_D_C_E
+cluster_1363	1jps_H_L_T
+cluster_1364	2nr6_D_C_A 2nr6_F_E_B
+cluster_1365	2r0k_H_L_A
+cluster_1366	2vxq_H_L_A
+cluster_1367	3e8u_H_L_P
+cluster_1368	3liz_H_L_A
+cluster_1369	4bz2_H_L_A
+cluster_1370	4jo1_H_L_P 4jo1_I_M_Q 4jo2_H_L_P 4jo2_I_M_Q
+cluster_1371	4jr9_H_L_A 4jre_B_C_A 4jre_H_L_D
+cluster_1372	4mxv_F_E_B 4mxv_H_L_A 4mxv_Y_X_D 4mxw_H_L_A 4mxw_W_V_X
+cluster_1373	4rgn_B_C_A 4rgn_H_L_S 4rgo_H_L_S
+cluster_1374	4u1g_B_C_A 4u1g_E_F_D
+cluster_1375	4z5r_B_A_N 4z5r_K_J_D 4z5r_M_L_E 4z5r_Q_P_G 4z5r_S_R_H 4z5r_U_T_I 4z5r_W_V_F 4z5r_Z_Y_X
+cluster_1376	5bo1_I_M_A
+cluster_1377	5csz_A_B_E 5csz_H_L_D
+cluster_1378	5hdq_H_L_A
+cluster_1379	5i9q_B_C_A 5i9q_H_L_G
+cluster_1380	5ijk_A_C_X 5ijk_B_D_Y
+cluster_1381	5mes_H_L_A 5mev_H_L_A 6qb6_H_L_A
+cluster_1382	5t1d_H_L_B
+cluster_1383	5tkk_H_L_A
+cluster_1384	5umi_A_B_C 5umi_H_L_C
+cluster_1385	5usl_B_C_A 5usl_H_L_X
+cluster_1386	5v6m_H_L_P
+cluster_1387	5vig_A_B_G 5vig_H_L_Z
+cluster_1388	5yy5_C_D_B 5yy5_H_L_A 5zxv_C_D_B 5zxv_H_L_A
+cluster_1389	6bfq_A_B_I 6bfq_C_D_G 6bfq_E_F_J 6bfq_H_L_K
+cluster_1390	6bit_I_K_H 6bit_J_L_G
+cluster_1391	6bpc_B_C_A 6bpc_E_F_D
+cluster_1392	6dca_H_L_P 6dca_I_M_Q 6dca_J_N_R 6dca_K_O_S
+cluster_1393	6i9i_A_B_C 6i9i_H_L_D
+cluster_1394	6ldv_H_L_P 6ldx_H_L_B
+cluster_1395	6mlk_H_L_A
+cluster_1396	6pdr_H_L_A
+cluster_1397	6pzf_F_E_B 6pzf_H_L_A 6u02_D_C_B 6u02_G_F_E 6u02_H_L_A 6u02_K_I_J
+cluster_1398	6r0x_A_B_E 6r0x_C_D_F
+cluster_1399	6vmj_B_A_Z 6vmj_F_E_Y 6vmj_J_I_X 6vmj_M_L_W 6vmk_B_A_C 6vmk_E_D_F 6vmk_H_G_I 6vmk_K_J_N 6vmk_M_L_W 6vmk_P_O_Q 6vmk_S_R_T 6vmk_V_U_X 6vmk_Z_Y_a 6vmk_c_b_d 6vmk_f_e_g 6vmk_i_h_j 6vmk_l_k_m 6vmk_o_n_p 6vmk_r_q_s 6vmk_u_t_v
+cluster_1400	6wwc_A_B_C 6wwc_D_H_F 6wx2_A_B_C 6wx2_H_L_F
+cluster_1401	6x1u_A_B_C 6x1u_H_L_D
+cluster_1402	6xpx_B_C_A
+cluster_1403	6yxm_H_L_B
+cluster_1404	7mdj_A_B_C 7mjt_A_B_C 7mk6_A_B_C 7mub_A_B_C
+cluster_1405	7ox2_A_L_T 7ox2_B_C_O 7ox2_D_E_M 7ox2_J_K_N
+cluster_1406	7sn2_H_L_A 7sn3_D_NA_A 7sn3_F_G_B 7sn3_H_L_C
+cluster_1407	7so7_H_L_A 7so7_X_Y_B
+cluster_1408	7ue9_H_L_C
+cluster_1409	8bbh_H_L_A
+cluster_1410	8dtr_A_B_G 8dtr_E_F_J
+cluster_1411	8dtt_A_B_G 8dtt_E_F_J
+cluster_1412	1a3r_H_L_P
+cluster_1413	1tpx_B_C_A 1tqb_B_C_A 1tqc_B_C_A
+cluster_1414	2arj_B_A_R 2arj_H_L_Q
+cluster_1415	2fd6_H_L_U 3bt2_H_L_U
+cluster_1416	2w65_A_B_E 2w65_C_D_F
+cluster_1417	3i50_H_L_E
+cluster_1418	3lex_A_B_C 3lex_H_L_P
+cluster_1419	3tt1_H_L_B 3tt1_I_M_A
+cluster_1420	4bz1_H_L_A
+cluster_1421	4gag_H_L_P 4gaj_H_L_P
+cluster_1422	4h8w_H_L_G 5w4l_F_I_A 5w4l_H_L_G
+cluster_1423	4k24_H_L_U
+cluster_1424	4liq_H_L_E
+cluster_1425	4lqf_H_L_A
+cluster_1426	4onf_H_L_P 4ong_H_L_P
+cluster_1427	5d1x_B_A_E
+cluster_1428	5dsc_A_B_Q 5dsc_C_D_P 5dsc_E_F_M 5dsc_H_L_N
+cluster_1429	5mo9_H_L_X
+cluster_1430	5o6v_H_L_B 5o6v_I_M_C
+cluster_1431	5tih_H_L_A
+cluster_1432	5wux_A_B_F 5wux_C_D_G 5wux_H_L_E
+cluster_1433	5x8l_F_K_A 5x8l_G_L_B 5x8l_H_M_C 5x8l_J_O_E 5x8l_S_N_D 5xxy_H_L_A
+cluster_1434	6b9j_A_B_Y 6b9j_H_L_X
+cluster_1435	6ldy_A_B_C 6ldy_H_L_M
+cluster_1436	6lyn_A_B_C 6lyn_H_L_D
+cluster_1437	6m58_C_D_B 6m58_H_L_A
+cluster_1438	6pxr_H_L_A
+cluster_1439	6rlo_A_B_I 6rlo_C_D_J 6rlo_E_F_K 6rlo_G_H_L
+cluster_1440	6t9d_A_B_D 6t9d_H_L_C 6t9e_A_B_C 6t9e_H_L_D
+cluster_1441	6wmw_H_L_B
+cluster_1442	6wqo_B_C_A 6wqo_E_F_D
+cluster_1443	7c88_A_B_C 7c88_H_L_M
+cluster_1444	7cdj_H_L_E
+cluster_1445	7jtf_A_B_E 7jtf_C_D_F
+cluster_1446	7jwp_A_B_Q 7jwp_C_D_R 7jwp_E_F_S 7jwp_G_H_T 7jwp_I_J_U 7jwp_K_L_V 7jwp_M_N_W 7jwp_O_P_X 7jwq_A_B_V 7jwq_C_D_P
+cluster_1447	7k9z_H_L_E
+cluster_1448	7kpg_H_L_S
+cluster_1449	7kq7_H_L_B
+cluster_1450	7mw2_D_E_A 7mw2_F_G_B 7mw2_H_L_C 7mw3_D_E_A 7mw3_F_G_B 7mw3_H_L_C 7mw4_D_E_A 7mw4_F_G_B 7mw4_H_L_C
+cluster_1451	7mxl_J_K_C 7n0v_H_L_C
+cluster_1452	7nx3_B_C_F 7nx3_E_D_A
+cluster_1453	7q0h_A_B_E 7q9f_E_F_B 7q9f_H_L_A 7q9f_J_K_C
+cluster_1454	7rdw_G_I_N 7rdw_H_L_M 7rdw_Q_R_C 7rdw_U_V_D
+cluster_1455	7e86_A_B_C 7s5p_H_L_A
+cluster_1456	7t25_A_B_C 7t25_H_L_E
+cluster_1457	7wvl_H_L_F
+cluster_1458	8dfi_H_L_A
+cluster_1459	8ds5_C_B_A
+cluster_1460	1p2c_B_A_C 1p2c_E_D_F
+cluster_1461	1sm3_H_L_P
+cluster_1462	2ck0_H_L_P 3ck0_H_L_P
+cluster_1463	2h32_H_A_B
+cluster_1464	2qsc_H_L_P
+cluster_1465	3bn9_D_C_B
+cluster_1466	3iet_B_A_X 3iet_D_C_Q
+cluster_1467	3s35_H_L_X
+cluster_1468	3sqo_H_L_A
+cluster_1469	4i9w_E_D_A 4i9w_G_F_B 4wfe_E_D_A 4wfe_G_F_B 4wff_E_D_A 4wff_G_F_B 4wfg_E_D_A 4wfg_G_F_B 4wfh_E_D_A 4wfh_G_F_B 7lj4_E_D_A 7lj4_G_F_B 7lj5_E_D_A 7lj5_G_F_B 7lja_E_D_A 7lja_G_F_B 7ljb_E_D_A 7ljb_G_F_B
+cluster_1470	4rdq_G_F_E 4rdq_I_H_A 4rdq_K_J_B 4rdq_M_L_C 4rdq_O_N_D 5t5n_G_F_E 5t5n_I_H_A 5t5n_K_J_B 5t5n_M_L_C 5t5n_O_N_D
+cluster_1471	5erw_A_B_C
+cluster_1472	5f3h_A_B_J 5f3h_C_D_I 5f3h_E_F_L 5f3h_G_H_K 7wsl_H_L_D
+cluster_1473	5k59_E_F_B 5k59_H_L_A
+cluster_1474	5kte_H_L_A 6d9w_H_L_A
+cluster_1475	5tkj_A_B_C 5tkj_D_E_F 5tkj_G_H_I 5tkj_J_K_L 6cuf_3_4_A 6cuf_H_L_D 6cuf_h_l_c
+cluster_1476	5tlk_D_C_X 5tlk_H_G_Y
+cluster_1477	5w4l_B_C_A 5w4l_D_E_G
+cluster_1478	5w5x_H_L_A 5w5z_H_L_A
+cluster_1479	5ye3_B_A_C 5ye4_A_B_E 5ye4_C_D_F
+cluster_1480	6aod_B_A_C
+cluster_1481	6ewb_G_I_C 6ewb_H_L_B 6ewb_J_K_D
+cluster_1482	6f7t_B_A_D 6f7t_H_L_C
+cluster_1483	6ktr_A_B_C 6ktr_F_G_D
+cluster_1484	6p8d_A_B_C 6p8d_D_E_F
+cluster_1485	6vel_H_L_C
+cluster_1486	6vy4_C_D_B 6vy4_H_L_A
+cluster_1487	6z06_H_L_A 7b09_H_L_A
+cluster_1488	7daa_H_L_A
+cluster_1489	7e7x_H_L_A 7e7x_M_N_B
+cluster_1490	7f3q_H_L_A
+cluster_1491	7lf2_D_E_A 7lf2_F_H_B 7lf2_G_I_C 7lf2_K_L_J 7lf2_O_M_R 7lf2_P_N_Q
+cluster_1492	7mmo_A_B_C 7mmo_D_E_F
+cluster_1493	7w71_H_L_A 7w71_I_M_B
+cluster_1494	7x9e_A_B_E 7x9e_C_D_F
+cluster_1495	1dqj_B_A_C 1nby_B_A_C 1nbz_B_A_C 1ndm_B_A_C 1xgp_B_A_C 1xgq_B_A_C 1xgr_B_A_C 1xgt_B_A_C 1xgu_B_A_C
+cluster_1496	1fe8_H_L_A 1fe8_I_M_B 1fe8_J_N_C
+cluster_1497	1ndg_B_A_C
+cluster_1498	1nsn_H_L_S
+cluster_1499	1tet_H_L_P 1zea_H_L_A
+cluster_1500	2b2x_H_L_A 2b2x_I_M_B
+cluster_1501	2hkf_H_L_P
+cluster_1502	3ffd_A_B_P
+cluster_1503	3g5y_B_A_E
+cluster_1504	3ld8_C_B_A 3ldb_C_B_A
+cluster_1505	3mj9_H_L_A
+cluster_1506	4d3c_H_L_A
+cluster_1507	4dw2_H_L_U
+cluster_1508	4ht1_H_L_T
+cluster_1509	4lu5_H_L_B 4lu5_I_M_A
+cluster_1510	4p59_H_L_A
+cluster_1511	4qex_H_L_A 4qex_I_M_B
+cluster_1512	4rgn_D_E_A 4rgn_F_G_S
+cluster_1513	4ywg_H_L_G
+cluster_1514	5f6j_B_A_G 5f6j_H_F_E
+cluster_1515	5gir_A_B_D 5gir_H_L_C 5gis_H_L_C
+cluster_1516	5sx4_H_L_N 5sx4_J_I_M 5sx5_H_L_N 5sx5_J_K_M
+cluster_1517	6iea_H_L_A
+cluster_1518	6kx1_A_B_C
+cluster_1519	6a3w_A_B_C 6a3w_D_E_F 6a3w_G_H_I 6a3w_J_K_L 6mi2_A_B_C 6mi2_D_E_F
+cluster_1520	6mnq_H_L_P
+cluster_1521	6vbo_H_L_C
+cluster_1522	7doh_H_L_I
+cluster_1523	7dpm_J_K_L
+cluster_1524	7duo_H_L_B
+cluster_1525	7kpj_A_B_E 7kpj_C_D_F
+cluster_1526	7lki_A_B_C 7lki_D_E_F
+cluster_1527	7rpu_A_B_P
+cluster_1528	7s4g_A_B_K 7s4g_C_D_G 7s4g_E_F_I 7s4g_H_L_J
+cluster_1529	7uvf_H_L_A 7uvf_X_Y_B
+cluster_1530	1bgx_H_L_T
+cluster_1531	3ggw_B_A_E 3ggw_D_C_F
+cluster_1532	3qg6_B_A_D 3qg6_H_L_C
+cluster_1533	3u0t_B_A_F 3u0t_D_C_E
+cluster_1534	4ag4_H_L_A
+cluster_1535	4ffv_D_C_B 4ffv_H_L_A 4ffw_D_C_B 4ffw_H_L_A
+cluster_1536	4qhu_B_A_D
+cluster_1537	5ggr_A_B_Y 5ggr_H_L_Z 5wt9_H_L_G
+cluster_1538	5j13_C_B_A
+cluster_1539	5t6p_B_A_F 5t6p_D_C_E 5t78_B_A_F 5t78_D_C_E
+cluster_1540	5wdf_A_B_Q 5wdf_H_L_P
+cluster_1541	6e4y_H_L_P 6e4z_H_L_P 6mv5_H_L_P
+cluster_1542	6hig_H_L_B
+cluster_1543	7dc8_B_A_C 7dc8_E_D_F
+cluster_1544	7e9b_H_L_C
+cluster_1545	7kzx_D_C_B 7kzx_F_E_A 7kzz_D_C_A 7kzz_F_E_B
+cluster_1546	7l7r_D_C_G
+cluster_1547	7mw5_D_E_A 7mw5_F_G_B 7mw5_H_L_C 7mw6_D_E_A 7mw6_F_G_B 7mw6_H_L_C
+cluster_1548	7sbd_H_L_C 7sbg_H_L_C
+cluster_1549	7te1_C_F_E 7te1_H_L_D
+cluster_1550	2oz4_H_L_A
+cluster_1551	4f15_B_C_A 4f15_E_F_D 4f15_H_I_G 4f15_K_L_J
+cluster_1552	4nhh_I_F_D 4nhh_M_K_B 4nhh_O_Q_C 4nhh_R_P_N
+cluster_1553	4tuj_A_B_E 4tuj_C_D_F 4tuk_H_L_I 4tul_H_L_I
+cluster_1554	4wht_A_B_a 4wht_C_D_c 4wht_E_F_e 4wht_G_H_g 4wht_I_J_i 4wht_K_L_k 4wht_M_N_m 4wht_O_P_o 4wht_Q_R_q 4wht_S_T_s 4wht_U_V_u 4wht_X_Y_x 4why_G_H_D 4why_I_J_A 4why_K_L_C 4why_M_N_B
+cluster_1555	4ydi_H_L_G
+cluster_1556	5aum_A_B_D 5aum_H_L_C
+cluster_1557	5dup_H_L_A
+cluster_1558	5e2v_H_L_P 5e2w_H_L_P
+cluster_1559	5nj3_C_D_B 5nj3_E_F_A 5njg_C_D_B 5njg_E_F_A 6eti_D_C_B 6eti_F_E_A 6feq_D_C_B 6feq_F_E_A 6hco_D_C_B 6hco_F_E_A 7neq_D_C_B 7neq_F_E_A 7nez_D_C_B 7nez_F_E_A 7nfd_D_C_B 7nfd_F_E_A
+cluster_1560	5th9_H_L_A 5th9_I_M_B 5th9_J_N_C
+cluster_1561	6bpe_B_C_A 6bpe_E_F_D 6bpe_H_I_G
+cluster_1562	6eyo_H_L_A 6eyo_I_M_B
+cluster_1563	6gv1_H_L_A
+cluster_1564	6ion_H_L_A
+cluster_1565	6o9i_D_E_C
+cluster_1566	6p3s_V_W_X
+cluster_1567	7e7e_C_D_B 7e7e_H_L_A
+cluster_1568	7s13_H_L_D 7s13_I_M_C
+cluster_1569	6c9u_H_L_A 7m7f_C_D_A 7m7f_E_F_B 7m7g_C_D_B 7m7g_E_F_A 7m7h_C_D_A 7m7h_E_F_B 7m7i_C_D_A 7m7i_E_F_B 7m7j_C_D_A 7m7j_E_F_B 7s6c_E_G_A 7s6c_H_F_B 7s6d_D_F_B 7s6d_E_G_A
+cluster_1570	7sjs_H_L_C
+cluster_1571	1hez_B_A_E
+cluster_1572	2vxt_H_L_I
+cluster_1573	2zpk_H_L_P 2zpk_I_M_Q
+cluster_1574	3nh7_H_L_A
+cluster_1575	5ds8_H_L_P 5dtf_H_L_P 5dub_H_L_P
+cluster_1576	5njd_N_M_K
+cluster_1577	5vxr_H_L_P
+cluster_1578	6h5n_C_B_A 6h5n_F_E_D 7zxf_B_C_A
+cluster_1579	7mxl_A_B_C 7n0u_H_L_C
+cluster_1580	7rt9_A_B_Y 7rt9_C_D_Z
+cluster_1581	7rxc_H_L_B 7rxd_H_L_B
+cluster_1582	8iow_H_L_I
+cluster_1583	2y6s_D_C_P 2y6s_H_L_Q
+cluster_1584	4hj0_C_D_B 4hj0_P_Q_A
+cluster_1585	4xxd_B_A_C 4xxd_E_D_F 5vzy_H_L_A
+cluster_1586	5czv_H_L_A
+cluster_1587	5t5b_A_B_O 5t5b_H_L_E
+cluster_1588	5vyf_B_A_C 5vyf_H_L_F
+cluster_1589	8as0_W_V_X
+cluster_1590	3mnw_B_A_P 3mnz_B_A_P 6k68_A_B_H 6k68_C_D_E 6k68_F_G_I 6k68_J_K_L
+cluster_1591	3t2n_H_L_A 3t2n_I_M_B
+cluster_1592	5zs0_B_A_C
+cluster_1593	6de7_D_E_B
+cluster_1594	6j15_A_B_C 6j15_H_L_D
+cluster_1595	6nmv_H_L_S
+cluster_1596	7bbj_M_N_B
+cluster_1597	7rta_H_L_N
+cluster_1598	7sa6_H_L_A
+cluster_1599	2cmr_H_L_A
+cluster_1600	5jq6_H_L_A
+cluster_1601	6hx4_I_M_A
+cluster_1602	6yax_H_L_A
+cluster_1603	7cj2_C_D_A
+cluster_1604	7m3i_H_L_R
+cluster_1605	7sts_A_B_D
+cluster_1606	7woa_D_B_A 7woa_F_G_C 7wob_D_B_A 7wob_F_G_C 7wob_H_I_E 7woc_A_B_C
+cluster_1607	4utb_I_M_B
+cluster_1608	5g64_I_M_B
+cluster_1609	7rew_A_B_G 7rew_H_L_I
+cluster_1610	4kuc_F_E_I 4kuc_H_D_A
+cluster_1611	5dmg_C_D_Z 5dmg_E_F_X 5dmg_H_L_P
+cluster_1612	8dcy_A_B_C
+cluster_1613	6t3f_H_L_F
+cluster_1614	6wtv_H_I_G 6wtv_K_L_J
+cluster_1615	1iqd_B_A_C
+cluster_1616	3g5v_B_A_C
+cluster_1617	3rhw_F_N_B 3rhw_G_K_C 3ri5_F_N_B 3ri5_G_K_C 3ria_F_N_B 3ria_G_K_C 3rif_I_O_D 3rif_J_M_E
+cluster_1618	3u9p_H_L_D 3u9p_K_M_C
+cluster_1619	4o9h_H_L_A
+cluster_1620	4ogy_M_N_B
+cluster_1621	2q8a_H_L_A 2q8b_H_L_A
+cluster_1622	3rhw_I_O_D 3ri5_I_O_D 3ria_I_O_D
+cluster_1623	5wob_U_V_G
+cluster_1624	7rah_D_C_E
+cluster_1625	7u9o_H_L_A
+cluster_1626	4yo0_C_D_F
+cluster_1627	5cus_I_M_B
+cluster_1628	6ldw_B_A_D 6ldw_H_L_C
+cluster_1629	7rnj_H_L_B
+cluster_1630	5jxe_D_C_B
+cluster_1631	4lmq_E_I_F
+cluster_1632	6ewb_E_F_A
+cluster_1633	6uyg_A_B_E 6woq_C_D_F
+cluster_1634	3wkm_I_M_B
+cluster_1635	5igx_H_L_G 6myy_D_C_B 6myy_G_F_E 6myy_H_L_A 6mzj_D_C_B 6mzj_H_L_A
+cluster_1636	6bzu_E_F_K
+cluster_1637	6fy1_Y_Z_X
+cluster_1638	3c09_C_B_A
+cluster_1639	7pa9_M_N_A
+cluster_1640	7pr0_G_F_D
+cluster_1641	7pa8_N_M_D 7pa8_Y_F_E
+cluster_1642	7cj2_K_L_B
+cluster_1643	8ddk_A_B_C
+cluster_1644	4zxb_C_D_E
+cluster_1645	7lcv_A_B_C
+cluster_1646	7r6x_H_L_R
+cluster_1647	4gms_I_M_C
+cluster_1648	6xsw_D_E_F
+cluster_1649	5cus_H_L_A 5cus_J_N_C 5cus_K_O_D
+cluster_1650	6ieb_E_F_B
+cluster_1651	1jrh_H_L_I
+cluster_1652	6fy3_X_Y_Z
+cluster_1653	7pa8_J_I_B 7pa8_L_K_A
+cluster_1654	7dkj_C_D_A 7dkj_G_H_E 7dkj_K_L_I
+cluster_1655	3rif_F_N_B
+cluster_1656	5xcs_A_B_C 5xcu_A_B_C 5xcu_D_E_F
+cluster_1657	6b0n_D_E_G
+cluster_1658	7cec_F_G_B 7nwl_D_E_B
+cluster_1659	7kzb_A_B_C
+cluster_1660	7kra_I_J_A 7ktx_I_J_A
+cluster_1661	6opa_S_R_G
+cluster_1662	7u9p_H_L_A
+cluster_1663	4hg4_X_Y_H 4hg4_Z_z_I
+cluster_1664	5xcq_A_B_C 5xcr_A_B_C 5xcr_D_E_F 5xct_A_B_C
+cluster_1665	5xcv_A_B_C 5xcv_D_E_F
+cluster_1666	6yax_I_M_B
+cluster_1667	6lz4_A_B_C 6lz4_D_E_F
+cluster_1668	2j88_H_L_A
+cluster_1669	4hf5_H_L_A
+cluster_1670	7pa8_H_G_C
+cluster_1671	7ceb_C_D_B
+cluster_1672	2aep_H_L_A 2aeq_H_L_A
+cluster_1673	5v8l_J_N_A
+cluster_1674	7kfe_G_I_B 7kfe_H_J_C
+cluster_1675	5o0w_E_NA_A 5o0w_F_NA_B 5o0w_G_NA_C 5o0w_H_NA_D
+cluster_1676	6oca_C_NA_A 6oca_D_NA_B
+cluster_1677	7d3l_H_L_2
+cluster_1678	4xvj_H_L_A
+cluster_1679	7kfb_G_J_A 7kfb_H_K_B 7kfb_I_L_C 7m8l_G_J_A 7m8l_H_K_B 7m8l_I_L_C
+cluster_1680	7s2r_B_NA_A
+cluster_1681	1jto_A_NA_L 1jto_B_NA_M 1jtp_A_NA_L 1jtp_B_NA_M 1jtt_A_NA_L 1mel_A_NA_L 1mel_B_NA_M 1xfp_A_NA_L
+cluster_1682	5lhn_B_NA_A 5lhp_B_NA_A 5lhq_B_NA_A
+cluster_1683	6sge_B_NA_C 6sge_D_NA_A
+cluster_1684	7d6y_B_NA_A 7d8b_B_NA_A 7d8b_D_NA_C 7xtp_C_NA_A 7xtp_D_NA_B
+cluster_1685	7nxx_B_NA_A
+cluster_1686	7rw2_G_J_B 7rw2_H_L_A 7rw2_I_K_C
+cluster_1687	6yz5_F_NA_E 6yz7_D_NA_A 6z2m_D_NA_A 6z2m_F_NA_E 6z43_X_NA_A 6z43_Y_NA_B 6z43_Z_NA_C 7z1a_E_NA_C 7z1a_F_NA_A 7z1b_E_NA_C 7z1b_F_NA_A 7z1c_E_NA_C 7z1c_F_NA_A 7z1d_F_NA_E 7z6v_X_NA_A 7z6v_Y_NA_B 7z6v_Z_NA_C 7z7x_D_NA_A 7z7x_E_NA_B 7z7x_F_NA_C 7z85_D_NA_A 7z85_E_NA_B 7z85_F_NA_C 7z9q_D_NA_C 7z9q_E_NA_A 7z9q_F_NA_B
+cluster_1688	8en1_C_NA_A 8en1_D_NA_B
+cluster_1689	1zmy_A_NA_L
+cluster_1690	5o03_C_NA_A 5o03_D_NA_B
+cluster_1691	6ibb_B_NA_A 6ibb_D_NA_C 6rnk_B_NA_A 6z10_B_NA_A
+cluster_1692	7kfh_G_J_A 7kfh_H_K_B 7kfh_I_L_C
+cluster_1693	7nll_A_NA_D 7nll_C_NA_B 7ns6_G_NA_L 7ns6_H_NA_J 7ns6_O_NA_N 7ns6_S_NA_M 7ns6_T_NA_I 7ns6_U_NA_K
+cluster_1694	7vfb_B_NA_A
+cluster_1695	4nbz_B_NA_A 4nbz_D_NA_C 4nc0_B_NA_A 4nc1_E_NA_A 4nc1_F_NA_B
+cluster_1696	6kn9_E_e_B
+cluster_1697	6pci_H_K_A 6pci_I_L_B 6pci_J_M_C 6uye_G_J_A 6uye_H_K_B 6uye_I_L_C
+cluster_1698	7bu8_G_I_B 7bu8_H_L_A 7bu8_J_K_C 7bua_G_I_B 7bua_H_L_A 7bua_J_K_C 7bub_G_I_B 7bud_G_I_B 7bue_G_I_B 7bue_H_L_A 7bue_J_K_C 7buf_G_I_B 7buf_H_L_A
+cluster_1699	7fat_B_NA_A
+cluster_1700	7mjs_H_L_X
+cluster_1701	7t4g_G_I_C 7t4g_H_L_A 7t4g_J_K_E
+cluster_1702	7tpr_D_NA_B 7tpr_E_NA_C
+cluster_1703	7wki_B_NA_A
+cluster_1704	2xtj_D_B_A
+cluster_1705	5foj_A_NA_B
+cluster_1706	5gxb_B_NA_A
+cluster_1707	6cvk_A_a_C 6cvk_B_b_D 6cwd_A_a_C 6cwd_B_b_D 6cwd_E_e_F 6cwd_G_g_H
+cluster_1708	6ey0_E_NA_A 6ey0_F_NA_B 6ey0_G_NA_C 6ey0_H_NA_D
+cluster_1709	6f2g_B_NA_A 6f2w_B_NA_A
+cluster_1710	6okp_M_N_D 6okp_O_P_E 6okp_Q_R_F
+cluster_1711	7d5p_C_NA_A 7d5p_D_NA_B 7d5q_C_NA_A 7d5q_D_NA_B
+cluster_1712	7kf9_G_J_A 7kf9_H_K_B 7kf9_I_L_C
+cluster_1713	7ldj_E_NA_B 7ldj_F_NA_A 7ldj_G_NA_C 7ldj_H_NA_D 7lx5_C_NA_B
+cluster_1714	7llk_C_D_A 7llk_G_H_E 7llk_K_L_I
+cluster_1715	7won_H_L_F 7wp0_H_L_F 7wp1_H_L_F 7wp2_H_L_F 7wp5_H_L_F
+cluster_1716	7zml_E_NA_B 7zml_F_NA_A 7zml_G_NA_D 7zml_K_NA_C 7zmm_E_NA_C 7zmm_F_NA_B 7zmm_G_NA_D 7zmm_K_NA_A
+cluster_1717	7zr9_D_E_C 7zr9_F_G_B 7zr9_H_L_A
+cluster_1718	8en5_E_NA_A 8en5_F_NA_B 8en5_G_NA_C 8en5_H_NA_D
+cluster_1719	4hep_G_NA_A
+cluster_1720	4ut6_H_L_A 4ut6_I_M_B
+cluster_1721	6ey6_I_NA_A 6ey6_J_NA_B 6ey6_K_NA_C 6ey6_L_NA_D 6ey6_M_NA_E 6ey6_N_NA_F 6ey6_O_NA_G 6ey6_P_NA_H
+cluster_1722	6u0l_H_L_A 6u0l_I_J_B 6u0l_P_Q_C 6u0n_H_L_A 6u0n_I_J_B 6u0n_P_Q_C
+cluster_1723	6udj_D_E_P 6udj_H_I_J 6udj_N_O_G
+cluster_1724	6udk_D_E_G 6udk_H_L_K 6udk_M_N_R
+cluster_1725	7om4_B_NA_A
+cluster_1726	7pa6_K_k_A 7pa6_L_l_B 7pa6_M_m_C 7pa6_N_n_D 7pa6_O_o_E 7pa6_P_p_F 7pa6_Q_q_G 7pa6_R_r_H 7pa6_S_s_I 7pa6_T_t_J
+cluster_1727	7pc2_M_N_C 7pc2_O_P_B 7pc2_Q_R_A
+cluster_1728	7rby_B_NA_A 7rby_D_NA_C
+cluster_1729	7wd1_C_NA_B 7wd1_D_NA_A
+cluster_1730	8sw4_O_P_A 8sw4_Q_R_D 8sw4_S_T_C
+cluster_1731	8vfv_H_L_A
+cluster_1732	3g9a_B_NA_A
+cluster_1733	3jbc_7_NA_3
+cluster_1734	2x89_A_NA_D 2x89_B_NA_F 4kdt_A_NA_D 4kdt_B_NA_C
+cluster_1735	4lgs_B_NA_A
+cluster_1736	5y0a_D_E_A 5y0a_F_G_B 5y0a_H_L_C
+cluster_1737	6knm_A_NA_B
+cluster_1738	6nnj_U_V_G
+cluster_1739	6pzy_C_D_A 6pzy_G_J_B 6pzy_H_K_E 6pzy_I_L_F
+cluster_1740	6qv2_E_NA_B 6qv2_F_NA_D
+cluster_1741	6nnf_U_V_G 6vi0_E_D_C 6vi0_H_L_G 6vi0_K_J_I
+cluster_1742	7eo0_H_L_3
+cluster_1743	7ey5_H_L_A
+cluster_1744	7kde_H_L_G 7kde_J_I_F 7kde_M_N_E
+cluster_1745	7kej_G_J_A 7kej_H_K_B 7kej_I_L_C
+cluster_1746	7l56_F_G_C 7l56_H_L_A 7l56_J_K_B
+cluster_1747	7lbe_H_G_A 7lbf_H_G_A 7lbg_H_G_A 7t4r_J_I_B 7t4r_S_R_K
+cluster_1748	7ls9_D_F_B 7ls9_E_G_C 7ls9_H_L_A
+cluster_1749	7luc_J_K_A 7luc_L_M_B 7luc_N_O_C
+cluster_1750	7mxe_R_W_J
+cluster_1751	7na9_D_NA_A
+cluster_1752	7nmu_C_NA_A 7nmu_D_NA_B
+cluster_1753	7olz_C_NA_A
+cluster_1754	7r8n_H_L_A 7r8n_M_N_E 7r8n_O_P_B
+cluster_1755	7swp_H_L_A
+cluster_1756	7tgf_B_NA_A
+cluster_1757	7wd2_C_NA_A 7wd2_D_NA_B
+cluster_1758	7xic_E_F_C 7xic_H_I_A 7xic_K_L_B
+cluster_1759	8t4d_H_L_A 8t4d_O_Q_E 8t4d_P_R_F
+cluster_1760	4i13_B_NA_A 4i1n_B_NA_A
+cluster_1761	4lhq_B_NA_A 4lhq_D_NA_C
+cluster_1762	4tvs_a_NA_A 4tvs_b_NA_B
+cluster_1763	4w6y_B_NA_A
+cluster_1764	4y7m_A_NA_C 4y7m_B_NA_D
+cluster_1765	5e7f_A_NA_G 5e7f_B_NA_H 5e7f_C_NA_I
+cluster_1766	5f1o_B_NA_A
+cluster_1767	5jz7_C_D_A 5jz7_G_I_F 5jz7_H_L_B 5jz7_J_K_E
+cluster_1768	5j56_B_NA_A 5u4l_B_NA_A 5u4m_B_NA_A
+cluster_1769	6dfh_G_J_C 6dfh_H_L_A 6dfh_I_K_D
+cluster_1770	6mtj_D_E_B 6mtn_D_E_B 6mu6_D_E_B 6mu7_D_E_B 6mu8_D_E_B 6mug_D_E_B 6nm6_D_E_B 6nnf_D_E_B 6nnj_D_E_B 6vzi_D_E_B 6w03_D_E_B 6wix_D_E_B
+cluster_1771	6nf5_E_F_C 6nf5_H_L_A 6nf5_O_P_J
+cluster_1772	6nm6_U_V_G
+cluster_1773	6rqm_B_NA_A
+cluster_1774	6uft_B_NA_A
+cluster_1775	6vn1_H_L_A 6vn1_I_M_B 6vn1_J_N_C
+cluster_1776	6zbp_F_NA_E 6zcz_F_NA_E 6zh9_F_NA_E 6zhd_D_NA_A 6zhd_E_NA_C 6zhd_F_NA_B 7z1e_F_NA_E 7z86_X_NA_A 7z86_Y_NA_B 7z86_Z_NA_C 7z9r_X_NA_A 7z9r_Y_NA_B 7z9r_Z_NA_C
+cluster_1777	6zwk_A_NA_G 6zwk_B_NA_H 6zwk_C_NA_I 6zwk_D_NA_J 6zwk_E_NA_K 6zwk_F_NA_L
+cluster_1778	7a6o_B_NA_A 7eow_B_NA_A
+cluster_1779	7bel_E_F_X 7bel_H_L_R 7nd4_D_E_A 7nd4_F_G_B 7nd4_H_L_C
+cluster_1780	7k8x_E_G_A
+cluster_1781	7lzp_B_NA_A 7lzp_E_NA_D
+cluster_1782	7mep_H_L_A
+cluster_1783	7n5h_E_F_B 7n5h_H_L_A 7n5h_J_K_C
+cluster_1784	7n65_C_D_A 7n65_G_H_E 7n65_K_L_I
+cluster_1785	7now_A_NA_B 7now_C_NA_D
+cluster_1786	7r98_D_NA_A 7r98_E_NA_B 7r98_F_NA_C
+cluster_1787	7ra3_N_NA_B 7rg9_N_NA_A 7wui_N_NA_A
+cluster_1788	7th2_C_NA_A 7th2_D_NA_B
+cluster_1789	7voa_A_NA_B
+cluster_1790	7x7d_B_NA_A 7x7d_C_NA_D 7x7d_F_NA_E 7x7e_A_NA_D 7x7e_B_NA_C 7x7e_E_NA_F
+cluster_1791	8cyj_C_NA_R
+cluster_1792	8f92_H_L_A 8f92_O_Q_E 8f92_P_R_F
+cluster_1793	8t49_H_L_A 8t49_O_Q_E 8t49_P_R_F
+cluster_1794	1ezv_X_Y_E 1kb9_J_K_E 1kyo_J_K_E 1kyo_U_V_P 1p84_J_K_E 2ibz_X_Y_E 3cx5_J_K_E 3cx5_U_V_P 3cxh_J_K_E 3cxh_U_V_P 4pd4_J_K_E
+cluster_1795	1mvf_A_NA_E 1mvf_B_NA_D
+cluster_1796	3jbe_7_NA_3
+cluster_1797	3rjq_B_NA_A 7ri2_B_NA_A
+cluster_1798	4c57_C_NA_A 4c57_D_NA_B 5y7z_C_NA_A 5y7z_D_NA_B 5y80_B_NA_A
+cluster_1799	4dk3_A_NA_C 4dk3_B_NA_D 4dk6_A_NA_D 4dk6_B_NA_C
+cluster_1800	4eiz_C_NA_B 4eiz_D_NA_A 4ej1_C_NA_B 4ej1_D_NA_A
+cluster_1801	4i0c_C_NA_B 4i0c_D_NA_A
+cluster_1802	4kfz_C_NA_A 4kfz_D_NA_B
+cluster_1803	4m62_H_L_S 4m62_I_M_T 4m8q_A_B_S 4m8q_H_L_C 4odx_A_L_Y 4odx_H_B_X
+cluster_1804	4p2c_H_NA_C 4p2c_I_NA_D 4p2c_J_NA_E 4p2c_K_NA_F
+cluster_1805	4qo1_A_NA_B
+cluster_1806	4s10_A_NA_C 4s10_B_NA_D 6h1f_A_NA_B
+cluster_1807	5cba_A_B_E 5cba_C_D_F 5cbe_A_B_E 5cbe_C_D_F
+cluster_1808	5hgg_S_NA_B 5hgg_T_NA_A
+cluster_1809	5ja8_B_NA_A 5ja8_D_NA_C 5ja8_F_NA_E 5ja8_H_NA_G
+cluster_1810	5m2m_D_NA_B 5m2m_E_NA_C 5m2m_F_NA_A 5m2m_H_NA_G 5m2m_J_NA_I 5m2m_N_NA_M
+cluster_1811	6cwg_B_NA_A 6cwg_D_NA_C
+cluster_1812	6kyz_B_C_A 6kyz_E_F_D
+cluster_1813	6oq5_D_NA_A 6oq6_D_NA_A
+cluster_1814	6do1_C_NA_A 6do1_D_NA_B 6os0_D_NA_A 6os1_D_NA_A 6os2_D_NA_A
+cluster_1815	6uc6_C_NA_A 6uc6_D_NA_B
+cluster_1816	6waq_A_NA_B 6waq_C_NA_D
+cluster_1817	7a50_A_NA_B 7a50_C_NA_D
+cluster_1818	7anq_B_NA_A
+cluster_1819	7aqy_C_NA_B 7aqy_D_NA_A
+cluster_1820	7bpk_C_D_A 7bpk_H_L_B
+cluster_1821	7l2d_H_L_A
+cluster_1822	7ly9_H_L_D
+cluster_1823	7oap_F_NA_E 7oaq_F_NA_E 8owt_C_NA_B 8owt_F_NA_E
+cluster_1824	7q3q_B_NA_A
+cluster_1825	7q3r_F_NA_A
+cluster_1826	7sk3_D_C_B 7sk4_D_C_B 7sk8_D_C_B
+cluster_1827	7uny_B_NA_D 7uny_C_NA_A
+cluster_1828	7wrl_A_B_R
+cluster_1829	7x2j_B_NA_S 7x2k_B_NA_E
+cluster_1830	7zk1_B_NA_A 7zkz_B_NA_A
+cluster_1831	8cya_D_NA_C 8cya_E_NA_A 8cya_F_NA_B 8cyj_A_NA_R
+cluster_1832	8cyc_D_NA_A 8cyc_E_NA_B 8cyc_F_NA_C
+cluster_1833	8cyj_D_NA_R
+cluster_1834	8dam_C_NA_A
+cluster_1835	8g79_N_NA_D
+cluster_1836	9g13_A_NA_B 9g13_C_NA_D 9g13_E_NA_F 9g13_G_NA_H
+cluster_1837	1g6v_K_NA_A
+cluster_1838	2x6m_A_NA_B
+cluster_1839	3stb_A_NA_D 3stb_B_NA_C
+cluster_1840	4n1h_B_NA_A 4n1h_D_NA_C
+cluster_1841	4yjz_l_L_E
+cluster_1842	5e0q_A_NA_B
+cluster_1843	5jds_B_NA_A
+cluster_1844	5n88_A_NA_D 5n88_H_NA_E
+cluster_1845	5ovw_G_NA_C 5ovw_H_NA_A 5ovw_I_NA_B 5ovw_J_NA_D 5ovw_K_NA_E 5ovw_L_NA_F
+cluster_1846	5sv3_A_NA_B 5sv3_C_NA_D
+cluster_1847	5tok_D_NA_B 5tok_E_NA_A 5tok_F_NA_C
+cluster_1848	5ujz_G_g_A 5ujz_H_h_C 5ujz_I_i_E 5uk0_G_g_A 5uk0_H_h_C 5uk0_I_i_E 5uk1_G_g_A 5uk1_H_h_C 5uk1_I_i_E 5uk2_G_g_A 5uk2_H_h_C 5uk2_I_i_E
+cluster_1849	5yoy_G_D_B 5yoy_H_E_C 5yoy_I_F_A 5yoy_P_M_K 5yoy_Q_N_L 5yoy_R_O_J
+cluster_1850	6b73_C_NA_B 6b73_D_NA_A
+cluster_1851	6gjs_B_NA_A 6gk4_B_NA_A 6gk4_E_NA_D 6gkd_B_NA_A 6gkd_G_NA_F 6gkd_J_NA_I 6gkd_M_NA_L 6gkd_P_NA_O 6gkd_S_NA_R
+cluster_1852	6h6z_D_NA_A 6h70_C_NA_B 6h70_D_NA_A
+cluster_1853	6i8g_B_NA_A
+cluster_1854	1zvy_A_NA_B 6jb2_A_NA_B 6jb5_A_NA_B 6jb8_A_NA_B
+cluster_1855	6nfc_H_L_A
+cluster_1856	6oyh_E_NA_A 6oyh_F_NA_B 6oyh_G_NA_C 6oyh_H_NA_D 6oyz_E_NA_A 6oyz_F_NA_B 6oyz_G_NA_C 6oyz_H_NA_D 6oz6_E_NA_A 6oz6_F_NA_B 6oz6_G_NA_C 6oz6_H_NA_D 9b70_G_NA_A 9b70_H_NA_B 9b71_G_NA_A 9b71_H_NA_B
+cluster_1857	6p65_C_D_B 6p65_F_G_E 6p65_H_L_A
+cluster_1858	6uht_C_NA_A 6uht_D_NA_B
+cluster_1859	6ukj_H_L_A
+cluster_1860	6um5_C_D_A 6um5_G_H_E 6um5_K_L_I 8saz_C_D_A 8saz_H_I_E 8saz_M_N_K
+cluster_1861	6um7_B_C_I 6um7_F_G_E 6um7_J_K_A
+cluster_1862	6v7y_F_NA_A
+cluster_1863	6xw6_C_NA_A 6xw6_D_NA_B
+cluster_1864	6xzf_B_NA_A
+cluster_1865	7d4b_B_NA_A
+cluster_1866	7e53_B_NA_A
+cluster_1867	7fau_B_NA_A 7fau_D_NA_C
+cluster_1868	7k8v_M_N_C
+cluster_1869	7k8w_N_S_G
+cluster_1870	7kjh_A_NA_C 7kjh_B_NA_D
+cluster_1871	7l2f_G_J_C 7l2f_H_L_A 7l2f_I_K_B
+cluster_1872	7lxx_H_L_A 7lxz_G_I_B 7lxz_H_J_A 7lxz_N_O_K
+cluster_1873	7m6h_E_G_A
+cluster_1874	7n9c_D_NA_C 7n9c_E_NA_A
+cluster_1875	7r73_A_NA_G
+cluster_1876	7rbu_H_L_B 7rbv_h_l_A
+cluster_1877	6i6j_C_NA_A 7rxc_N_NA_K
+cluster_1878	7s2s_A_NA_D 7s2s_C_NA_B
+cluster_1879	7sai_C_NA_A
+cluster_1880	7tb8_D_E_A 7tb8_F_G_B 7tb8_J_K_C 7tbf_D_E_A
+cluster_1881	7uap_H_L_A 7uap_M_N_B 7uap_O_P_C 7uaq_H_L_A
+cluster_1882	7wr8_A_B_R
+cluster_1883	7yr1_D_F_B 7yr1_E_G_C 7yr1_H_L_A
+cluster_1884	7zw1_C_NA_B
+cluster_1885	8cxn_D_NA_A 8cxn_E_NA_B 8cxn_F_NA_C
+cluster_1886	8dao_A_B_J 8dao_C_D_I
+cluster_1887	8dy6_C_D_A 8dy6_G_H_E 8dy6_K_L_I
+cluster_1888	8owv_F_NA_E 8oyt_E_NA_C 8oyt_F_NA_A 8oyt_G_NA_B 8oyu_D_NA_A 8oyu_E_NA_C
+cluster_1889	8sau_C_D_A 8sau_H_I_F 8sau_M_N_K
+cluster_1890	8sb4_C_D_A 8sb4_H_I_F 8sb4_M_N_K
+cluster_1891	8t4l_H_L_A 8t4l_O_Q_E 8t4l_P_R_F
+cluster_1892	2vyr_E_NA_A 2vyr_F_NA_B 2vyr_G_NA_C 2vyr_H_NA_D 2vyr_J_NA_A
+cluster_1893	4fhb_D_NA_A
+cluster_1894	4gft_B_NA_A
+cluster_1895	4grw_E_NA_D 4grw_G_NA_B
+cluster_1896	4grw_F_NA_C 4grw_J_NA_A
+cluster_1897	4w6x_B_NA_A
+cluster_1898	5m14_C_NA_A
+cluster_1899	5m15_C_NA_A
+cluster_1900	5mp2_C_NA_A 5mp2_D_NA_B
+cluster_1901	5o8f_K_NA_A 5o8f_L_NA_B 5o8f_M_NA_C 5ojm_K_NA_A 5ojm_L_NA_B 5ojm_M_NA_C 5ojm_N_NA_D 5ojm_O_NA_E 6a96_K_NA_D 6a96_O_NA_E 6qfa_K_NA_B 6qfa_L_NA_C 6qfa_M_NA_D 6qfa_N_NA_E 6qfa_O_NA_A 7a5v_O_NA_A 7qn5_F_NA_C 7qn5_G_NA_D 7qn6_K_NA_B 7qn6_L_NA_C 7qn6_M_NA_D 7qn7_F_NA_C 7qn7_G_NA_D 7qn8_K_NA_B 7qn8_L_NA_C 7qn8_M_NA_D 7qn9_L_NA_C 7qn9_M_NA_D 7qnc_F_NA_C 7qnc_G_NA_D 7qnd_K_NA_B 7qnd_L_NA_C 7qnd_M_NA_D
+cluster_1902	5toj_D_NA_A 5toj_E_NA_B 5toj_F_NA_C
+cluster_1903	5uk4_a_NA_A 5uk4_b_NA_B 5uk4_c_NA_C 5uk4_d_NA_D 5uk4_e_NA_E 5uk4_f_NA_F 5uk4_g_NA_G 5uk4_h_NA_H 5uk4_i_NA_I 5uk4_j_NA_J 5uk4_k_NA_K 5uk4_l_NA_L 5uk4_m_NA_M 5uk4_n_NA_N 5uk4_o_NA_O 5uk4_p_NA_P 5uk4_q_NA_Q 5uk4_r_NA_R 5uk4_s_NA_S 5uk4_t_NA_T
+cluster_1904	5vxk_B_NA_A
+cluster_1905	5vxm_B_NA_A
+cluster_1906	6c9w_B_NA_A
+cluster_1907	6gs1_H_NA_A 6gs4_H_NA_A 6gs7_H_NA_A
+cluster_1908	4kml_B_NA_A 4n9o_B_NA_A 6her_B_NA_A 6hhd_B_NA_A 6hhd_D_NA_C
+cluster_1909	6lr7_B_NA_A
+cluster_1910	6rpj_B_NA_A 6rpj_D_NA_C 6rpj_F_NA_E 6rpj_H_NA_G
+cluster_1911	6ul4_B_NA_A
+cluster_1912	6x08_K_NA_B
+cluster_1913	7a0v_B_NA_A 7a0v_D_NA_C 7a0v_F_NA_E 7a17_B_NA_A 7a17_D_NA_C 7a17_F_NA_E
+cluster_1914	7ar0_B_NA_A
+cluster_1915	7b27_C_NA_A 7b27_D_NA_a
+cluster_1916	7b5g_B_NA_A 7b5g_D_NA_C 7b5g_F_NA_E 7b5g_H_NA_G
+cluster_1917	7d0b_H_L_A 7d0d_G_F_B 7d0d_H_L_A
+cluster_1918	7eya_H_L_R
+cluster_1919	7k8s_H_L_A 7k8s_M_N_C 7k8s_O_P_B 7k8t_H_L_C 7k8t_M_N_B 7k8t_O_P_A
+cluster_1920	7kn5_E_NA_A 7kn5_F_NA_B 7kn7_B_NA_A
+cluster_1921	7l6v_F_NA_A 7m1h_B_NA_A
+cluster_1922	7lqv_H_L_A 7lqv_W_X_B 7lqv_Y_Z_C 8dlr_H_L_A
+cluster_1923	7klw_C_NA_A 7mfu_C_NA_A 7mfu_F_NA_D 7p77_W_NA_B 7p77_X_NA_E 7p77_Y_NA_C 7p78_W_NA_C 7p78_Y_NA_E 7p7a_A_NA_B 7p7a_D_NA_E
+cluster_1924	7mjh_D_NA_A 7mjh_E_NA_B 7mjh_F_NA_C 7mji_E_NA_B
+cluster_1925	7nkt_B_NA_A
+cluster_1926	7oay_B_NA_A 7oay_D_NA_C 7oay_F_NA_E 7oay_H_NA_G 7oay_J_NA_I 7oay_L_NA_K 7z1a_B_NA_A 7z1a_D_NA_C 7z1b_B_NA_A 7z1b_D_NA_C 7z1c_B_NA_A 7z1c_D_NA_C 7zf4_F_NA_E 8owv_B_NA_E
+cluster_1927	7p14_B_NA_A 7p16_B_NA_A
+cluster_1928	7q9k_D_E_B 7q9k_H_L_C
+cluster_1929	7qbf_B_NA_A
+cluster_1930	7r1z_E_NA_A 7r23_B_NA_A 7r24_E_NA_A
+cluster_1931	7r4i_D_NA_A 7r4i_E_NA_B
+cluster_1932	7kgj_B_NA_A 7klw_B_NA_A 7n0g_X_NA_A 7n0g_Y_NA_B 7n0g_Z_NA_C 7n0h_X_NA_A 7n0h_Z_NA_C 7rxd_N_NA_R
+cluster_1933	7soe_B_L_A 7soe_E_D_C 7soe_H_G_F 7sof_H_L_A 8vye_H_L_K 8vye_M_N_E 8vye_T_U_O 8vyf_H_L_A
+cluster_1934	7tpr_F_NA_A 7tpr_G_NA_C 7tpr_H_NA_B
+cluster_1935	7ugn_G_J_A 7ugn_H_K_B 7ugn_I_L_C 7ugo_G_J_A 7ugo_H_K_B 7ugo_I_L_C
+cluster_1936	7uot_O_P_a 7uot_Q_R_b 7uot_S_T_c 7uov_O_P_a 7uov_Q_R_b 7uov_S_T_c
+cluster_1937	7ust_B_NA_A
+cluster_1938	7vke_B_NA_A
+cluster_1939	7wrj_A_B_R
+cluster_1940	7ws0_E_D_A 7ws0_G_F_B 7ws0_I_H_C 7ws1_E_D_A 7ws1_G_F_B 7ws1_I_H_C 7ws2_E_D_A 7ws3_E_D_A 7ws3_G_F_B 7ws3_I_H_C 7ws5_E_D_A 7ws5_G_F_B 7ws5_I_H_C 7ws6_I_H_C 7ws7_G_F_B
+cluster_1941	7x8y_H_L_A
+cluster_1942	7x92_H_L_A
+cluster_1943	7z3a_H_L_D 7z3a_J_N_A 7z3a_K_P_C
+cluster_1944	7zr7_D_E_A 7zr7_F_G_C 7zr7_H_L_B
+cluster_1945	8b7w_H_NA_C
+cluster_1946	8cyj_B_NA_R
+cluster_1947	8t4b_H_L_A 8t4b_O_Q_E 8t4b_P_R_F
+cluster_1948	8the_H_L_A
+cluster_1949	8u4t_G_F_I 8u4t_H_L_R 8u4t_P_O_Q 8u4t_Z_Y_A
+cluster_1950	1bzq_K_NA_D 1bzq_L_NA_A 1bzq_M_NA_C 1bzq_N_NA_B 2p42_B_NA_A 2p42_D_NA_C 2p43_B_NA_A 2p44_B_NA_A 2p45_B_NA_A 2p46_B_NA_A 2p46_D_NA_C 2p47_B_NA_A 2p48_B_NA_A 2p49_B_NA_A
+cluster_1951	1ri8_A_NA_B
+cluster_1952	1zvh_A_NA_L
+cluster_1953	3k80_A_NA_C 3k80_B_NA_D
+cluster_1954	4krl_B_NA_A 4krm_B_NA_A 4krm_D_NA_C 4krm_F_NA_E 4krm_H_NA_G 4krm_J_NA_I 4krm_L_NA_K
+cluster_1955	4pir_F_NA_E 4pir_G_NA_A 4pir_H_NA_B 4pir_I_NA_C 4pir_J_NA_D
+cluster_1956	4v1d_D_E_C
+cluster_1957	4w6w_B_NA_A
+cluster_1958	4y5x_A_B_C 4y5x_D_E_F 4y5x_G_H_I 4y5x_J_K_L
+cluster_1959	5c2u_B_NA_A
+cluster_1960	5e1h_B_NA_A
+cluster_1961	5imk_B_NA_A 5iml_B_NA_A 5imm_B_NA_A 5imo_B_NA_A
+cluster_1962	5j57_B_NA_A
+cluster_1963	5ktz_7_NA_3 5ku0_7_NA_3 5kwl_7_NA_3
+cluster_1964	5ku2_7_NA_3
+cluster_1965	5mje_B_NA_A
+cluster_1966	5o02_C_NA_A
+cluster_1967	6gci_B_NA_A
+cluster_1968	6gkd_C_NA_A 6gkd_H_NA_F 6gkd_K_NA_I 6gkd_N_NA_L 6gkd_Q_NA_O 6gkd_T_NA_R
+cluster_1969	6hjx_F_NA_A 6hjx_G_NA_B 6hjx_H_NA_C 6hjx_I_NA_D 6hjx_J_NA_E 6hjy_F_NA_A 6hjy_G_NA_B 6hjy_H_NA_C 6hjy_I_NA_D 6hjy_J_NA_E
+cluster_1970	6ir2_B_NA_A 7saj_B_NA_A 7saj_D_NA_C 7saj_F_NA_E 7saj_H_NA_G 7saj_J_NA_I
+cluster_1971	6nb3_D_E_A 6nb3_H_L_C 6nb4_H_L_A
+cluster_1972	6nb6_I_M_B 6nb7_D_E_B 6nb7_G_I_C 6nb7_H_L_A
+cluster_1973	6oro_D_E_B 6oro_H_L_G 6oro_J_K_I
+cluster_1974	6orp_D_E_B 6orp_H_L_G 6orp_J_K_I
+cluster_1975	6rtw_B_NA_A 6rty_B_NA_A
+cluster_1976	6rvc_D_NA_A 6rvc_E_NA_B 6rvc_F_NA_C
+cluster_1977	6vy2_H_L_A 6vy2_I_M_C 6vy2_J_N_E
+cluster_1978	6war_B_NA_A 6war_D_NA_C 6war_F_NA_E 6war_H_NA_G 6war_J_NA_I 6war_L_NA_K 6war_N_NA_M 6war_P_NA_O
+cluster_1979	6ysq_C_NA_A 6ysq_D_NA_B
+cluster_1980	7aqz_C_NA_B
+cluster_1981	7e6u_B_NA_A 7e6u_D_NA_C
+cluster_1982	7e8c_H_L_A 7e8c_S_U_C 7e8c_T_V_B 7e8f_H_L_A 7v23_O_P_A 7v23_Q_R_B 7v23_S_T_C 7v24_H_L_A
+cluster_1983	7lqw_H_L_C
+cluster_1984	7mdw_B_NA_R 7me7_B_NA_R
+cluster_1985	7o06_A_NA_C 7o06_B_NA_D
+cluster_1986	7oap_A_NA_E 7oaq_A_NA_E 7zfb_M_NA_E 7zfb_N_NA_F 7zfc_M_NA_E 7zfe_W_NA_A 7zfe_X_NA_B 7zfe_Y_NA_C 7zfe_Z_NA_E 7zxu_A_NA_E 8bh5_C_NA_E
+cluster_1987	7p60_G_NA_B 7p60_H_NA_D 7p60_I_NA_F
+cluster_1988	7pnq_D_F_B 7pnq_H_L_A 7pnq_X_Y_C 7po5_H_L_A 7po5_X_F_C 7po5_Z_D_B
+cluster_1989	7pqg_B_NA_A
+cluster_1990	7rai_H_L_A 7rai_I_M_C 7rai_J_N_E
+cluster_1991	7rq6_D_E_B 7rq6_H_L_A 7rq6_J_K_C
+cluster_1992	7ru5_D_E_B 7ru5_H_L_A 7ru8_H_L_C
+cluster_1993	7sp6_B_NA_A 7sp7_B_NA_A 7sp8_B_NA_A 7sp9_B_NA_A 7spa_B_NA_A
+cluster_1994	6nf5_G_I_D 6nf5_K_N_B 6nf5_Q_R_M 6nfc_J_M_G 7t74_I_J_B 7t74_K_G_D 7t9a_J_K_F 7t9a_M_N_B 7t9b_J_K_F 7t9b_M_N_B 7t9b_O_P_D 8f92_C_D_I 8f92_J_M_B 8f92_K_N_G 8sw4_E_F_I 8sw4_J_M_B 8sw4_K_N_G 8t49_C_D_G 8t49_J_M_I 8t49_K_N_B 8t4b_C_D_I 8t4b_J_M_B 8t4b_K_N_G 8t4d_C_D_G 8t4d_J_M_I 8t4d_K_N_B 8t4l_C_D_I 8t4l_J_M_B 8t4l_K_N_G 8vfv_C_D_F
+cluster_1995	7tjq_A_B_C 7tjq_D_E_G 7tjq_H_L_F
+cluster_1996	7usv_C_NA_A 7usv_D_NA_B
+cluster_1997	7whz_B_D_A 7wi0_B_D_A
+cluster_1998	7wog_A_B_C
+cluster_1999	7x2m_B_NA_E
+cluster_2000	7x8w_H_L_A
+cluster_2001	7zlk_M_N_F
+cluster_2002	7zmn_C_NA_A 7zmn_K_NA_B 7zmo_C_NA_B 7zmo_K_NA_A 7zmp_C_NA_A 7zmp_K_NA_B 7zmq_C_NA_B 7zmq_K_NA_A 7zmr_C_NA_B 7zmr_K_NA_A 7zms_K_NA_A 7zmt_C_NA_A 7zmt_K_NA_B 7zmv_E_NA_D 7zmv_F_NA_B 7zmv_G_NA_A 7zmv_K_NA_C
+cluster_2003	8cwv_B_NA_A
+cluster_2004	8cyb_D_NA_A
+cluster_2005	8kfa_D_F_B 8kfa_E_G_C 8kfa_H_L_A
+cluster_2006	1kxt_B_NA_A 1kxt_D_NA_C 1kxt_F_NA_E
+cluster_2007	1rjc_A_NA_B
+cluster_2008	3jbf_7_NA_3
+cluster_2009	3p9w_B_NA_A 3p9w_D_NA_C 3p9w_F_NA_E 3p9w_H_NA_G
+cluster_2010	3qsk_B_NA_A
+cluster_2011	4grw_H_NA_B 4grw_I_NA_D 5mzv_D_NA_A
+cluster_2012	4nbx_B_NA_A 4nby_B_NA_A 4nby_C_NA_A 4nc1_C_NA_A 4nc1_D_NA_B
+cluster_2013	4uu9_A_B_C 4uu9_H_L_D
+cluster_2014	5bop_A_NA_B 5bop_C_NA_D
+cluster_2015	5boz_G_NA_A 5boz_H_NA_B 5boz_I_NA_C 5boz_J_NA_D 5boz_K_NA_E 5boz_L_NA_F
+cluster_2016	5f1k_C_NA_A 5f1k_D_NA_B
+cluster_2017	5f7l_B_NA_A 5f7l_D_NA_C
+cluster_2018	5ivn_A_NA_B
+cluster_2019	5ja9_A_NA_C 5ja9_B_NA_D
+cluster_2020	5m30_D_NA_B 5m30_E_NA_A 5m30_F_NA_C 5mwn_D_NA_B 5mwn_E_NA_A 5mwn_F_NA_C
+cluster_2021	5nqw_C_NA_B 5nqw_D_NA_A
+cluster_2022	6h02_B_NA_A
+cluster_2023	6h15_C_NA_A 6h15_D_NA_B
+cluster_2024	6hhu_H_NA_A 6qx4_D_NA_A 6qx4_H_NA_B
+cluster_2025	6ir1_B_NA_A 7sak_B_NA_A
+cluster_2026	6n4y_E_NA_B 6n4y_F_NA_A 6n4y_G_NA_D 6n4y_H_NA_C 6n50_E_NA_A 6n51_C_NA_A 6n51_D_NA_B 7dge_C_NA_A 7dge_D_NA_B
+cluster_2027	6qgx_B_NA_A
+cluster_2028	6r7t_A_NA_B
+cluster_2029	6vug_D_C_B
+cluster_2030	6z1v_B_NA_A
+cluster_2031	6zrv_B_NA_A
+cluster_2032	7df1_F_J_C 7df1_G_K_D 7df1_H_L_D
+cluster_2033	7dq7_H_L_B 7x3c_F_E_B
+cluster_2034	7dx4_H_L_E
+cluster_2035	7k7y_C_NA_B 7k7y_D_NA_A 7k7y_F_NA_E 7k7y_H_NA_G
+cluster_2036	3w11_C_D_E 3w12_C_D_E 3w13_C_D_E 4oga_C_D_E 5j3h_C_D_E 6vep_C_D_E 6vep_I_J_K 6vep_O_P_Q 6vep_U_V_W 6veq_C_D_E 6veq_I_J_K 7kd6_C_D_E 7kd6_I_J_K 7kd6_O_P_Q 7kd6_U_V_W
+cluster_2037	7l58_H_L_B
+cluster_2038	7lk4_B_A_R 7lk4_D_C_S 7lk4_F_E_P 7lk4_H_G_Q
+cluster_2039	7lrt_F_G_B 7lrt_H_L_A
+cluster_2040	7lvw_G_NA_A 7lvw_H_NA_E 7lvw_I_NA_D 7lvw_J_NA_B 7lvw_K_NA_F 7lvw_L_NA_C
+cluster_2041	7lx5_A_NA_B
+cluster_2042	7m6e_D_C_E 7m6e_F_G_B 7m6e_H_L_A
+cluster_2043	7mej_B_NA_R
+cluster_2044	7n0r_C_NA_A 7n0r_D_NA_B
+cluster_2045	7nqa_C_NA_B 7nqa_D_NA_A
+cluster_2046	7nqk_B_NA_A 9bir_B_NA_A
+cluster_2047	7nx0_D_NA_C 7nx0_E_NA_B
+cluster_2048	7p40_C_D_E 7p40_F_B_A 7p40_I_H_G 7phg_H_L_A
+cluster_2049	7qbe_E_NA_A 7qbe_F_NA_C
+cluster_2050	7t17_F_G_A 7t17_J_K_C
+cluster_2051	7tfn_H_L_A 7tfn_I_J_B 7tfn_P_Q_C
+cluster_2052	7tz5_H_N_C 7tz5_I_L_A 7tz5_J_M_B
+cluster_2053	7uby_C_NA_A 7uby_D_NA_B
+cluster_2054	7vfa_D_NA_E
+cluster_2055	7wea_G_I_B 7web_G_I_D 7web_H_L_B 7wec_G_J_B 7wec_H_L_A 7wec_I_K_C 7wed_H_L_E
+cluster_2056	7whz_H_L_A 7wi0_H_L_A
+cluster_2057	7wwl_H_L_C 7wwl_I_M_B 7wwl_J_N_A
+cluster_2058	7xmz_D_E_A 7xmz_G_I_B 7xmz_H_L_C 7xst_F_G_A 7xst_J_K_B 7xst_N_O_C
+cluster_2059	7y0w_A_B_R
+cluster_2060	7z3a_G_I_F 7z3a_M_O_B
+cluster_2061	7zra_E_NA_C 7zra_F_NA_D 7zra_G_NA_A 7zra_H_NA_B
+cluster_2062	8dad_H_L_B
+cluster_2063	8dt3_H_L_C
+cluster_2064	8dxs_F_NA_C 8dxs_G_NA_B 8dxs_H_L_A
+cluster_2065	8ew6_V_NA_W
+cluster_2066	8gz5_B_NA_A
+cluster_2067	8owt_A_NA_B 8owt_D_NA_E
+cluster_2068	8sw4_H_L_B
+cluster_2069	1a14_H_L_N 1nma_H_L_N 1nmb_H_L_N 1nmc_B_C_A 1nmc_H_L_N
+cluster_2070	1oaz_H_L_A 1oaz_J_N_B
+cluster_2071	1mvu_B_A_P 2ap2_B_A_P 2ap2_D_C_Q
+cluster_2072	2bse_D_NA_B 2bse_E_NA_A 2bse_F_NA_C 2wzp_D_NA_B 2wzp_E_NA_A 2wzp_F_NA_C 2wzp_J_NA_H 2wzp_K_NA_G 2wzp_L_NA_I
+cluster_2073	1op9_A_NA_B 3eba_A_NA_B
+cluster_2074	4cdg_C_NA_A 4cdg_D_NA_B
+cluster_2075	4hem_F_NA_C 4hem_G_NA_A
+cluster_2076	4lgr_B_NA_A
+cluster_2077	4nc2_B_NA_A
+cluster_2078	4yga_B_NA_A 4yga_D_NA_C 4yga_F_NA_E 4yga_H_NA_G
+cluster_2079	5lwf_C_NA_A 5lwf_D_NA_B
+cluster_2080	5tjw_K_NA_A
+cluster_2081	5vak_B_NA_A 5van_B_NA_A 5vaq_B_NA_A
+cluster_2082	6h3u_H_L_B 6h3u_I_M_A
+cluster_2083	6kz0_B_C_A 6kz0_E_F_D 6kz0_H_I_G 6kz0_K_L_J
+cluster_2084	6mlm_E_I_A 6mlm_F_G_B 6mlm_K_L_H
+cluster_2085	6mxt_N_NA_A
+cluster_2086	6o3c_B_NA_A
+cluster_2087	6orq_D_E_B 6orq_H_L_G 6orq_J_K_I
+cluster_2088	6pzw_F_E_C 6pzw_H_L_A 6pzw_J_G_B 6pzw_K_I_D
+cluster_2089	6qgw_B_NA_A
+cluster_2090	6qgy_B_NA_A 6qgy_D_NA_C
+cluster_2091	6s8d_H_L_A 6s8d_P_O_C 6s8d_Y_U_E
+cluster_2092	6s8j_H_L_A 6s8j_P_O_C 6s8j_Y_U_E
+cluster_2093	6xey_F_G_B 6xey_H_L_A 6xey_J_K_C
+cluster_2094	6xw4_C_NA_A 6xw4_D_NA_B
+cluster_2095	6yu8_B_NA_A
+cluster_2096	6ze1_B_NA_A
+cluster_2097	7e3b_B_C_A
+cluster_2098	7k43_C_D_B 7k43_F_G_E 7k43_H_L_A 7lxy_E_D_A 7lxy_F_C_B 7lxy_M_K_J 7lxz_E_D_A 7lxz_F_C_B 7lxz_M_L_K 7ly2_E_D_A 7ly2_F_C_B 7ly2_M_K_J 7n8h_E_D_A 7n8h_H_G_F 7n8h_M_L_K 7so9_E_D_A 7so9_H_G_F 7so9_M_L_K 8dlw_C_D_B 8dlw_F_G_E 8dlw_H_L_A
+cluster_2099	7k45_H_L_B 7k4n_C_D_B 7k4n_F_G_E 7k4n_H_L_A 7r6x_C_D_R
+cluster_2100	7k84_B_NA_A
+cluster_2101	7kbb_H_L_D
+cluster_2102	7kew_G_J_A 7kew_H_K_B 7kew_I_L_C
+cluster_2103	7l2e_G_J_B 7l2e_H_L_A 7l2e_I_K_C
+cluster_2104	7l6v_C_NA_A
+cluster_2105	7m8l_M_P_D 7m8l_N_Q_E 7m8l_O_R_F
+cluster_2106	7oan_F_NA_A 7oan_G_NA_B 7oan_H_NA_C 7oao_F_NA_E 7oau_B_NA_A 7oau_F_NA_E
+cluster_2107	7olz_B_NA_A
+cluster_2108	7ozt_A_NA_B
+cluster_2109	7pa5_B_NA_A
+cluster_2110	7php_N_NA_A
+cluster_2111	7q9j_E_F_B 7q9j_H_L_A 7q9j_J_K_C
+cluster_2112	7lpn_D_NA_C 7lpn_H_NA_G 7lpn_I_NA_F 7ri1_B_NA_A
+cluster_2113	7sht_H_L_B 7sht_J_K_D 7shu_C_D_A 7shu_E_F_B
+cluster_2114	7sl9_B_NA_A
+cluster_2115	7t3m_D_L_A 7t3m_H_J_G 7t3m_I_K_C
+cluster_2116	7tfo_H_L_A 7tfo_I_J_B 7tfo_P_Q_C
+cluster_2117	7the_B_C_A 7tht_H_L_C 7tht_a_c_S 7tht_d_b_V
+cluster_2118	7u9g_G_D_B 7u9g_H_E_C 7u9g_I_F_A
+cluster_2119	7uz9_H_L_A 7uz9_M_N_B 7uz9_P_Q_C
+cluster_2120	7whz_C_E_A 7wi0_C_E_A
+cluster_2121	7x7o_E_F_C 7x7o_G_I_A 7x7o_H_L_B 7x7o_J_K_D
+cluster_2122	7xh8_B_C_A
+cluster_2123	7zkz_C_NA_A
+cluster_2124	8a95_R_O_A 8a95_S_P_B 8a95_T_Q_C
+cluster_2125	8csj_D_E_B 8csj_F_G_C 8csj_H_L_A
+cluster_2126	8cwu_B_NA_A
+cluster_2127	8cxq_D_NA_A 8cxq_E_NA_B 8cxq_F_NA_C
+cluster_2128	8emy_G_NA_A 8emy_H_NA_C 8emy_I_NA_F 8emy_J_NA_B 8emy_K_NA_D 8emy_L_NA_E
+cluster_2129	8t60_B_NA_A
+cluster_2130	1kxv_C_NA_A 1kxv_D_NA_B
+cluster_2131	1qfw_I_M_B
+cluster_2132	2p4a_B_NA_A 2p4a_D_NA_C
+cluster_2133	2uud_H_L_S 2uud_J_K_T
+cluster_2134	3p0g_B_NA_A 6h7j_C_NA_A 6h7j_D_NA_B 6ibl_C_NA_A 6ibl_D_NA_B
+cluster_2135	3zkq_D_NA_A 3zks_D_NA_A 3zkx_B_NA_A 3zlq_C_NA_A 3zlq_D_NA_B 4bel_D_NA_A 4bel_E_NA_B 4bfb_D_NA_A 4bfb_E_NA_B 6jsz_D_NA_A 7d5b_D_NA_A 7d5u_D_NA_A 7f1g_D_NA_A 7n4n_D_NA_A
+cluster_2136	4c58_B_NA_A 4c59_B_NA_A 4y8d_C_NA_A 4y8d_D_NA_B
+cluster_2137	4mqs_B_NA_A 4mqt_B_NA_A
+cluster_2138	4wem_B_NA_A
+cluster_2139	4wen_B_NA_A
+cluster_2140	4weu_D_NA_B 4weu_E_NA_A
+cluster_2141	4x7c_C_NA_A 4x7c_D_NA_B 4x7d_D_NA_A 4x7e_C_NA_A 4x7e_D_NA_B 5o04_C_NA_A 5o04_D_NA_B
+cluster_2142	4y5v_A_B_C 4y5v_D_E_F 4y5v_G_H_I
+cluster_2143	4yqx_H_L_A 4yqx_N_O_M
+cluster_2144	4z0x_B_A_C
+cluster_2145	5hvg_B_NA_A 5hvg_D_NA_C 5hvh_B_NA_A
+cluster_2146	5kel_C_D_A 5kel_J_N_E 5kel_M_O_F 5kem_D_E_A 5kem_I_J_F 5ken_J_I_E 5ken_Q_P_K
+cluster_2147	5kem_B_C_A 5kem_G_H_F
+cluster_2148	5m2i_G_NA_B 5m2i_H_NA_A 5m2i_I_NA_C 5m2i_J_NA_E 5m2i_K_NA_D 5m2i_L_NA_F
+cluster_2149	5ukb_a_NA_A 5ukb_b_NA_B 5ukb_c_NA_C 5ukb_d_NA_D 5ukb_e_NA_E
+cluster_2150	6dbf_B_NA_A 6dbg_C_NA_B 6u12_B_NA_A
+cluster_2151	6gjq_B_NA_A 6gjq_D_NA_C 6gjq_F_NA_E 6gjq_H_NA_G
+cluster_2152	6gwn_C_NA_A 6gwp_C_NA_A 7aqg_C_NA_A
+cluster_2153	6h71_C_NA_A 6h71_D_NA_B 6h72_C_NA_A 6h72_D_NA_B
+cluster_2154	6i2g_A_NA_B
+cluster_2155	6nn3_H_L_A
+cluster_2156	6obo_C_NA_A 6obo_D_NA_B
+cluster_2157	6ocd_B_NA_A 6ocd_D_NA_C
+cluster_2158	6raf_C_NA_B 6rag_C_NA_B 6rah_C_NA_B 6rai_C_NA_B 6raj_C_NA_B 6rak_C_NA_B 6ral_C_NA_B 6ram_C_NA_B 6ran_C_NA_B
+cluster_2159	6tej_C_NA_B
+cluster_2160	6tyl_D_NA_A 6tyl_I_NA_F 6ukt_D_NA_A
+cluster_2161	6vbg_C_NA_A 6vbg_D_NA_B
+cluster_2162	6x06_K_NA_A
+cluster_2163	6y9b_H_L_C 6y9b_I_M_A 6y9b_J_N_B
+cluster_2164	7aej_D_NA_A
+cluster_2165	7cec_H_I_B
+cluster_2166	7k9j_H_L_A 7k9j_I_M_B 7k9j_J_N_C 7k9k_H_L_A
+cluster_2167	7kex_G_J_A 7kex_H_K_B 7kex_I_L_C
+cluster_2168	7lbe_F_E_A 7lbf_F_E_A 7lbg_F_E_A 7t4q_J_K_A 7t4r_G_H_B 7t4r_P_Q_K 7t4s_J_K_A
+cluster_2169	7lkf_H_L_A 7lkh_H_L_A
+cluster_2170	7luc_D_E_C 7luc_F_G_A 7luc_H_I_B
+cluster_2171	7lxw_H_L_A 7lxy_G_I_B 7lxy_H_L_A 7lxy_N_O_J
+cluster_2172	7m1h_E_NA_A
+cluster_2173	7m1h_F_NA_A
+cluster_2174	7n4m_H_L_A
+cluster_2175	7n8h_C_B_A 7n8h_J_I_F 7n8h_O_N_K 7n8i_H_L_A 7so9_C_B_A 7so9_J_I_F 7so9_O_N_K 7soa_H_L_A 7sob_C_B_A 7sob_F_E_D 7sob_M_L_K 7sod_H_L_A 7tlz_B_A_J 7tm0_E_D_C 7tm0_G_F_B 7tm0_I_H_A 8vye_B_C_K 8vye_F_G_E 8vye_P_Q_O 8vyf_B_C_A
+cluster_2176	7phq_E_NA_D 7phq_N_NA_B 7pij_N_NA_B
+cluster_2177	7pnm_G_D_B 7pnm_H_L_A 7pnm_I_E_C
+cluster_2178	7q3r_G_NA_A
+cluster_2179	7qia_B_NA_A 7qic_B_NA_A 7qji_B_NA_A 7qji_G_NA_E 7qjj_B_NA_A 7qjj_G_NA_E
+cluster_2180	7qvk_B_NA_A
+cluster_2181	7r8m_D_E_C 7r8m_H_L_B
+cluster_2182	7rr0_B_C_A
+cluster_2183	7sq1_A_I_G 7sq1_H_L_E
+cluster_2184	7ubx_C_NA_B 7ubx_D_NA_A
+cluster_2185	7unz_A_NA_D 7unz_C_NA_B
+cluster_2186	7ur4_F_G_B 7ur4_H_L_C 7ur4_I_J_A
+cluster_2187	7wch_D_E_A 7wch_H_L_B 7wch_M_N_G 7wck_A_B_R
+cluster_2188	7wop_B_b_A 7woq_D_d_B 7wor_D_d_B 7wor_F_f_C 7wos_D_d_B 7wos_F_f_C 7wou_D_d_B 7wou_F_f_C 7wov_D_d_A 7wov_F_f_B 7wov_H_h_C 7wow_D_d_A 7wow_F_f_B 7wow_H_h_C 7wow_M_m_J 7wow_O_o_K 7wow_Q_q_L
+cluster_2189	7x7t_H_L_G 7x7u_H_L_G 7x7v_H_L_E
+cluster_2190	7ykj_A_D_C
+cluster_2191	7zk1_C_NA_A 7zkw_C_NA_A 7zkw_D_NA_B
+cluster_2192	8cw9_C_D_A 8cw9_H_L_F 8cw9_I_K_E
+cluster_2193	8cy7_D_NA_A 8cy7_E_NA_B 8cy7_F_NA_C
+cluster_2194	8cy9_D_NA_A 8cy9_E_NA_B 8cy9_F_NA_C
+cluster_2195	8cyd_D_NA_B 8cyd_E_NA_C 8cyd_F_NA_A
+cluster_2196	8de6_B_I_G
+cluster_2197	8en6_C_NA_A 8en6_D_NA_B
+cluster_2198	8yro_B_C_P 8yro_E_F_A 8yro_H_L_D
+cluster_2199	1kxq_E_NA_D 1kxq_F_NA_C 1kxq_G_NA_B 1kxq_H_NA_A
+cluster_2200	3ezj_B_NA_A 3ezj_D_NA_C 3ezj_F_NA_E 3ezj_H_NA_G
+cluster_2201	3jbd_7_NA_3
+cluster_2202	3k81_A_NA_D 3k81_B_NA_C
+cluster_2203	4lde_B_NA_A 4ldl_B_NA_A 4ldo_B_NA_A 4qkx_B_NA_A 6h7l_C_NA_A 6h7l_D_NA_B 6h7m_C_NA_A 6h7m_D_NA_B 6h7n_C_NA_A 6h7n_D_NA_B 6h7o_C_NA_A 6h7o_D_NA_B 6n48_B_NA_A 7bts_B_NA_A 7bu6_B_NA_A 7bu7_B_NA_A
+cluster_2204	4lhj_B_NA_A
+cluster_2205	4pou_B_NA_A
+cluster_2206	4uif_G_H_A 4uif_I_J_E 4uif_K_L_C 4uih_D_E_A 4uih_F_G_C 5a1z_G_H_A 5a1z_I_J_E 5a1z_K_L_C
+cluster_2207	5kel_H_L_B 5kel_P_T_G 5kel_Q_U_I
+cluster_2208	5m94_B_NA_A 5m94_D_NA_C 5m95_B_NA_A 5m95_D_NA_C
+cluster_2209	5usf_C_NA_B 5usf_D_NA_A
+cluster_2210	5vnw_C_NA_B 5vnw_D_NA_A
+cluster_2211	5xj4_H_L_A
+cluster_2212	6gju_C_NA_A
+cluster_2213	6ivz_H_L_A 6iw0_H_L_A 6iw2_B_C_A 6iw2_E_F_D 6iw2_H_I_G 6iw2_K_L_J 6iw2_N_O_M 6iw2_Q_R_P
+cluster_2214	6j11_D_E_C 6j11_F_G_B 6j11_H_L_A
+cluster_2215	6j5d_H_L_A 6j5f_H_L_A 6j5g_H_L_A
+cluster_2216	6niu_F_G_B 6niu_H_L_Z 6niu_I_J_A 6niu_M_N_E
+cluster_2217	6pzz_F_E_B 6pzz_H_L_A 6pzz_I_G_C 6pzz_K_J_D
+cluster_2218	6s0y_A_NA_C 6s0y_B_NA_D
+cluster_2219	6sc5_B_NA_A 6sc5_C_NA_A 6sc6_B_NA_A 6sc6_C_NA_A 6sc7_B_NA_A 6sc7_C_NA_A 6sc8_B_NA_A 6sc8_C_NA_A 6sc9_B_NA_A 6sc9_C_NA_A
+cluster_2220	6tys_C_D_B 6tys_F_G_E 6tys_H_L_A
+cluster_2221	6vo0_G_J_C 6vo0_H_L_A 6vo0_I_K_D
+cluster_2222	6x05_K_NA_A
+cluster_2223	6xw5_C_NA_A 6xw5_D_NA_B
+cluster_2224	6xzu_A_NA_B
+cluster_2225	6z20_B_NA_A 6z20_D_NA_C
+cluster_2226	6zbv_B_NA_A 6zpl_E_NA_B 6zpl_F_NA_A
+cluster_2227	7a48_A_NA_B
+cluster_2228	7a4d_A_NA_E 7a4d_B_NA_F 7a4d_G_NA_K 7a4d_H_NA_L
+cluster_2229	7akd_D_E_C 7akd_H_L_B 7akj_E_D_B 7akj_G_F_C 7akj_H_L_A
+cluster_2230	7cn2_G_g_E 7cn2_H_L_D 7cn2_I_i_F 7cn2_J_j_B 7cn2_K_k_C 7cn2_M_m_A
+cluster_2231	7cwl_G_J_B 7cwl_H_L_A 7cwl_I_K_C 7cwm_G_J_B 7cwm_H_L_A 7cwm_I_K_C 7cwn_G_F_A 7cwn_K_I_B 7cwn_L_J_C 7cwo_H_L_A 7cwu_H_L_B 7cwu_M_R_C 7cwu_O_S_A 7e5r_I_K_C 7e5r_M_U_A 7e5r_T_V_B 7e5s_I_K_B 7e5s_J_T_C
+cluster_2232	7cws_L_C_Q 7cws_N_K_O 7cws_P_M_R 7cwt_L_H_A 7cwt_N_K_B 7cwt_P_M_C 7cwu_J_F_A 7cwu_N_G_B 7cwu_P_I_C 7d4g_N_G_B 7e5r_P_Q_A 7e5r_W_R_B 7e5r_X_S_C 7e5s_P_N_A 7e5s_U_Q_B 7e5s_V_S_C
+cluster_2233	7dwt_H_L_A 7dwu_H_L_A
+cluster_2234	7eh5_D_O_A 7eh5_E_P_B 7eh5_F_Q_C
+cluster_2235	7eh5_H_L_A 7eh5_I_M_B 7eh5_J_N_C 7ej5_H_L_A 7ej5_I_M_B 7ej5_J_N_C 7f63_H_L_A
+cluster_2236	7ey5_B_C_A
+cluster_2237	7ezv_M_N_A
+cluster_2238	7f5h_C_NA_A 7f5h_D_NA_B
+cluster_2239	3v0a_C_NA_A 7l6v_E_NA_A 7m1h_C_NA_A
+cluster_2240	7m8j_H_L_A
+cluster_2241	7mem_G_J_C 7mem_H_L_E 7mem_I_K_F 7t3d_C_D_A 7t3d_J_M_E 7t3d_K_N_F
+cluster_2242	7my2_A_NA_B 7my2_D_NA_C 7my2_H_NA_E
+cluster_2243	7my3_D_NA_B 7my3_E_NA_A 7my3_H_NA_C
+cluster_2244	7nfr_B_NA_A
+cluster_2245	7nft_C_NA_A 7nft_D_NA_B
+cluster_2246	7p2d_C_NA_A
+cluster_2247	7p5w_G_NA_A 7p5w_H_NA_B 7p5w_I_NA_C 7p5w_J_NA_D 7p5w_K_NA_E 7p5w_L_NA_F
+cluster_2248	7p5y_G_NA_A 7p5y_H_NA_B 7p5y_I_NA_C 7p5y_J_NA_D 7p5y_K_NA_E 7p5y_L_NA_F
+cluster_2249	7r40_D_F_B 7r40_E_G_C 7r40_H_L_A
+cluster_2250	7r4q_D_NA_A 7r4q_E_NA_B
+cluster_2251	7r8o_H_L_B 7r8o_M_N_E 7r8o_O_P_A
+cluster_2252	7sj0_B_L_A
+cluster_2253	7t01_H_L_A
+cluster_2254	7tas_H_L_E 7tat_D_E_B 7tat_F_G_C 7tat_H_L_A
+cluster_2255	7tl0_D_E_A 7tl0_F_G_B 7tl0_H_I_C
+cluster_2256	7uhz_H_L_A 7uhz_I_M_B 7uhz_J_N_C
+cluster_2257	7ui0_H_L_A 7ui0_I_M_B 7ui0_J_N_C
+cluster_2258	7uz4_H_L_A 7uz4_M_N_B 7uz4_P_Q_C
+cluster_2259	7uz5_H_L_A
+cluster_2260	7v2a_E_D_A 7v2a_G_F_B 7v2a_I_H_C
+cluster_2261	7vyt_B_C_A 7vyt_H_L_T
+cluster_2262	7we9_C_L_B 7we9_H_J_A 7we9_I_K_F 7wef_C_L_E
+cluster_2263	7wtf_G_J_C 7wtf_H_L_B 7wtf_I_K_D 7wtg_H_L_E
+cluster_2264	7wwm_H_L_A 7wwm_I_M_B 7wwm_J_N_C
+cluster_2265	7x8z_H_L_A
+cluster_2266	7x91_H_L_A
+cluster_2267	7zlk_H_L_D 7zlk_O_P_A 7zlk_Q_R_C
+cluster_2268	8cy6_D_NA_A 8cy6_E_NA_B 8cy6_F_NA_C
+cluster_2269	8dam_B_NA_A
+cluster_2270	1i8i_B_A_C 1i8k_B_A_C
+cluster_2271	1ar1_C_D_B 1qle_H_L_B 3ehb_C_D_B 3hb3_C_D_B
+cluster_2272	1qnz_H_L_P
+cluster_2273	1zv5_A_NA_L
+cluster_2274	3j8v_F_J_D 3j8v_G_K_C 3j8v_H_L_E
+cluster_2275	3k7u_A_NA_C
+cluster_2276	4pgj_A_NA_B 4u3x_A_NA_B
+cluster_2277	4ybq_D_C_B 4ybq_F_E_A
+cluster_2278	5g5r_B_NA_A 5g5x_B_NA_A
+cluster_2279	5jqh_C_NA_A 5jqh_D_NA_B 8w1v_D_NA_A 8w1v_F_NA_B
+cluster_2280	5l21_B_NA_A
+cluster_2281	5uoe_H_L_A 5uoe_M_N_B 5uoe_P_Q_C 5uoe_S_T_D 5uoe_V_W_E
+cluster_2282	5vxj_B_NA_A 5vxj_D_NA_C 5vxj_F_NA_E 5vxj_H_NA_G 5vxj_J_NA_I
+cluster_2283	5w9h_B_C_A 5w9h_E_F_D 5w9h_H_I_G 5w9i_C_D_A 5w9i_G_H_E 5w9i_K_L_I 5w9j_B_C_A 5w9j_E_F_D 5w9j_H_I_G 5w9k_B_C_A 5w9k_E_F_D 5w9k_H_I_G 5w9l_E_F_D 5w9l_H_I_G 5w9m_B_C_A 5w9m_H_I_G 5w9n_B_C_A 5w9n_E_F_D 5w9o_B_C_A 5w9o_E_F_D 5w9o_H_I_G 5w9p_D_E_B 5w9p_F_G_J 5w9p_K_L_H
+cluster_2284	5xs7_H_L_A
+cluster_2285	5xwd_H_D_A
+cluster_2286	6fe4_F_NA_A 6fe4_G_NA_B 6fe4_H_NA_C 6fe4_I_NA_D 6fe4_J_NA_E
+cluster_2287	6h16_B_NA_A
+cluster_2288	6hhu_G_NA_A
+cluster_2289	6j71_B_b_A
+cluster_2290	6lgw_A_B_E 6lgw_C_D_F
+cluster_2291	6lz2_B_NA_A 6lz2_D_NA_C
+cluster_2292	6obc_B_NA_A
+cluster_2293	6osv_H_L_K
+cluster_2294	6p62_C_D_B 6p62_F_G_E 6p62_H_L_A
+cluster_2295	6pcu_C_B_A 6pcu_F_E_D 6pcu_I_H_G
+cluster_2296	6qx4_C_NA_A 6qx4_E_NA_B
+cluster_2297	6u51_A_NA_D 6u51_C_NA_B 6u52_A_NA_B 6u52_C_NA_D
+cluster_2298	6x98_F_E_C 6x98_H_L_A 6x98_K_J_G
+cluster_2299	7c8v_A_NA_B
+cluster_2300	7cwt_E_D_A 7cwt_G_F_B 7cwt_I_J_C 7cyh_E_D_A 7cyp_E_D_A 7cyp_G_F_B 7cyp_I_H_C 7e5s_R_O_A
+cluster_2301	7dv4_B_NA_A 7dv4_D_NA_C 7dv4_F_NA_E 7dv4_H_NA_G
+cluster_2302	7ej4_H_L_A 7ej4_I_M_B 7ej4_J_N_C 7f62_H_L_A
+cluster_2303	7jv2_H_L_A 7jv4_D_E_B 7jv4_F_G_C 7jv4_H_L_A 7jv6_C_D_B 7jv6_F_G_E 7jv6_H_L_A
+cluster_2304	7k7i_H_L_A 7k7i_J_K_B 7k7i_M_N_C 7k7i_P_Q_D 7k7i_X_Y_E
+cluster_2305	7k9h_I_M_C 7k9i_H_L_A
+cluster_2306	7kgk_B_NA_A
+cluster_2307	7lss_H_L_B
+cluster_2308	7m30_M_N_C
+cluster_2309	7me7_A_NA_R 7n9t_D_NA_C 7n9t_E_NA_A 7n9t_F_NA_B
+cluster_2310	7mxp_G_J_B 7mxp_H_L_C 7mxp_I_K_A
+cluster_2311	7nvl_N_NA_E 7nvl_n_NA_e 7nvm_N_NA_E 7nvm_n_NA_e 7nvn_N_NA_E 7nvn_n_NA_e
+cluster_2312	7o0s_A_NA_B 7o3b_A_NA_G 7o3b_B_NA_H 7o3b_C_NA_I
+cluster_2313	7q1u_B_NA_A 7q6z_B_NA_A
+cluster_2314	7r4r_D_NA_C
+cluster_2315	6ni2_H_L_B 7srs_H_L_C
+cluster_2316	7tpg_H_L_B 7tpj_H_L_B
+cluster_2317	7u8g_D_E_A
+cluster_2318	7uar_D_E_A 7uar_F_G_C 7uar_H_L_B
+cluster_2319	7ura_H_L_A 7urc_H_L_A 7urd_H_L_A 7ure_H_L_A
+cluster_2320	7uz6_H_L_A 7uz6_M_N_B 7uz6_P_Q_C
+cluster_2321	7wcp_D_E_B 7wcp_H_L_A 7wcp_M_N_C 7wcu_A_B_R
+cluster_2322	7wee_H_L_E
+cluster_2323	7whi_G_NA_A 7whj_F_NA_B 7whk_D_NA_C 7whk_H_NA_A
+cluster_2324	7wry_H_L_R
+cluster_2325	7wrz_H_L_R 7x6a_G_J_D 7x6a_H_L_B 7x6a_I_K_A 7y0w_H_L_R
+cluster_2326	7x2g_H_L_B 7x2i_H_L_B 7x2o_H_L_B 7x37_H_L_B 7x46_H_L_B 7x47_H_L_B
+cluster_2327	7x2l_B_NA_E
+cluster_2328	7x7t_A_B_G 7x7u_A_B_G 7x7v_A_F_E
+cluster_2329	7x7t_C_D_G 7x7u_C_D_G 7x7v_C_D_E
+cluster_2330	7x90_E_F_G
+cluster_2331	8a1e_D_E_A
+cluster_2332	8c8t_C_D_A 8c8t_H_K_F
+cluster_2333	8dly_H_NA_C 8dlz_H_NA_C 8dm0_H_NA_C
+cluster_2334	8gjm_D_E_A
+cluster_2335	8s2e_H_L_C
+cluster_2336	2i26_N_NA_L 2i26_O_NA_M 2i26_P_NA_Q
+cluster_2337	2otu_B_A_P 2otu_D_C_Q 2otu_F_E_R 2otu_H_G_S 2otw_B_A_E 2otw_D_C_F
+cluster_2338	3j8w_F_J_D 3j8w_G_K_C 3j8w_H_L_E
+cluster_2339	4ios_D_NA_H 4ios_E_NA_A 4ios_F_NA_C 4ios_G_NA_B
+cluster_2340	4ksd_B_NA_A
+cluster_2341	4rav_A_B_E 4rav_C_D_F
+cluster_2342	5c1m_B_NA_A
+cluster_2343	5grj_H_L_A
+cluster_2344	5hm1_A_NA_D 5hm1_B_NA_E 5hm1_C_NA_F
+cluster_2345	5hvf_B_NA_A 5hvh_C_NA_A
+cluster_2346	5ken_C_D_B 5ken_G_H_F 5ken_N_O_M
+cluster_2347	5u8q_H_L_A 5u8r_H_L_A
+cluster_2348	6dzv_B_C_A 6dzz_B_C_A 7li6_B_C_A 7li7_B_C_A 7li8_B_C_A 7li9_B_C_A 7lia_B_C_A 7lwd_H_L_A 7mgw_B_C_A
+cluster_2349	6gjs_C_NA_A 6gju_B_NA_A
+cluster_2350	6h3t_H_L_A 6h3t_I_M_B
+cluster_2351	6h6y_E_NA_A 6h6y_F_NA_B 6h6y_G_NA_C 6h6y_H_NA_D
+cluster_2352	6j7w_A_NA_C 6j7w_B_NA_D
+cluster_2353	6qup_B_NA_A
+cluster_2354	6u59_F_E_C 6u59_H_L_A 6u59_K_J_G
+cluster_2355	6vc9_H_L_A
+cluster_2356	6vi4_C_NA_B 6vi4_D_NA_A
+cluster_2357	6vo1_G_J_C 6vo1_H_L_A 6vo1_I_K_D
+cluster_2358	6x4g_N_NA_C
+cluster_2359	6x97_E_F_C 6x97_H_L_A 6x97_J_K_G
+cluster_2360	6zxn_D_NA_A 6zxn_E_NA_B 6zxn_F_NA_C
+cluster_2361	7e9g_E_NA_R 7e9g_F_NA_S 7epb_C_NA_A 7epb_D_NA_B
+cluster_2362	7ey0_A_B_R
+cluster_2363	7fbi_N_M_A
+cluster_2364	7k8z_H_L_A 7k8z_M_N_C
+cluster_2365	7kkk_B_NA_A 7kkk_D_NA_C 7kkk_F_NA_E 7kkl_B_NA_A 7kkl_E_NA_C 7kkl_F_NA_D
+cluster_2366	7km5_C_NA_B 7km5_D_NA_A
+cluster_2367	7m6f_C_D_E 7m6f_H_L_A
+cluster_2368	7mep_I_G_E
+cluster_2369	7mhy_M_N_A
+cluster_2370	7r1z_C_NA_A 7r23_C_NA_A 7r24_C_NA_A
+cluster_2371	7r74_B_NA_C 7r74_D_NA_A
+cluster_2372	7ru3_E_F_B 7ru3_H_L_A 7ru4_H_L_A
+cluster_2373	7s7r_B_NA_A
+cluster_2374	7sl8_B_NA_A 7sla_B_NA_A
+cluster_2375	7sp6_C_NA_A 7sp7_C_NA_A 7sp8_C_NA_A 7sp9_C_NA_A 7spa_C_NA_A
+cluster_2376	7spo_C_NA_A 7spo_D_NA_B
+cluster_2377	7upa_B_E_G 7upa_C_F_D 7upa_H_L_A
+cluster_2378	7vnb_A_NA_B 7vnc_V_NA_C 7vnd_D_NA_A 7vnd_V_NA_C 7vne_U_NA_A 7vne_W_NA_C
+cluster_2379	7wb5_H_L_R 7wbh_O_Q_B 7wbh_P_S_C 7wbh_U_V_A
+cluster_2380	7we7_H_L_D 7we7_J_M_E 7we7_K_N_G 7wlc_H_L_E
+cluster_2381	7whi_D_NA_B 7whi_E_NA_C 7whi_F_NA_A 7whj_E_NA_B 7whk_E_NA_B 7whk_F_NA_C 7whk_G_NA_A
+cluster_2382	7wro_H_L_R
+cluster_2383	7wth_H_L_E 7wti_G_J_B 7wti_H_L_A 7wti_I_K_C
+cluster_2384	7wtj_H_L_E 7wtk_G_J_B 7wtk_H_L_C 7wtk_I_K_A
+cluster_2385	7wur_E_F_A 7wur_G_H_B
+cluster_2386	7yrn_D_E_A 7yrn_F_G_B 7yrn_H_I_C
+cluster_2387	7zr8_H_L_A 7zrc_F_G_B 7zrc_H_L_C 7zrc_J_K_A
+cluster_2388	8dzh_E_D_A 8dzh_H_L_C 8dzh_I_J_B 8dzi_B_D_A 8dzi_G_F_E 8dzi_H_L_C
+cluster_2389	8en4_C_NA_B 8en4_D_NA_A
+cluster_2390	2i25_N_NA_L 2i25_O_NA_M
+cluster_2391	2ybr_A_B_C 2ybr_D_E_F 2ybr_G_H_I 2yc1_A_B_C 2yc1_D_E_F 4v1d_A_B_C
+cluster_2392	3ab0_B_C_A 3ab0_E_F_D
+cluster_2393	3jau_H_L_A
+cluster_2394	4eig_B_NA_A
+cluster_2395	4w2o_A_NA_B 4w2o_C_NA_D 4w2o_E_NA_F 4w2o_G_NA_H
+cluster_2396	4y5y_A_B_C 4y5y_D_E_F
+cluster_2397	5dmj_B_NA_A 5dmj_E_NA_D 5dmj_G_NA_F 5ihl_B_NA_A 5ihl_E_NA_D 5ihl_G_NA_F 5ihl_I_NA_H
+cluster_2398	5jmo_C_NA_A 5jmo_D_NA_B
+cluster_2399	5ogi_B_b_A 6eqc_D_d_A 6eqc_E_e_B 6eqc_F_f_C
+cluster_2400	6c5w_C_NA_B 6c5w_E_NA_A
+cluster_2401	6djp_C_D_A
+cluster_2402	6mpg_3_4_A 6mpg_W_B_U 6mpg_X_Y_D
+cluster_2403	6obm_B_NA_A
+cluster_2404	6oq5_F_NA_A 6oq8_C_NA_B 6oq8_D_NA_A
+cluster_2405	6x07_B_NA_A
+cluster_2406	6d6t_J_I_B 6d6t_K_L_D 6d6u_J_I_B 6d6u_K_L_D 6x3s_J_I_B 6x3s_K_L_D 6x3t_J_I_B 6x3t_K_L_D 6x3u_J_I_B 6x3u_K_L_D 6x3v_J_I_B 6x3v_K_L_D 6x3w_J_I_B 6x3w_K_L_D 6x3x_J_I_B 6x3x_K_L_D 6x3z_J_I_B 6x3z_K_L_D 6x40_J_I_B 6x40_K_L_D 8dd2_J_I_B 8dd2_K_L_D 8dd3_J_I_B 8dd3_K_L_D 8vqy_J_I_B 8vqy_K_L_D 8vrn_J_I_B 8vrn_K_L_D
+cluster_2407	6xw7_C_NA_A 6xw7_D_NA_B 6xw7_G_NA_E 6xw7_H_NA_F
+cluster_2408	7apj_B_NA_A
+cluster_2409	7bc6_B_NA_A 7bc7_B_NA_A
+cluster_2410	7dst_E_NA_C
+cluster_2411	7f5g_B_NA_A 7f5g_D_NA_C
+cluster_2412	7jvb_C_NA_A 7jvb_D_NA_B 7mdw_A_NA_R 7mej_A_NA_R 7n9a_A_NA_E 7n9b_D_NA_A
+cluster_2413	7ki4_D_C_B 7ki4_G_F_E 7ki4_H_L_A
+cluster_2414	7ki6_D_C_B 7ki6_G_F_E 7ki6_H_L_A
+cluster_2415	7kji_A_NA_B
+cluster_2416	7l6v_D_NA_A
+cluster_2417	7ly0_H_L_A 7ly2_G_I_B 7ly2_H_L_A 7ly2_N_O_J
+cluster_2418	7m6i_M_N_A
+cluster_2419	7mdt_H_L_A
+cluster_2420	7qia_C_NA_A 7qic_C_NA_A 7qji_C_NA_A 7qji_F_NA_E 7qjj_C_NA_A 7qjj_F_NA_E
+cluster_2421	7sc1_H_L_A 7sc1_M_N_B 7sc1_P_Q_C
+cluster_2422	7sww_H_L_A 7swx_H_L_A
+cluster_2423	7te9_H_L_D 7te9_M_N_B 7teb_H_L_D 7teb_M_N_B 7tee_H_L_D 7tee_M_N_B
+cluster_2424	7tgi_B_NA_A
+cluster_2425	7th3_B_NA_A
+cluster_2426	7txz_E_F_A 7txz_H_L_B
+cluster_2427	7ul3_C_NA_A
+cluster_2428	7wvm_A_B_E 7wvm_C_D_F
+cluster_2429	7xmx_E_F_C 7xmx_H_I_A 7xmx_K_L_B 7xst_D_E_A 7xst_H_I_B 7xst_L_M_C
+cluster_2430	7yz9_B_NA_A 7yzi_C_NA_B 7yzi_D_NA_A 7yzi_E_NA_B 7yzk_C_NA_B 7yzk_D_NA_A
+cluster_2431	8a1e_B_C_A
+cluster_2432	8e99_E_NA_B
+cluster_2433	8erq_H_L_A 8err_E_F_C 8err_H_L_A 8err_I_J_B
+cluster_2434	8foi_H_L_A 8foi_J_K_C 8g4n_H_L_A 8g4n_J_K_C 8g4x_H_L_A 8g5f_J_K_C 8g5g_H_L_A 8g5h_J_K_C
+cluster_2435	8p5m_G_L_I
+cluster_2436	8v5a_U_NA_C 8v5a_W_NA_B 8v5a_Y_NA_A
+cluster_2437	8xea_A_B_E 8xea_G_I_F 8xea_H_J_D
+cluster_2438	1bvk_B_A_C 1bvk_E_D_F
+cluster_2439	1jhl_H_L_A
+cluster_2440	2z8v_C_NA_B 2z8v_D_NA_A 2z8w_C_NA_B 2z8w_D_NA_A
+cluster_2441	3cfi_C_NA_B 3cfi_F_NA_E 3cfi_I_NA_H 3cfi_L_NA_K
+cluster_2442	3k1k_C_NA_A 3k1k_D_NA_B 3ogo_E_NA_A 3ogo_F_NA_C 3ogo_G_NA_B 3ogo_H_NA_B
+cluster_2443	4kro_B_NA_A
+cluster_2444	4krp_B_NA_A
+cluster_2445	4lgp_B_NA_A 4lgp_D_NA_C
+cluster_2446	4m3k_B_NA_A
+cluster_2447	4w2q_A_NA_B 4w2q_C_NA_D 4w2q_E_NA_F 4w2q_G_NA_H
+cluster_2448	4xt1_C_NA_A
+cluster_2449	4z9k_B_NA_A
+cluster_2450	5fv2_A_NA_X 5fv2_B_NA_V 5fv2_C_NA_W
+cluster_2451	5lhr_B_NA_A
+cluster_2452	5mwn_N_NA_A
+cluster_2453	5o05_C_NA_B 5o05_D_NA_A
+cluster_2454	5o2u_B_NA_A 5o2u_D_NA_C 7n9v_B_NA_C 7n9v_E_NA_D 7n9v_F_NA_G 7n9v_H_NA_K 7n9v_J_NA_I 7n9v_L_NA_A
+cluster_2455	6cnv_C_NA_A
+cluster_2456	6gk4_C_NA_A 6gk4_F_NA_D
+cluster_2457	6i8h_B_NA_A
+cluster_2458	6obe_B_NA_A
+cluster_2459	6obg_C_NA_A 6obg_D_NA_B
+cluster_2460	6q6z_B_NA_A
+cluster_2461	6s8i_H_L_A 6s8i_P_O_C 6s8i_Y_U_E
+cluster_2462	6u55_A_NA_B
+cluster_2463	6ukt_F_NA_B
+cluster_2464	6x04_B_NA_A 6x04_D_NA_C 6x04_F_NA_E 6x04_H_NA_G 6x04_J_NA_I 6x04_L_NA_K
+cluster_2465	6xcm_H_L_C 6xcm_N_S_B 6xcn_B_D_A 6xcn_F_G_E 6xcn_H_L_C
+cluster_2466	7aqx_C_NA_A 7aqx_D_NA_B
+cluster_2467	7cz0_E_NA_A 7cz0_F_NA_B 7cz0_G_NA_C 7cz0_H_NA_D
+cluster_2468	7czd_A_NA_B 7czd_C_NA_D
+cluster_2469	7e8c_D_E_C 7e8c_N_P_B 7e8c_O_Q_A 7e8f_D_E_R
+cluster_2470	7ey0_H_L_R
+cluster_2471	7ezv_H_L_A
+cluster_2472	7fg2_D_NA_A 7fg3_D_NA_A
+cluster_2473	7la4_H_L_A
+cluster_2474	7lzp_C_NA_A 7lzp_F_NA_D
+cluster_2475	7m6g_H_L_C 7m6g_R_S_B
+cluster_2476	7nfq_C_NA_A 7nfq_D_NA_B
+cluster_2477	7rnn_C_NA_D
+cluster_2478	7sqp_B_NA_A 7sqp_D_NA_C 7sr0_B_NA_A 7sr0_D_NA_C 7sr3_B_NA_A 7sr3_D_NA_C 7sr4_B_NA_A 7sr4_D_NA_C 7sr5_B_NA_A 7sr5_D_NA_C 7srk_B_NA_A 7srk_D_NA_C 7ssh_B_NA_A 7ssh_D_NA_C 7ssh_F_NA_E 7ssh_H_NA_G 7ssh_J_NA_I 7ssh_L_NA_K 7ssh_N_NA_M 7ssh_P_NA_O 7ssh_R_NA_Q 7ssh_T_NA_S 7ssh_V_NA_U 7ssh_X_NA_W 7st3_B_NA_A 7st3_D_NA_C 7st3_F_NA_E 7st3_H_NA_G 7st3_J_NA_I 7st3_L_NA_K 7st3_N_NA_M 7st3_P_NA_O 7st3_R_NA_Q 7st3_T_NA_S 7st3_V_NA_U 7stg_B_NA_A 7stg_D_NA_C 7stg_F_NA_E 7stg_H_NA_G 7stg_J_NA_I 7stg_L_NA_K 7stg_N_NA_M 7stg_P_NA_O 7stg_R_NA_Q 7stg_T_NA_S 7stg_V_NA_U 7stg_X_NA_W
+cluster_2479	7t5f_B_NA_A 7t5f_E_NA_D
+cluster_2480	7uz7_H_L_A 7uz7_M_N_B 7uz7_P_Q_C 7uz8_H_L_A 7uz8_M_N_B 7uz8_P_Q_C
+cluster_2481	7vq0_D_NA_A 7vq0_E_NA_B 7vq0_F_NA_C
+cluster_2482	7xqv_B_NA_A
+cluster_2483	8di5_H_NA_C
+cluster_2484	3jba_H_L_A 6bsp_A_B_D
+cluster_2485	3jcx_H_L_A
+cluster_2486	3k74_B_NA_A
+cluster_2487	5f3j_C_c_A 5f3j_D_d_B
+cluster_2488	5f7k_C_NA_A 5f7k_D_NA_B 5f7m_C_NA_A 5f7m_D_NA_B 5f7n_C_NA_A 5f7n_D_NA_B 5f7w_C_NA_A 5f7w_D_NA_B 5f7y_C_NA_A 5f7y_D_NA_B 5f8q_C_NA_A 5f8q_D_NA_B 5f8r_C_NA_A 5f8r_D_NA_B 5f93_C_NA_A 5f93_D_NA_B 5f93_F_NA_E 5f93_H_NA_G 5f97_E_NA_A 5f97_F_NA_B 5f97_G_NA_C 5f97_H_NA_D 5f9a_C_NA_A 5f9d_C_NA_A
+cluster_2489	5kve_H_L_E
+cluster_2490	5m2j_D_NA_A
+cluster_2491	5my6_B_NA_A
+cluster_2492	5ngv_H_L_A 5nh3_H_L_A 5nh3_I_M_B 5nhr_A_B_D 5nhr_H_L_C
+cluster_2493	5vxl_B_NA_A
+cluster_2494	6app_A_NA_B
+cluster_2495	6djp_E_F_B
+cluster_2496	6gwn_B_NA_A 6gwp_B_NA_A 6gwq_B_NA_A 7aqg_B_NA_A
+cluster_2497	6i07_A_a_C 6i07_B_b_D
+cluster_2498	6iec_C_D_B 6iec_F_G_E 6iec_H_L_A 6iec_J_K_I
+cluster_2499	7k65_B_NA_A
+cluster_2500	7l6v_B_NA_A
+cluster_2501	7mfu_B_NA_A 7mfu_E_NA_D
+cluster_2502	7mlu_F_K_E 7mlu_G_J_B 7mlu_H_I_C 7mlu_L_M_A 7mlu_N_O_D 7mlv_F_NA_D 7mlv_G_J_B 7mlv_H_I_C 7mlv_L_M_A 7mly_G_J_B 7mly_H_I_C 7mly_L_M_A
+cluster_2503	7ndc_D_E_C 7ndc_F_G_A 7ndc_H_L_B 7ndd_D_E_C 7ndd_F_G_A 7ndd_H_L_B
+cluster_2504	7ngh_D_NA_B
+cluster_2505	7ocj_B_NA_D 7ocj_E_NA_C 7ocj_G_NA_A 7ocj_H_NA_F
+cluster_2506	7ssz_E_NA_A 7ssz_F_NA_B 7ssz_G_NA_C 7ssz_H_NA_D 8dfl_E_NA_A 8dfl_F_NA_B 8dfl_G_NA_C 8dfl_H_NA_D
+cluster_2507	7t5f_C_NA_A 7t5f_F_NA_D
+cluster_2508	8g79_M_NA_B 8g79_O_NA_A
+cluster_2509	1ktr_H_L_P
+cluster_2510	2uzi_H_L_R 2vh5_H_L_R
+cluster_2511	2xt1_B_NA_A 2xv6_B_NA_A 2xv6_D_NA_C 2xxm_B_NA_A
+cluster_2512	3j8z_F_J_D 3j8z_G_K_C 3j8z_H_L_E
+cluster_2513	4orz_C_NA_B
+cluster_2514	4qxt_A_B_Q 4qy8_A_B_Q 4qyo_A_B_Q 4r3s_A_B_Q
+cluster_2515	4x7f_C_NA_A 4x7f_D_NA_B
+cluster_2516	5f21_B_NA_A
+cluster_2517	5tbd_A_B_C 5tbd_D_G_H 5tbd_E_F_I 5tbd_J_K_L
+cluster_2518	6b20_F_NA_A
+cluster_2519	6e1k_D_C_B 6e1k_F_E_A
+cluster_2520	6fuz_N_NA_A 6fv0_F_NA_A
+cluster_2521	6ui1_B_NA_A 6ul6_C_NA_A
+cluster_2522	7a25_D_NA_A 7a25_E_NA_B 7a25_F_NA_C 7a29_D_NA_A 7a29_E_NA_B 7a29_F_NA_C
+cluster_2523	7e39_C_B_A
+cluster_2524	7m30_H_L_B
+cluster_2525	7m3n_H_L_A
+cluster_2526	7mdu_H_L_A
+cluster_2527	7p5v_G_NA_A 7p5v_H_NA_B 7p5v_I_NA_C 7p5v_J_NA_D 7p5v_K_NA_E 7p5v_L_NA_F 8b41_G_NA_A 8b41_H_NA_B 8b41_I_NA_C 8b41_J_NA_D
+cluster_2528	7p6k_G_NA_B 7p6k_H_NA_D 7p6k_I_NA_F
+cluster_2529	7p77_A_NA_B 7p77_D_NA_C 7p77_H_NA_E 7p78_B_NA_A 7p78_D_NA_C 7p78_H_NA_E 7p79_B_NA_C 7p79_D_NA_E 7p79_H_NA_A
+cluster_2530	7s83_A_NA_C
+cluster_2531	7usl_H_L_C
+cluster_2532	7y9t_C_NA_A 7y9t_D_NA_B 7y9u_C_NA_A 7y9u_D_NA_B 7y9v_C_NA_A 7y9v_D_NA_B
+cluster_2533	2eiz_B_A_C 2eks_B_A_C 2yss_B_A_C
+cluster_2534	5c6t_H_L_A
+cluster_2535	5dfz_E_NA_C
+cluster_2536	6ba5_B_A_M 6ba5_D_C_N 6ba5_F_E_O 6ba5_H_G_P 6ban_B_A_M 6ban_D_C_N 6ban_F_E_O 6ban_H_G_P
+cluster_2537	6j14_A_B_G
+cluster_2538	1p4b_H_L_P 6k65_H_L_A
+cluster_2539	6nfj_B_NA_A 6nfj_E_NA_D
+cluster_2540	6osh_H_L_K
+cluster_2541	6tyl_J_NA_F
+cluster_2542	6u54_A_NA_B
+cluster_2543	6x96_E_F_C 6x96_H_L_A 6x96_J_K_G
+cluster_2544	7a4d_C_NA_E 7a4d_D_NA_F 7a4d_I_NA_L 7a4d_J_NA_K
+cluster_2545	7fbj_B_NA_A 7fbj_D_NA_C 7fbj_F_NA_E 7fbj_L_NA_K 7fbj_N_NA_M 7fbj_P_NA_O
+cluster_2546	7fbk_C_NA_A 7fbk_D_NA_B
+cluster_2547	7mhy_O_P_A 7mhz_O_P_A 7urf_O_P_A
+cluster_2548	7mkl_H_L_A 7mkm_H_L_A
+cluster_2549	7nd3_H_L_B
+cluster_2550	7ndf_C_NA_B 7ndf_D_NA_A 7ph2_C_NA_B 7ph2_D_NA_A 7ph3_C_NA_B 7ph3_D_NA_A 7ph4_C_NA_B 7ph4_D_NA_A 7ph7_C_NA_B 7ph7_D_NA_A
+cluster_2551	8dke_A_B_P 8dki_A_B_P 8dkm_A_B_P 8dkw_A_B_P 8dkx_A_B_P
+cluster_2552	1qfw_H_L_A
+cluster_2553	1sq2_N_NA_L 1t6v_N_NA_L 1t6v_O_NA_M
+cluster_2554	4r0l_A_B_C 4r0l_H_L_D
+cluster_2555	5da0_B_NA_A
+cluster_2556	5o04_E_NA_B 5o04_F_NA_A
+cluster_2557	5omn_C_NA_B
+cluster_2558	6ssi_F_NA_A 6ssi_G_NA_B 6ssi_H_NA_C 6ssi_I_NA_D 6ssi_J_NA_E
+cluster_2559	6tyl_C_NA_A 6tyl_H_NA_F 6ukt_C_NA_A
+cluster_2560	7azb_B_NA_A
+cluster_2561	7ks9_H_L_B
+cluster_2562	7paf_B_NA_D 7paf_C_NA_A
+cluster_2563	7qe5_B_NA_A
+cluster_2564	7s83_B_NA_C
+cluster_2565	3zkx_C_NA_A
+cluster_2566	4u3x_C_NA_D
+cluster_2567	5e5m_B_NA_A 5e5m_D_NA_C 5e5m_F_NA_E 5e5m_H_NA_G
+cluster_2568	5tqq_H_L_A 5tqq_I_M_B 5tr1_H_L_A 5tr1_I_M_B
+cluster_2569	7l1v_S_NA_R
+cluster_2570	7lue_H_L_A 7lue_I_M_B 7lue_J_N_C
+cluster_2571	7upm_B_NA_A
+cluster_2572	7w1s_B_NA_A
+cluster_2573	5ip4_A_NA_E 5ip4_B_NA_D
+cluster_2574	7lzp_G_NA_A 7lzp_H_NA_D
+cluster_2575	7qcq_A_NA_B
+cluster_2576	7spp_C_NA_A
+cluster_2577	7t3d_H_L_B 7t3d_O_Q_G 7t3d_P_R_I
+cluster_2578	4pgj_C_NA_D
+cluster_2579	5l8j_B_NA_A 5l8k_B_NA_A 5l8l_B_NA_A
+cluster_2580	6oq5_E_NA_A 6oq7_C_NA_A
+cluster_2581	7d3k_H_L_2
+cluster_2582	7e3c_B_C_A
+cluster_2583	7r7n_H_L_E
+cluster_2584	8be5_N_NA_A
+cluster_2585	7pqq_B_NA_A
+cluster_2586	7e23_B_C_A
+cluster_2587	5h8o_A_NA_B
+cluster_2588	6tyl_E_NA_A 6ukt_E_NA_A
+cluster_2589	7fbi_H_L_A
+cluster_2590	4x7d_C_NA_B
+cluster_2591	5kov_W_w_S
+cluster_2592	6aj9_D_E_A
+cluster_2593	4hgk_C_NA_B 4hgk_D_NA_A
+cluster_2594	7m1h_G_NA_A
+cluster_2595	8dyp_B_NA_A
+cluster_2596	7ty0_J_N_D
+cluster_2597	7byr_H_L_B
+cluster_2598	7nil_F_NA_A
+cluster_2599	7nj5_F_NA_A
+cluster_2600	7ty0_K_O_C
+cluster_2601	6idi_H_L_D 6idi_I_J_E 6idi_M_N_F 6idk_H_L_D 6idk_I_J_E 6idk_M_N_F 6idl_I_J_E 6idl_M_N_F
+cluster_2602	7nj7_F_NA_A
+cluster_2603	7uov_D_E_B 7uov_F_G_C 7uov_H_L_A
+cluster_2604	7wuj_N_NA_A
+cluster_2605	7nj3_F_NA_A
+cluster_2606	7nki_F_NA_A
+cluster_2607	5kov_Q_q_N
+cluster_2608	7aqz_D_NA_A
+cluster_2609	7nk4_F_NA_A
+cluster_2610	7t92_H_L_B
+cluster_2611	7ul5_D_NA_A
+cluster_2612	6do1_F_NA_B
+cluster_2613	7ul4_D_NA_A
+cluster_2614	7ul2_D_NA_R
+cluster_2615	6do1_E_NA_A
+cluster_2616	9bjk_N_NA_R
+cluster_2617	7nvo_N_NA_E 7nvo_n_NA_e
+cluster_2618	7ru6_L_NA_A 7rug_L_NA_A

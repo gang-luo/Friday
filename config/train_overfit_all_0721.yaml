@@ -14,7 +14,7 @@ data:
   max_antigen_len: 256  # 384
 
 model:
-  ppi_ckpt: "/root/private_data/luog/codex/IgGM/checkpoints/esm_ppi_650m_ab.pth"
+  ppi_ckpt: "/data/projects/lg/Friday/checkpoints/esm_ppi_650m_ab.pth"
   design_ckpt: ""
 
 diffusion:
@@ -74,12 +74,12 @@ trainer:
 wandb:
   disabled: false # true or false
   project: IgGM
-  run_name: Iggm_lightning_training_all_0908
+  run_name: Friday_0919
   entity: "mllm-csu"
   api_key: "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"
 
 runtime:
-  output_dir: outputs/Iggm_lightning_training_all_0908
+  output_dir: outputs/Friday_0919
   seed: 56
   resume: false
   run_test: true
